@@ -1,6 +1,6 @@
 # Old Norse Grammaticality Judgment Evaluation
 
-A statistically rigorous benchmark for evaluating Large Language Models on Old Norse grammatical competence using minimal pairs with comprehensive error analysis.
+A statistically rigorous benchmark for evaluating Large Language Models (LLMs) on Old Norse grammatical competence using minimal pairs with comprehensive error analysis.
 
 ## Introduction
 
@@ -11,104 +11,96 @@ This project evaluates how well modern LLMs understand Old Norse grammar through
 - Which grammatical phenomena are most challenging for LLMs?
 - How do different model architectures compare on morphologically rich languages?
 
-**Key Findings (Statistically Validated):**
-- **llama-3.3-70b-versatile** achieves highest accuracy (78.6%)
-- **MIDDLE_VOICE** is definitively the hardest phenomenon (54.4% avg, p<0.001)
-- **OpenAI models catastrophically fail** on middle voice (42.4% vs 66.4% Llama, p<0.001)
-- **77-83% of middle voice errors** involve systematic -sk/-st suffix removal
-- **Architecture matters more than size**: 70B Llama > 120B OpenAI
+## Key Findings (Statistically Validated)
 
-## Background: Old Norse Grammar Phenomena
+- **llama-3.3-70b-versatile** achieves the highest accuracy (**78.6%**).
+- **MIDDLE_VOICE** is definitively the hardest phenomenon (54.4% avg, p<0.001).
+- **OpenAI models catastrophically fail** on middle voice (42.4% avg vs 66.4% for Llama, p<0.001).
+- **77-83% of middle voice errors** involve systematic `-sk`/`-st` suffix removal.
+- **Architecture matters more than size**: 70B Llama > 120B OpenAI.
 
-### 1. Quirky Case (QUIRKY_CASE)
-Old Norse has "quirky subjects" - verbs that require dative or genitive subjects instead of nominative.
-- **Grammatical:** *Honum líkar maturinn* (Him.DAT likes the-food) "He likes the food"
+## Grammatical Phenomena Tested
+
+### 1. Quirky Case (`QUIRKY_CASE`)
+Old Norse has verbs that require dative or genitive subjects instead of nominative.
+- **Grammatical:** *Honum líkar maturinn* (Him.DAT likes the-food)
 - **Ungrammatical:** *Hann líkar maturinn* (He.NOM likes the-food)
 
-### 2. U-Umlaut (UMLAUT)
+### 2. U-Umlaut (`UMLAUT`)
 Vowel mutation where /a/ becomes /ǫ/ before /u/ in the following syllable.
 - **Grammatical:** *lǫnd* (lands, plural)
 - **Ungrammatical:** *land* (when plural is required)
 
-### 3. Middle Voice (MIDDLE_VOICE)
-Reflexive/middle voice marked by -sk/-st suffix on verbs.
+### 3. Middle Voice (`MIDDLE_VOICE`)
+Reflexive/middle voice marked by `-sk`/`-st` suffix on verbs.
 - **Grammatical:** *Hann kallask Óláfr* (He calls-himself Olaf)
 - **Ungrammatical:** *Hann kallar Óláfr* (missing reflexive)
 
-### 4. Adjective Declension (ADJECTIVE)
+### 4. Adjective Declension (`ADJECTIVE`)
 Strong vs weak adjective forms depending on definiteness.
 - **Grammatical:** *inn gamli maðr* (the old.WEAK man)
 - **Ungrammatical:** *inn gamall maðr* (the old.STRONG man)
 
+## Workspace Structure
+
+The project has been cleaned of redundant experimental scripts, leaving the core pipeline:
+
+```text
+├── create_minimal_pairs.py        # Dataset generation logic
+├── evaluate_models.py             # Model evaluation script
+├── comprehensive_error_analysis.py # Statistical validation script
+├── generate_analysis_plots.py     # Data visualization
+├── minimal_pairs.csv              # The 500-pair benchmark dataset
+├── evaluation_results_*.csv       # Raw evaluation data per model
+├── ANALYSIS.md                    # Detailed statistical error analysis
+├── RESULTS.md                     # Executive summary of findings
+└── requirements.txt               # Python dependencies
+```
+
+## Usage
+
+### 1. Installation
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Run Analysis
+To reproduce the statistical validation findings:
+```bash
+python comprehensive_error_analysis.py
+```
+
+### 3. Generate Visualizations
+To recreate the analysis plots:
+```bash
+python generate_analysis_plots.py
 ```
 
 ## Models Evaluated
 
-| Model | Provider | Parameters |
-|-------|----------|------------|
-| openai/gpt-oss-120b | Groq | 120B |
-| openai/gpt-oss-20b | Groq | 20B |
-| llama-3.3-70b-versatile | Groq | 70B |
-| llama-3.1-8b-instant | Groq | 8B |
-
-## Evaluation Method
-
-**Task:** Forced-choice grammaticality judgment
-
-**Prompt Format:**
-```
-Which of the following Old Norse sentences is grammatically correct?
-
-A: [sentence1]
-B: [sentence2]
-
-Answer with A or B only.
-```
-
-- Order randomized (50% A grammatical, 50% B grammatical)
-- Temperature: 0.1 (Llama) / 1.0 (OpenAI models)
-- 500 pairs × 4 models = 2000 evaluations
-
-
-## Reproducibility
-
-All findings are **fully reproducible**:
-1. Dataset generation uses fixed random seeds
-2. Statistical tests include p-values and effect sizes
-3. All plots generated from raw evaluation data
-4. Complete code provided for validation
-
-**Validation Scripts:**
-- `comprehensive_error_analysis.py`: Analyzes ALL 2000 evaluations
-- `generate_analysis_plots.py`: Creates evidence-based visualizations
-- All claims backed by statistical significance tests
+| Model | Parameters | Provider |
+|-------|------------|----------|
+| llama-3.3-70b-versatile | 70B | Groq |
+| openai/gpt-oss-120b | 120B | Groq |
+| llama-3.1-8b-instant | 8B | Groq |
+| openai/gpt-oss-20b | 20B | Groq |
 
 ## Results Summary
 
-**Statistically Validated Findings:**
-
 | Model | Overall Accuracy | Best Phenomenon | Worst Phenomenon |
 |-------|------------------|-----------------|------------------|
-| llama-3.3-70b-versatile | **78.6%** | MIDDLE_VOICE (85.6%) | UMLAUT (68.0%) |
-| openai/gpt-oss-120b | 74.6% | ADJECTIVE (84.8%) | MIDDLE_VOICE (48.0%) |
-| llama-3.1-8b-instant | 61.2% | ADJECTIVE (68.8%) | MIDDLE_VOICE (47.2%) |
-| openai/gpt-oss-20b | 57.8% | ADJECTIVE (80.0%) | MIDDLE_VOICE (36.8%) |
+| llama-3.3-70b | **78.6%** | MIDDLE_VOICE (85.6%) | UMLAUT (68.0%) |
+| openai-120b | 74.6% | ADJECTIVE (84.8%) | MIDDLE_VOICE (48.0%) |
+| llama-3.1-8b | 61.2% | ADJECTIVE (68.8%) | MIDDLE_VOICE (47.2%) |
+| openai-20b | 57.8% | ADJECTIVE (80.0%) | MIDDLE_VOICE (36.8%) |
 
-**Key Statistical Findings:**
-- **Phenomenon Difficulty** (statistically significant differences):
-  1. MIDDLE_VOICE: 54.4% (hardest)
-  2. UMLAUT: 65.0%
-  3. QUIRKY_CASE: 75.0%
-  4. ADJECTIVE: 77.8% (easiest)
+## Visual Evidence
 
-- **Middle Voice Systematic Failure**: 77-83% of errors involve -sk/-st suffix removal
-- **Response Bias Detected**: llama-3.1-8b shows 73% A-choice bias (χ²=107.648, p<0.001)
-- **Architecture > Size**: 70B Llama outperforms 120B OpenAI by 4.0 percentage points
+| Metric | Visualization |
+|--------|---------------|
+| **Overall Accuracy** | ![Accuracy](plot_overall_accuracy.png) |
+| **Middle Voice Failure** | ![Middle Voice](analysis_middle_voice_failure.png) |
+| **Architecture vs Size** | ![Arch vs Size](analysis_architecture_vs_size.png) |
 
-See [RESULTS.md](RESULTS.md) for detailed analysis and [ANALYSIS.md](ANALYSIS.md) for statistical validation.
-
-
-
-
-
-
+---
+*See [RESULTS.md](RESULTS.md) for detailed performance breakdowns and [ANALYSIS.md](ANALYSIS.md) for linguistic depth.*
