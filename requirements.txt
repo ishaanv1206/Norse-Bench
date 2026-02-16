@@ -1,0 +1,8 @@
+norsecorpus
+python-dotenv
+groq
+pandas
+matplotlib
+seaborn
+tqdm
+hypothesis

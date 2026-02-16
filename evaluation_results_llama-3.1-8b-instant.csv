@@ -1,0 +1,3001 @@
+﻿pair_id,model,phenomenon,grammatical,ungrammatical,prompt,response,choice,correct,order
+ON_QUIRKY_CASE_001,llama-3.1-8b-instant,QUIRKY_CASE,"Hér hefr upp ok segir frá þeim manni , er Sigi er nefndr ok kallaðr , at héti sonr Óðins .","Hér hefr upp ok segir frá þeir manni , er Sigi er nefndr ok kallaðr , at héti sonr Óðins .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér hefr upp ok segir frá þeir manni , er Sigi er nefndr ok kallaðr , at héti sonr Óðins .
+B: Hér hefr upp ok segir frá þeim manni , er Sigi er nefndr ok kallaðr , at héti sonr Óðins .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_002,llama-3.1-8b-instant,QUIRKY_CASE,"Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .","Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr hann at vega þrjú jafnvægi gulls .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr hann at vega þrjú jafnvægi gulls .
+B: Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_003,llama-3.1-8b-instant,QUIRKY_CASE,"Ok er hann kemr aptr , segir hann henni , at dauðr sé einn þeira .","Ok er hann kemr aptr , segir hann hon , at dauðr sé einn þeira .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok er hann kemr aptr , segir hann henni , at dauðr sé einn þeira .
+B: Ok er hann kemr aptr , segir hann hon , at dauðr sé einn þeira .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_004,llama-3.1-8b-instant,QUIRKY_CASE,"En er þeir koma , þá segir hann þeim allan atburð hvé farit hafði með þeim ok ylginni .","En er þeir koma , þá segir hann þeir allan atburð hvé farit hafði með þeim ok ylginni .","Which of the following Old Norse sentences is grammatically correct?
+
+A: En er þeir koma , þá segir hann þeir allan atburð hvé farit hafði með þeim ok ylginni .
+B: En er þeir koma , þá segir hann þeim allan atburð hvé farit hafði með þeim ok ylginni .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_005,llama-3.1-8b-instant,QUIRKY_CASE,"Nú hleypr hann í höllina innar fyrir föður sinn ok segir honum , hvat hann hefir sét .","Nú hleypr hann í höllina innar fyrir föður sinn ok segir hann , hvat hann hefir sét .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú hleypr hann í höllina innar fyrir föður sinn ok segir honum , hvat hann hefir sét .
+B: Nú hleypr hann í höllina innar fyrir föður sinn ok segir hann , hvat hann hefir sét .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_006,llama-3.1-8b-instant,QUIRKY_CASE,"Ok er nátta tekr , þá mælti Sinfjötli til Sigmundar : `` Ekki ætla ek okkr mat skorta um hríð .","Ok er nátta tekr , þá mælti Sinfjötli til Sigmundar : `` Ekki ætla ek vit mat skorta um hríð .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok er nátta tekr , þá mælti Sinfjötli til Sigmundar : `` Ekki ætla ek vit mat skorta um hríð .
+B: Ok er nátta tekr , þá mælti Sinfjötli til Sigmundar : `` Ekki ætla ek okkr mat skorta um hríð .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_007,llama-3.1-8b-instant,QUIRKY_CASE,"Sinfjötli svarar : `` Hvárt mantu þat , er þú vart merrin með hestinum Grana , ok reið ek þér á skeið á Brávelli ?","Sinfjötli svarar : `` Hvárt mantu þat , er þú vart merrin með hestinum Grana , ok reið ek þú á skeið á Brávelli ?","Which of the following Old Norse sentences is grammatically correct?
+
+A: Sinfjötli svarar : `` Hvárt mantu þat , er þú vart merrin með hestinum Grana , ok reið ek þú á skeið á Brávelli ?
+B: Sinfjötli svarar : `` Hvárt mantu þat , er þú vart merrin með hestinum Grana , ok reið ek þér á skeið á Brávelli ?
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_008,llama-3.1-8b-instant,QUIRKY_CASE,Þeir mættust í borgarhliði ok segja honum hersögu .,Þeir mættust í borgarhliði ok segja hann hersögu .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mættust í borgarhliði ok segja honum hersögu .
+B: Þeir mættust í borgarhliði ok segja hann hersögu .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_009,llama-3.1-8b-instant,QUIRKY_CASE,"Þá var konungr drukkinn mjök , ok því sagði hann svá .","Þá var konungr drukkinn mjök , ok þat sagði hann svá .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá var konungr drukkinn mjök , ok þat sagði hann svá .
+B: Þá var konungr drukkinn mjök , ok því sagði hann svá .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_010,llama-3.1-8b-instant,QUIRKY_CASE,"Ambáttin hefir svör fyrir þeim ok segir fall Sigmundar konungs ok Eylima konungs ok margs annars stórmennis ok svá , hverir gert hafa .","Ambáttin hefir svör fyrir þeir ok segir fall Sigmundar konungs ok Eylima konungs ok margs annars stórmennis ok svá , hverir gert hafa .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ambáttin hefir svör fyrir þeim ok segir fall Sigmundar konungs ok Eylima konungs ok margs annars stórmennis ok svá , hverir gert hafa .
+B: Ambáttin hefir svör fyrir þeir ok segir fall Sigmundar konungs ok Eylima konungs ok margs annars stórmennis ok svá , hverir gert hafa .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_011,llama-3.1-8b-instant,QUIRKY_CASE,Hún svarar honum : `` Faðir minn gaf mér eitt gull lítit við náttúru .,Hún svarar honum : `` Faðir minn gaf ek eitt gull lítit við náttúru .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hún svarar honum : `` Faðir minn gaf mér eitt gull lítit við náttúru .
+B: Hún svarar honum : `` Faðir minn gaf ek eitt gull lítit við náttúru .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_012,llama-3.1-8b-instant,QUIRKY_CASE,"Frá honum segja allir eitt , at um atferð ok vöxt var engi hans maki .","Frá hann segja allir eitt , at um atferð ok vöxt var engi hans maki .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Frá honum segja allir eitt , at um atferð ok vöxt var engi hans maki .
+B: Frá hann segja allir eitt , at um atferð ok vöxt var engi hans maki .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_013,llama-3.1-8b-instant,QUIRKY_CASE,Reginn mælti : `` Trúir þú þeim allvel ? '',Reginn mælti : `` Trúir þú þeir allvel ? '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Reginn mælti : `` Trúir þú þeir allvel ? ''
+B: Reginn mælti : `` Trúir þú þeim allvel ? ''
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_014,llama-3.1-8b-instant,QUIRKY_CASE,Reginn mælti : `` Bið hann gefa þér einn hest . '',Reginn mælti : `` Bið hann gefa þú einn hest . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Reginn mælti : `` Bið hann gefa þú einn hest . ''
+B: Reginn mælti : `` Bið hann gefa þér einn hest . ''
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_015,llama-3.1-8b-instant,QUIRKY_CASE,"Reginn svarar : `` Saga er til þess , ok mun ek segja þér . ''","Reginn svarar : `` Saga er til þess , ok mun ek segja þú . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Reginn svarar : `` Saga er til þess , ok mun ek segja þér . ''
+B: Reginn svarar : `` Saga er til þess , ok mun ek segja þú . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_016,llama-3.1-8b-instant,QUIRKY_CASE,"Ok þótt þú segir mér eigi þitt nafn á banadægri mínu , þá veiztu , at þú lýgr nú . ''","Ok þótt þú segir ek eigi þitt nafn á banadægri mínu , þá veiztu , at þú lýgr nú . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok þótt þú segir mér eigi þitt nafn á banadægri mínu , þá veiztu , at þú lýgr nú . ''
+B: Ok þótt þú segir ek eigi þitt nafn á banadægri mínu , þá veiztu , at þú lýgr nú . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_017,llama-3.1-8b-instant,QUIRKY_CASE,"Önnur segir : `` Þar liggr Reginn ok vill véla þann , sem honum trúir . ''","Önnur segir : `` Þar liggr Reginn ok vill véla þann , sem hann trúir . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Önnur segir : `` Þar liggr Reginn ok vill véla þann , sem hann trúir . ''
+B: Önnur segir : `` Þar liggr Reginn ok vill véla þann , sem honum trúir . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_018,llama-3.1-8b-instant,QUIRKY_CASE,"Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .","Ok trú ekki þeir , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok trú ekki þeir , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .
+B: Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_019,llama-3.1-8b-instant,QUIRKY_CASE,"Álsviðr býðr honum með sér at vera ok af sér at þiggja slíkt , er hann vill .","Álsviðr býðr hann með sér at vera ok af sér at þiggja slíkt , er hann vill .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Álsviðr býðr hann með sér at vera ok af sér at þiggja slíkt , er hann vill .
+B: Álsviðr býðr honum með sér at vera ok af sér at þiggja slíkt , er hann vill .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_020,llama-3.1-8b-instant,QUIRKY_CASE,"`` Hana skal ek hitta , '' sagði Sigurðr , `` ok gefa henni gull ok ná hennar gamni ok jafnaðarþokka . ''","`` Hana skal ek hitta , '' sagði Sigurðr , `` ok gefa hon gull ok ná hennar gamni ok jafnaðarþokka . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: `` Hana skal ek hitta , '' sagði Sigurðr , `` ok gefa henni gull ok ná hennar gamni ok jafnaðarþokka . ''
+B: `` Hana skal ek hitta , '' sagði Sigurðr , `` ok gefa hon gull ok ná hennar gamni ok jafnaðarþokka . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_021,llama-3.1-8b-instant,QUIRKY_CASE,"Hún svarar : `` Seg mér ok lát þik eigi hryggja , því at jafnan dreymir fyrir veðrum . ''","Hún svarar : `` Seg ek ok lát þik eigi hryggja , því at jafnan dreymir fyrir veðrum . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hún svarar : `` Seg mér ok lát þik eigi hryggja , því at jafnan dreymir fyrir veðrum . ''
+B: Hún svarar : `` Seg ek ok lát þik eigi hryggja , því at jafnan dreymir fyrir veðrum . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_022,llama-3.1-8b-instant,QUIRKY_CASE,"En af því kom ek hér at segja þér drauma mína , er mér fengu mikillar áhyggju . ''","En af þat kom ek hér at segja þér drauma mína , er mér fengu mikillar áhyggju . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: En af þat kom ek hér at segja þér drauma mína , er mér fengu mikillar áhyggju . ''
+B: En af því kom ek hér at segja þér drauma mína , er mér fengu mikillar áhyggju . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_023,llama-3.1-8b-instant,QUIRKY_CASE,"Grímhildr gefr honum meinblandinn mjöð , er öllum oss kemr í mikit stríð .","Grímhildr gefr hann meinblandinn mjöð , er öllum oss kemr í mikit stríð .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Grímhildr gefr honum meinblandinn mjöð , er öllum oss kemr í mikit stríð .
+B: Grímhildr gefr hann meinblandinn mjöð , er öllum oss kemr í mikit stríð .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_024,llama-3.1-8b-instant,QUIRKY_CASE,"Konungr svarar : `` Fátítt er þat at bjóða fram dætr sínar , en meiri vegr er at bjóða honum en aðrir biði . ''","Konungr svarar : `` Fátítt er þat at bjóða fram dætr sínar , en meiri vegr er at bjóða hann en aðrir biði . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr svarar : `` Fátítt er þat at bjóða fram dætr sínar , en meiri vegr er at bjóða hann en aðrir biði . ''
+B: Konungr svarar : `` Fátítt er þat at bjóða fram dætr sínar , en meiri vegr er at bjóða honum en aðrir biði . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_025,llama-3.1-8b-instant,QUIRKY_CASE,"Hann tók þá af henni hringinn Andvaranaut , er hann gaf henni , en fekk henni nú annan hring af Fáfnis arfi .","Hann tók þá af henni hringinn Andvaranaut , er hann gaf hon , en fekk henni nú annan hring af Fáfnis arfi .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann tók þá af henni hringinn Andvaranaut , er hann gaf hon , en fekk henni nú annan hring af Fáfnis arfi .
+B: Hann tók þá af henni hringinn Andvaranaut , er hann gaf henni , en fekk henni nú annan hring af Fáfnis arfi .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_026,llama-3.1-8b-instant,QUIRKY_CASE,"Þá hugsaða ek með mér , hvárt ek skylda hlýða hans vilja eða drepa margan mann .","Þá hugsaða ek með ek , hvárt ek skylda hlýða hans vilja eða drepa margan mann .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá hugsaða ek með mér , hvárt ek skylda hlýða hans vilja eða drepa margan mann .
+B: Þá hugsaða ek með ek , hvárt ek skylda hlýða hans vilja eða drepa margan mann .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_027,llama-3.1-8b-instant,QUIRKY_CASE,"Far heldr ok finn hana ok vit , ef sjatni hennar ofsi , gef henni gull ok mýk svá hennar reiði . ''","Far heldr ok finn hana ok vit , ef sjatni hennar ofsi , gef hon gull ok mýk svá hennar reiði . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Far heldr ok finn hana ok vit , ef sjatni hennar ofsi , gef hon gull ok mýk svá hennar reiði . ''
+B: Far heldr ok finn hana ok vit , ef sjatni hennar ofsi , gef henni gull ok mýk svá hennar reiði . ''
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_028,llama-3.1-8b-instant,QUIRKY_CASE,Brynhildr svarar : `` Þér skal ek segja mína reiði . '',Brynhildr svarar : `` Þú skal ek segja mína reiði . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Brynhildr svarar : `` Þér skal ek segja mína reiði . ''
+B: Brynhildr svarar : `` Þú skal ek segja mína reiði . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_029,llama-3.1-8b-instant,QUIRKY_CASE,"`` Nei , '' segir hún , `` eigi reið Gunnarr eldinn til vár , ok eigi galt hann mér at mundi felldan val .","`` Nei , '' segir hún , `` eigi reið Gunnarr eldinn til vár , ok eigi galt hann ek at mundi felldan val .","Which of the following Old Norse sentences is grammatically correct?
+
+A: `` Nei , '' segir hún , `` eigi reið Gunnarr eldinn til vár , ok eigi galt hann ek at mundi felldan val .
+B: `` Nei , '' segir hún , `` eigi reið Gunnarr eldinn til vár , ok eigi galt hann mér at mundi felldan val .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_030,llama-3.1-8b-instant,QUIRKY_CASE,"Sigurðr svarar : `` Ekki varð ek þinn maðr , ok vartu mín kona , ok galt við þér mund ágætr konungr . ''","Sigurðr svarar : `` Ekki varð ek þinn maðr , ok vartu mín kona , ok galt við þú mund ágætr konungr . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr svarar : `` Ekki varð ek þinn maðr , ok vartu mín kona , ok galt við þú mund ágætr konungr . ''
+B: Sigurðr svarar : `` Ekki varð ek þinn maðr , ok vartu mín kona , ok galt við þér mund ágætr konungr . ''
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_031,llama-3.1-8b-instant,QUIRKY_CASE,Þeir tóku orm einn ok af vargsholdi ok létu sjóða ok gáfu honum at eta sem skáldit kvað :,Þeir tóku orm einn ok af vargsholdi ok létu sjóða ok gáfu hann at eta sem skáldit kvað :,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir tóku orm einn ok af vargsholdi ok létu sjóða ok gáfu hann at eta sem skáldit kvað :
+B: Þeir tóku orm einn ok af vargsholdi ok létu sjóða ok gáfu honum at eta sem skáldit kvað :
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_032,llama-3.1-8b-instant,QUIRKY_CASE,"Grímhildr ræðst í ferð með þeim ok segir þeira erendi svá fremi fullgert munu verða , at hún siti eigi heima .","Grímhildr ræðst í ferð með þeir ok segir þeira erendi svá fremi fullgert munu verða , at hún siti eigi heima .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Grímhildr ræðst í ferð með þeir ok segir þeira erendi svá fremi fullgert munu verða , at hún siti eigi heima .
+B: Grímhildr ræðst í ferð með þeim ok segir þeira erendi svá fremi fullgert munu verða , at hún siti eigi heima .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_033,llama-3.1-8b-instant,QUIRKY_CASE,Guðrún segir : `` Ekki má ek af honum hyggja ; hann var öllum fremri . '',Guðrún segir : `` Ekki má ek af hann hyggja ; hann var öllum fremri . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Guðrún segir : `` Ekki má ek af honum hyggja ; hann var öllum fremri . ''
+B: Guðrún segir : `` Ekki má ek af hann hyggja ; hann var öllum fremri . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_034,llama-3.1-8b-instant,QUIRKY_CASE,"Vingi sýnir honum nú rúnarnar þær , er hann kvað Guðrúnu sent hafa .","Vingi sýnir hann nú rúnarnar þær , er hann kvað Guðrúnu sent hafa .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Vingi sýnir hann nú rúnarnar þær , er hann kvað Guðrúnu sent hafa .
+B: Vingi sýnir honum nú rúnarnar þær , er hann kvað Guðrúnu sent hafa .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_035,llama-3.1-8b-instant,QUIRKY_CASE,"Nú vill hann gefa yðr vald yfir ríkinu , meðan þeir eru svá ungir , ok ann yðr bezt at njóta . ''","Nú vill hann gefa þér vald yfir ríkinu , meðan þeir eru svá ungir , ok ann yðr bezt at njóta . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú vill hann gefa þér vald yfir ríkinu , meðan þeir eru svá ungir , ok ann yðr bezt at njóta . ''
+B: Nú vill hann gefa yðr vald yfir ríkinu , meðan þeir eru svá ungir , ok ann yðr bezt at njóta . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_036,llama-3.1-8b-instant,QUIRKY_CASE,"Hann svarar : `` Yðart atkvæði mun standa hljóta , ok fylgja mun ek þér , en ófúss em ek þessarar ferðar . ''","Hann svarar : `` Yðart atkvæði mun standa hljóta , ok fylgja mun ek þú , en ófúss em ek þessarar ferðar . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann svarar : `` Yðart atkvæði mun standa hljóta , ok fylgja mun ek þér , en ófúss em ek þessarar ferðar . ''
+B: Hann svarar : `` Yðart atkvæði mun standa hljóta , ok fylgja mun ek þú , en ófúss em ek þessarar ferðar . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_037,llama-3.1-8b-instant,QUIRKY_CASE,"Þá mælti Vingi : `` Þetta mættir þú vel ógert hafa , ok bíðið nú hér , meðan ek sæki yðr gálgatré .","Þá mælti Vingi : `` Þetta mættir þú vel ógert hafa , ok bíðið nú hér , meðan ek sæki þér gálgatré .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá mælti Vingi : `` Þetta mættir þú vel ógert hafa , ok bíðið nú hér , meðan ek sæki þér gálgatré .
+B: Þá mælti Vingi : `` Þetta mættir þú vel ógert hafa , ok bíðið nú hér , meðan ek sæki yðr gálgatré .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_038,llama-3.1-8b-instant,QUIRKY_CASE,"Ek bað yðr með blíðu hér koma , en flátt bjó undir .","Ek bað þér með blíðu hér koma , en flátt bjó undir .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ek bað yðr með blíðu hér koma , en flátt bjó undir .
+B: Ek bað þér með blíðu hér koma , en flátt bjó undir .
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_039,llama-3.1-8b-instant,QUIRKY_CASE,"Ek hlaut mikla mægð , ok hugða ek mér þat til frama .","Ek hlaut mikla mægð , ok hugða ek ek þat til frama .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ek hlaut mikla mægð , ok hugða ek mér þat til frama .
+B: Ek hlaut mikla mægð , ok hugða ek ek þat til frama .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_040,llama-3.1-8b-instant,QUIRKY_CASE,"Ok nú veit ek einn , hvar gullit er , ok mun eigi Högni segja þér .","Ok nú veit ek einn , hvar gullit er , ok mun eigi Högni segja þú .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok nú veit ek einn , hvar gullit er , ok mun eigi Högni segja þú .
+B: Ok nú veit ek einn , hvar gullit er , ok mun eigi Högni segja þér .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_041,llama-3.1-8b-instant,QUIRKY_CASE,Randvér heimti konung á tal ok mælti : `` Jörmunrekr konungr vill bjóða yðr mægi sitt .,Randvér heimti konung á tal ok mælti : `` Jörmunrekr konungr vill bjóða þér mægi sitt .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Randvér heimti konung á tal ok mælti : `` Jörmunrekr konungr vill bjóða yðr mægi sitt .
+B: Randvér heimti konung á tal ok mælti : `` Jörmunrekr konungr vill bjóða þér mægi sitt .
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_042,llama-3.1-8b-instant,QUIRKY_CASE,Guðrún gekk hlæjandi ok gaf þeim at drekka af stórum kerum .,Guðrún gekk hlæjandi ok gaf þeir at drekka af stórum kerum .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Guðrún gekk hlæjandi ok gaf þeir at drekka af stórum kerum .
+B: Guðrún gekk hlæjandi ok gaf þeim at drekka af stórum kerum .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_043,llama-3.1-8b-instant,QUIRKY_CASE,"Konungrinn svarar : `` Gef oss ráð til , ef þú kannt . ''","Konungrinn svarar : `` Gef vér ráð til , ef þú kannt . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungrinn svarar : `` Gef vér ráð til , ef þú kannt . ''
+B: Konungrinn svarar : `` Gef oss ráð til , ef þú kannt . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_044,llama-3.1-8b-instant,QUIRKY_CASE,Óláfr sýnir yðr mann.,Óláfr sýnir þér mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr sýnir þér mann.
+B: Óláfr sýnir yðr mann.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_045,llama-3.1-8b-instant,QUIRKY_CASE,Kormákr gefr hánum konung.,Kormákr gefr hann konung.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr gefr hann konung.
+B: Kormákr gefr hánum konung.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_046,llama-3.1-8b-instant,QUIRKY_CASE,Þeir gefr mér marga konunga.,Þeir gefr ek marga konunga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefr ek marga konunga.
+B: Þeir gefr mér marga konunga.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_047,llama-3.1-8b-instant,QUIRKY_CASE,Kormákr konungr segir henni orm.,Kormákr konungr segir hon orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr konungr segir hon orm.
+B: Kormákr konungr segir henni orm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_048,llama-3.1-8b-instant,QUIRKY_CASE,Þórr konungr gefr oss brand.,Þórr konungr gefr vér brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr konungr gefr oss brand.
+B: Þórr konungr gefr vér brand.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_049,llama-3.1-8b-instant,QUIRKY_CASE,Svartr segir mér mann.,Svartr segir ek mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr segir ek mann.
+B: Svartr segir mér mann.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_050,llama-3.1-8b-instant,QUIRKY_CASE,segir þér brand Þórr.,segir þú brand Þórr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: segir þér brand Þórr.
+B: segir þú brand Þórr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_051,llama-3.1-8b-instant,QUIRKY_CASE,Nú gefr Þórr því hjálm.,Nú gefr Þórr þat hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú gefr Þórr þat hjálm.
+B: Nú gefr Þórr því hjálm.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_052,llama-3.1-8b-instant,QUIRKY_CASE,Þá fœrir henni víking.,Þá fœrir hon víking.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá fœrir hon víking.
+B: Þá fœrir henni víking.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_053,llama-3.1-8b-instant,QUIRKY_CASE,Eiríkr hjálpar því góðan draug.,Eiríkr hjálpar þat góðan draug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr hjálpar þat góðan draug.
+B: Eiríkr hjálpar því góðan draug.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_054,llama-3.1-8b-instant,QUIRKY_CASE,Þá trúir þeim orm.,Þá trúir þeir orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá trúir þeim orm.
+B: Þá trúir þeir orm.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_055,llama-3.1-8b-instant,QUIRKY_CASE,Þá gefr hánum brand.,Þá gefr hann brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá gefr hann brand.
+B: Þá gefr hánum brand.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_056,llama-3.1-8b-instant,QUIRKY_CASE,Þá segir þér hjálm.,Þá segir þú hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá segir þú hjálm.
+B: Þá segir þér hjálm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_057,llama-3.1-8b-instant,QUIRKY_CASE,trúir þeim hjálm Haukr.,trúir þeir hjálm Haukr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: trúir þeir hjálm Haukr.
+B: trúir þeim hjálm Haukr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_058,llama-3.1-8b-instant,QUIRKY_CASE,Þeir sýnir henni marga hesta.,Þeir sýnir hon marga hesta.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir sýnir henni marga hesta.
+B: Þeir sýnir hon marga hesta.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_059,llama-3.1-8b-instant,QUIRKY_CASE,Óláfr býðr því orm.,Óláfr býðr þat orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr býðr þat orm.
+B: Óláfr býðr því orm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_060,llama-3.1-8b-instant,QUIRKY_CASE,Þá hjálpar mér hest.,Þá hjálpar ek hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá hjálpar ek hest.
+B: Þá hjálpar mér hest.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_061,llama-3.1-8b-instant,QUIRKY_CASE,Ragnarr sýnir oss góðan víking.,Ragnarr sýnir vér góðan víking.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr sýnir oss góðan víking.
+B: Ragnarr sýnir vér góðan víking.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_062,llama-3.1-8b-instant,QUIRKY_CASE,Þá býðr því orm.,Þá býðr þat orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá býðr þat orm.
+B: Þá býðr því orm.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_063,llama-3.1-8b-instant,QUIRKY_CASE,Hér býðr oss stóran jarl.,Hér býðr vér stóran jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér býðr oss stóran jarl.
+B: Hér býðr vér stóran jarl.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_064,llama-3.1-8b-instant,QUIRKY_CASE,"gefr honum mann , segir Haukr.","gefr hann mann , segir Haukr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: gefr honum mann , segir Haukr.
+B: gefr hann mann , segir Haukr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_065,llama-3.1-8b-instant,QUIRKY_CASE,Hér gefr okkr stóran brand.,Hér gefr vit stóran brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér gefr vit stóran brand.
+B: Hér gefr okkr stóran brand.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_066,llama-3.1-8b-instant,QUIRKY_CASE,Baldr gefr yðr góðan jarl.,Baldr gefr þér góðan jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Baldr gefr þér góðan jarl.
+B: Baldr gefr yðr góðan jarl.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_067,llama-3.1-8b-instant,QUIRKY_CASE,Nú sýnir Haukr oss jarl.,Nú sýnir Haukr vér jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú sýnir Haukr oss jarl.
+B: Nú sýnir Haukr vér jarl.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_068,llama-3.1-8b-instant,QUIRKY_CASE,Haukr sýnir henni víking.,Haukr sýnir hon víking.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr sýnir hon víking.
+B: Haukr sýnir henni víking.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_069,llama-3.1-8b-instant,QUIRKY_CASE,Þá gefr þeim draug.,Þá gefr þeir draug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá gefr þeir draug.
+B: Þá gefr þeim draug.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_070,llama-3.1-8b-instant,QUIRKY_CASE,Þá sýnir mér jarl.,Þá sýnir ek jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá sýnir mér jarl.
+B: Þá sýnir ek jarl.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_071,llama-3.1-8b-instant,QUIRKY_CASE,Þeir sýnir þér marga dverga.,Þeir sýnir þú marga dverga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir sýnir þér marga dverga.
+B: Þeir sýnir þú marga dverga.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_072,llama-3.1-8b-instant,QUIRKY_CASE,Njáll býðr þér brand.,Njáll býðr þú brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Njáll býðr þú brand.
+B: Njáll býðr þér brand.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_073,llama-3.1-8b-instant,QUIRKY_CASE,trúir hánum dverg Óðinn.,trúir hann dverg Óðinn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: trúir hann dverg Óðinn.
+B: trúir hánum dverg Óðinn.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_074,llama-3.1-8b-instant,QUIRKY_CASE,Þeir býðr mér marga orma.,Þeir býðr ek marga orma.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir býðr mér marga orma.
+B: Þeir býðr ek marga orma.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_075,llama-3.1-8b-instant,QUIRKY_CASE,"býðr þeim hest , segir Ragnarr.","býðr þeir hest , segir Ragnarr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: býðr þeim hest , segir Ragnarr.
+B: býðr þeir hest , segir Ragnarr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_076,llama-3.1-8b-instant,QUIRKY_CASE,Þórr konungr hjálpar okkr mann.,Þórr konungr hjálpar vit mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr konungr hjálpar vit mann.
+B: Þórr konungr hjálpar okkr mann.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_077,llama-3.1-8b-instant,QUIRKY_CASE,Jarl sýnir yðr hest ok mælir.,Jarl sýnir þér hest ok mælir.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Jarl sýnir yðr hest ok mælir.
+B: Jarl sýnir þér hest ok mælir.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_078,llama-3.1-8b-instant,QUIRKY_CASE,Haukr konungr trúir því víking.,Haukr konungr trúir þat víking.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr konungr trúir því víking.
+B: Haukr konungr trúir þat víking.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_079,llama-3.1-8b-instant,QUIRKY_CASE,Svartr konungr fœrir þér dverg.,Svartr konungr fœrir þú dverg.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr konungr fœrir þér dverg.
+B: Svartr konungr fœrir þú dverg.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_080,llama-3.1-8b-instant,QUIRKY_CASE,Jarl gefr okkr konung ok mælir.,Jarl gefr vit konung ok mælir.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Jarl gefr okkr konung ok mælir.
+B: Jarl gefr vit konung ok mælir.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_081,llama-3.1-8b-instant,QUIRKY_CASE,Nú hjálpar Njáll þeim orm.,Nú hjálpar Njáll þeir orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú hjálpar Njáll þeim orm.
+B: Nú hjálpar Njáll þeir orm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_082,llama-3.1-8b-instant,QUIRKY_CASE,Hér býðr því stóran orm.,Hér býðr þat stóran orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér býðr þat stóran orm.
+B: Hér býðr því stóran orm.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_083,llama-3.1-8b-instant,QUIRKY_CASE,"sýnir honum konung , segir Sigurðr.","sýnir hann konung , segir Sigurðr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: sýnir honum konung , segir Sigurðr.
+B: sýnir hann konung , segir Sigurðr.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_084,llama-3.1-8b-instant,QUIRKY_CASE,Þá hjálpar mér víking.,Þá hjálpar ek víking.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá hjálpar mér víking.
+B: Þá hjálpar ek víking.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_085,llama-3.1-8b-instant,QUIRKY_CASE,"fœrir yðr víking , segir Skarpheðinn.","fœrir þér víking , segir Skarpheðinn.","Which of the following Old Norse sentences is grammatically correct?
+
+A: fœrir yðr víking , segir Skarpheðinn.
+B: fœrir þér víking , segir Skarpheðinn.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_086,llama-3.1-8b-instant,QUIRKY_CASE,"segir hánum hauk , segir Ragnarr.","segir hann hauk , segir Ragnarr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: segir hánum hauk , segir Ragnarr.
+B: segir hann hauk , segir Ragnarr.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_087,llama-3.1-8b-instant,QUIRKY_CASE,Gunnarr trúir mér góðan hjálm.,Gunnarr trúir ek góðan hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Gunnarr trúir mér góðan hjálm.
+B: Gunnarr trúir ek góðan hjálm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_088,llama-3.1-8b-instant,QUIRKY_CASE,Nú býðr Flosi hánum hauk.,Nú býðr Flosi hann hauk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú býðr Flosi hánum hauk.
+B: Nú býðr Flosi hann hauk.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_089,llama-3.1-8b-instant,QUIRKY_CASE,Nú sýnir Eiríkr okkr konung.,Nú sýnir Eiríkr vit konung.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú sýnir Eiríkr vit konung.
+B: Nú sýnir Eiríkr okkr konung.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_090,llama-3.1-8b-instant,QUIRKY_CASE,"sýnir hánum hauk , segir Kormákr.","sýnir hann hauk , segir Kormákr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: sýnir hánum hauk , segir Kormákr.
+B: sýnir hann hauk , segir Kormákr.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_091,llama-3.1-8b-instant,QUIRKY_CASE,Hér hjálpar henni stóran dverg.,Hér hjálpar hon stóran dverg.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér hjálpar hon stóran dverg.
+B: Hér hjálpar henni stóran dverg.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_092,llama-3.1-8b-instant,QUIRKY_CASE,Þá fœrir hánum hauk.,Þá fœrir hann hauk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá fœrir hann hauk.
+B: Þá fœrir hánum hauk.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_093,llama-3.1-8b-instant,QUIRKY_CASE,Jarl hjálpar þér hauk ok mælir.,Jarl hjálpar þú hauk ok mælir.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Jarl hjálpar þú hauk ok mælir.
+B: Jarl hjálpar þér hauk ok mælir.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_094,llama-3.1-8b-instant,QUIRKY_CASE,Sigurðr sýnir hánum dverg.,Sigurðr sýnir hann dverg.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr sýnir hann dverg.
+B: Sigurðr sýnir hánum dverg.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_095,llama-3.1-8b-instant,QUIRKY_CASE,sýnir okkr orm Svartr.,sýnir vit orm Svartr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: sýnir vit orm Svartr.
+B: sýnir okkr orm Svartr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_096,llama-3.1-8b-instant,QUIRKY_CASE,Hér býðr yðr stóran dverg.,Hér býðr þér stóran dverg.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér býðr þér stóran dverg.
+B: Hér býðr yðr stóran dverg.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_097,llama-3.1-8b-instant,QUIRKY_CASE,Hér fœrir þér stóran jarl.,Hér fœrir þú stóran jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér fœrir þér stóran jarl.
+B: Hér fœrir þú stóran jarl.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_098,llama-3.1-8b-instant,QUIRKY_CASE,Njáll konungr býðr oss baug.,Njáll konungr býðr vér baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Njáll konungr býðr vér baug.
+B: Njáll konungr býðr oss baug.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_099,llama-3.1-8b-instant,QUIRKY_CASE,Jarl segir hánum hauk ok mælir.,Jarl segir hann hauk ok mælir.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Jarl segir hann hauk ok mælir.
+B: Jarl segir hánum hauk ok mælir.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_100,llama-3.1-8b-instant,QUIRKY_CASE,Þá sýnir oss hauk.,Þá sýnir vér hauk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá sýnir oss hauk.
+B: Þá sýnir vér hauk.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_101,llama-3.1-8b-instant,QUIRKY_CASE,Hér býðr þeim stóran hauk.,Hér býðr þeir stóran hauk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér býðr þeim stóran hauk.
+B: Hér býðr þeir stóran hauk.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_102,llama-3.1-8b-instant,QUIRKY_CASE,Þá trúir honum hjálm.,Þá trúir hann hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá trúir hann hjálm.
+B: Þá trúir honum hjálm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_103,llama-3.1-8b-instant,QUIRKY_CASE,Þeir hjálpar hánum marga hauka.,Þeir hjálpar hann marga hauka.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir hjálpar hann marga hauka.
+B: Þeir hjálpar hánum marga hauka.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_104,llama-3.1-8b-instant,QUIRKY_CASE,Hér sýnir oss stóran orm.,Hér sýnir vér stóran orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér sýnir oss stóran orm.
+B: Hér sýnir vér stóran orm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_105,llama-3.1-8b-instant,QUIRKY_CASE,Jarl trúir þér draug ok mælir.,Jarl trúir þú draug ok mælir.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Jarl trúir þér draug ok mælir.
+B: Jarl trúir þú draug ok mælir.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_106,llama-3.1-8b-instant,QUIRKY_CASE,Þeir trúir því marga úlfa.,Þeir trúir þat marga úlfa.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir trúir því marga úlfa.
+B: Þeir trúir þat marga úlfa.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_107,llama-3.1-8b-instant,QUIRKY_CASE,"býðr þér hauk , segir Óláfr.","býðr þú hauk , segir Óláfr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: býðr þér hauk , segir Óláfr.
+B: býðr þú hauk , segir Óláfr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_108,llama-3.1-8b-instant,QUIRKY_CASE,Hér sýnir henni stóran víking.,Hér sýnir hon stóran víking.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér sýnir hon stóran víking.
+B: Hér sýnir henni stóran víking.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_109,llama-3.1-8b-instant,QUIRKY_CASE,Jarl býðr okkr brand ok mælir.,Jarl býðr vit brand ok mælir.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Jarl býðr okkr brand ok mælir.
+B: Jarl býðr vit brand ok mælir.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_110,llama-3.1-8b-instant,QUIRKY_CASE,Þá hjálpar oss dverg.,Þá hjálpar vér dverg.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá hjálpar oss dverg.
+B: Þá hjálpar vér dverg.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_111,llama-3.1-8b-instant,QUIRKY_CASE,"trúir hánum hest , segir Gunnarr.","trúir hann hest , segir Gunnarr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: trúir hánum hest , segir Gunnarr.
+B: trúir hann hest , segir Gunnarr.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_112,llama-3.1-8b-instant,QUIRKY_CASE,fœrir henni hest Haukr.,fœrir hon hest Haukr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: fœrir henni hest Haukr.
+B: fœrir hon hest Haukr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_113,llama-3.1-8b-instant,QUIRKY_CASE,Flosi trúir henni konung.,Flosi trúir hon konung.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Flosi trúir henni konung.
+B: Flosi trúir hon konung.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_114,llama-3.1-8b-instant,QUIRKY_CASE,býðr þér mann Haukr.,býðr þú mann Haukr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: býðr þú mann Haukr.
+B: býðr þér mann Haukr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_115,llama-3.1-8b-instant,QUIRKY_CASE,Nú trúir Kormákr honum draug.,Nú trúir Kormákr hann draug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú trúir Kormákr hann draug.
+B: Nú trúir Kormákr honum draug.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_116,llama-3.1-8b-instant,QUIRKY_CASE,Nú segir Skarpheðinn því hjálm.,Nú segir Skarpheðinn þat hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú segir Skarpheðinn þat hjálm.
+B: Nú segir Skarpheðinn því hjálm.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_117,llama-3.1-8b-instant,QUIRKY_CASE,Njáll konungr gefr yðr hauk.,Njáll konungr gefr þér hauk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Njáll konungr gefr þér hauk.
+B: Njáll konungr gefr yðr hauk.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_118,llama-3.1-8b-instant,QUIRKY_CASE,Sigurðr fœrir oss jarl.,Sigurðr fœrir vér jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr fœrir vér jarl.
+B: Sigurðr fœrir oss jarl.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_119,llama-3.1-8b-instant,QUIRKY_CASE,Nú trúir Flosi hánum baug.,Nú trúir Flosi hann baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú trúir Flosi hann baug.
+B: Nú trúir Flosi hánum baug.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_120,llama-3.1-8b-instant,QUIRKY_CASE,Hér sýnir þeim stóran orm.,Hér sýnir þeir stóran orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér sýnir þeir stóran orm.
+B: Hér sýnir þeim stóran orm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_121,llama-3.1-8b-instant,QUIRKY_CASE,Þá fœrir þeim draug.,Þá fœrir þeir draug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá fœrir þeim draug.
+B: Þá fœrir þeir draug.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_QUIRKY_CASE_122,llama-3.1-8b-instant,QUIRKY_CASE,gefr henni mann Njáll.,gefr hon mann Njáll.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: gefr henni mann Njáll.
+B: gefr hon mann Njáll.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_QUIRKY_CASE_123,llama-3.1-8b-instant,QUIRKY_CASE,Hér trúir honum stóran jarl.,Hér trúir hann stóran jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hér trúir hann stóran jarl.
+B: Hér trúir honum stóran jarl.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_QUIRKY_CASE_124,llama-3.1-8b-instant,QUIRKY_CASE,"segir þér hest , segir Svartr.","segir þú hest , segir Svartr.","Which of the following Old Norse sentences is grammatically correct?
+
+A: segir þú hest , segir Svartr.
+B: segir þér hest , segir Svartr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_QUIRKY_CASE_125,llama-3.1-8b-instant,QUIRKY_CASE,Jarl gefr þeim baug ok mælir.,Jarl gefr þeir baug ok mælir.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Jarl gefr þeim baug ok mælir.
+B: Jarl gefr þeir baug ok mælir.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_001,llama-3.1-8b-instant,UMLAUT,Sá maðr er mönnum ókunnr at sýn .,Sá maðr er mannum ókunnr at sýn .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sá maðr er mönnum ókunnr at sýn .
+B: Sá maðr er mannum ókunnr at sýn .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_002,llama-3.1-8b-instant,UMLAUT,Öllum mönnum fellust kveðjur við þenna mann .,Allum mönnum fellust kveðjur við þenna mann .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Öllum mönnum fellust kveðjur við þenna mann .
+B: Allum mönnum fellust kveðjur við þenna mann .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_003,llama-3.1-8b-instant,UMLAUT,"Síðan gengu til inir göfgustu menn fyrst , en þá hverr at öðrum .","Síðan gengu til inir göfgustu menn fyrst , en þá hverr at aðrum .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Síðan gengu til inir göfgustu menn fyrst , en þá hverr at öðrum .
+B: Síðan gengu til inir göfgustu menn fyrst , en þá hverr at aðrum .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_004,llama-3.1-8b-instant,UMLAUT,"Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .","Þetta vápn sýndist allum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .
+B: Þetta vápn sýndist allum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_005,llama-3.1-8b-instant,UMLAUT,Hann gerist stórlyndr ok vinsæll ok fyrir flestum mönnum öðrum at allri atgervi .,Hann gerist stórlyndr ok vinsæll ok fyrir flestum mannum öðrum at allri atgervi .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann gerist stórlyndr ok vinsæll ok fyrir flestum mönnum öðrum at allri atgervi .
+B: Hann gerist stórlyndr ok vinsæll ok fyrir flestum mannum öðrum at allri atgervi .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_006,llama-3.1-8b-instant,UMLAUT,Hann var ríkr konungr ok fjölmennr ok réð fyrir löndum .,Hann var ríkr konungr ok fjölmennr ok réð fyrir landum .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var ríkr konungr ok fjölmennr ok réð fyrir löndum .
+B: Hann var ríkr konungr ok fjölmennr ok réð fyrir landum .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_007,llama-3.1-8b-instant,UMLAUT,Eptir þetta sendir Helgi menn með fégjöfum at stefna at sér mönnum ok stefnir öllu liðinu til Rauðabjarga .,Eptir þetta sendir Helgi menn með fégjöfum at stefna at sér mannum ok stefnir öllu liðinu til Rauðabjarga .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eptir þetta sendir Helgi menn með fégjöfum at stefna at sér mannum ok stefnir öllu liðinu til Rauðabjarga .
+B: Eptir þetta sendir Helgi menn með fégjöfum at stefna at sér mönnum ok stefnir öllu liðinu til Rauðabjarga .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_008,llama-3.1-8b-instant,UMLAUT,Skipt mun nú löndum .,Skipt mun nú landum .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skipt mun nú landum .
+B: Skipt mun nú löndum .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_009,llama-3.1-8b-instant,UMLAUT,Borghildr bar mönnum drykk .,Borghildr bar mannum drykk .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Borghildr bar mönnum drykk .
+B: Borghildr bar mannum drykk .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_010,llama-3.1-8b-instant,UMLAUT,Var þar annan dag öðrum betr veitt eða með meira kappi .,Var þar annan dag aðrum betr veitt eða með meira kappi .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Var þar annan dag öðrum betr veitt eða með meira kappi .
+B: Var þar annan dag aðrum betr veitt eða með meira kappi .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_011,llama-3.1-8b-instant,UMLAUT,Konungr segir : `` Öðrum er þat ætlat .,Konungr segir : `` Aðrum er þat ætlat .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr segir : `` Öðrum er þat ætlat .
+B: Konungr segir : `` Aðrum er þat ætlat .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_012,llama-3.1-8b-instant,UMLAUT,Annan dag eptir fór Sigurðr til skógar ok mætir einum gömlum manni með síðu skeggi .,Annan dag eptir fór Sigurðr til skógar ok mætir einum gamlum manni með síðu skeggi .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Annan dag eptir fór Sigurðr til skógar ok mætir einum gömlum manni með síðu skeggi .
+B: Annan dag eptir fór Sigurðr til skógar ok mætir einum gamlum manni með síðu skeggi .
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_UMLAUT_013,llama-3.1-8b-instant,UMLAUT,"Hann mælti : `` Förum ok rekum til árinnar , er Busiltjörn heitir . ''","Hann mælti : `` Farum ok rekum til árinnar , er Busiltjörn heitir . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann mælti : `` Farum ok rekum til árinnar , er Busiltjörn heitir . ''
+B: Hann mælti : `` Förum ok rekum til árinnar , er Busiltjörn heitir . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_014,llama-3.1-8b-instant,UMLAUT,"Þá mælti Sigurðr : `` Hvárt höfum vér rétt til spurt , at Sigmundr konungr seldi yðr sverðit Gram í tveim hlutum ? ''","Þá mælti Sigurðr : `` Hvárt hafum vér rétt til spurt , at Sigmundr konungr seldi yðr sverðit Gram í tveim hlutum ? ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá mælti Sigurðr : `` Hvárt höfum vér rétt til spurt , at Sigmundr konungr seldi yðr sverðit Gram í tveim hlutum ? ''
+B: Þá mælti Sigurðr : `` Hvárt hafum vér rétt til spurt , at Sigmundr konungr seldi yðr sverðit Gram í tveim hlutum ? ''
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_UMLAUT_015,llama-3.1-8b-instant,UMLAUT,"Sigurðr svarar : `` Efna munu vér þat , sem vér höfum þar um heitit , ok ekki fellr oss þat ór minni . ''","Sigurðr svarar : `` Efna munu vér þat , sem vér hafum þar um heitit , ok ekki fellr oss þat ór minni . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr svarar : `` Efna munu vér þat , sem vér hafum þar um heitit , ok ekki fellr oss þat ór minni . ''
+B: Sigurðr svarar : `` Efna munu vér þat , sem vér höfum þar um heitit , ok ekki fellr oss þat ór minni . ''
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_016,llama-3.1-8b-instant,UMLAUT,Sigurðr svarar : `` Ætt mín er mönnum ókunnig .,Sigurðr svarar : `` Ætt mín er mannum ókunnig .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr svarar : `` Ætt mín er mönnum ókunnig .
+B: Sigurðr svarar : `` Ætt mín er mannum ókunnig .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_017,llama-3.1-8b-instant,UMLAUT,"Sigurðr gekk í skjaldborgina ok sá , at þar svaf maðr ok lá með öllum hervápnum .","Sigurðr gekk í skjaldborgina ok sá , at þar svaf maðr ok lá með allum hervápnum .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr gekk í skjaldborgina ok sá , at þar svaf maðr ok lá með öllum hervápnum .
+B: Sigurðr gekk í skjaldborgina ok sá , at þar svaf maðr ok lá með allum hervápnum .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_018,llama-3.1-8b-instant,UMLAUT,"Þeir undu sér nú vel , ok var hvárr öðrum hollr .","Þeir undu sér nú vel , ok var hvárr aðrum hollr .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir undu sér nú vel , ok var hvárr öðrum hollr .
+B: Þeir undu sér nú vel , ok var hvárr aðrum hollr .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_019,llama-3.1-8b-instant,UMLAUT,"Báru þau börn mjök af öðrum konunga börnum um alla atgervi , bæði um vænleik ok vöxt .","Báru þau börn mjök af aðrum konunga börnum um alla atgervi , bæði um vænleik ok vöxt .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Báru þau börn mjök af aðrum konunga börnum um alla atgervi , bæði um vænleik ok vöxt .
+B: Báru þau börn mjök af öðrum konunga börnum um alla atgervi , bæði um vænleik ok vöxt .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_020,llama-3.1-8b-instant,UMLAUT,"Ok er sén er ferð þeira , þá er Brynhildi sagt , at margar konur óku at borginni með gylltum vögnum .","Ok er sén er ferð þeira , þá er Brynhildi sagt , at margar konur óku at borginni með gylltum vagnum .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok er sén er ferð þeira , þá er Brynhildi sagt , at margar konur óku at borginni með gylltum vagnum .
+B: Ok er sén er ferð þeira , þá er Brynhildi sagt , at margar konur óku at borginni með gylltum vögnum .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_021,llama-3.1-8b-instant,UMLAUT,"`` Mik dreymdi um hana í nótt , ok göngum út í mót henni .","`` Mik dreymdi um hana í nótt , ok gangum út í mót henni .","Which of the following Old Norse sentences is grammatically correct?
+
+A: `` Mik dreymdi um hana í nótt , ok gangum út í mót henni .
+B: `` Mik dreymdi um hana í nótt , ok göngum út í mót henni .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_022,llama-3.1-8b-instant,UMLAUT,Hann bar langt af öðrum dýrum .,Hann bar langt af aðrum dýrum .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann bar langt af öðrum dýrum .
+B: Hann bar langt af aðrum dýrum .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_023,llama-3.1-8b-instant,UMLAUT,Dýrit þótti mér öllum hlutum betra .,Dýrit þótti mér allum hlutum betra .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Dýrit þótti mér allum hlutum betra .
+B: Dýrit þótti mér öllum hlutum betra .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_024,llama-3.1-8b-instant,UMLAUT,"Grímhildr gefr honum meinblandinn mjöð , er öllum oss kemr í mikit stríð .","Grímhildr gefr honum meinblandinn mjöð , er allum oss kemr í mikit stríð .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Grímhildr gefr honum meinblandinn mjöð , er allum oss kemr í mikit stríð .
+B: Grímhildr gefr honum meinblandinn mjöð , er öllum oss kemr í mikit stríð .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_025,llama-3.1-8b-instant,UMLAUT,Hann ríðr Grana með öllum sínum herbúnaði ok farmi .,Hann ríðr Grana með allum sínum herbúnaði ok farmi .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann ríðr Grana með öllum sínum herbúnaði ok farmi .
+B: Hann ríðr Grana með allum sínum herbúnaði ok farmi .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_026,llama-3.1-8b-instant,UMLAUT,"Hann er langt um aðra menn fram , en sjálfr berr hann þó mest af öðrum mönnum . ''","Hann er langt um aðra menn fram , en sjálfr berr hann þó mest af aðrum mönnum . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er langt um aðra menn fram , en sjálfr berr hann þó mest af aðrum mönnum . ''
+B: Hann er langt um aðra menn fram , en sjálfr berr hann þó mest af öðrum mönnum . ''
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_027,llama-3.1-8b-instant,UMLAUT,"Mátti þar sjá margs konar gleði ok skemmtan , ok var hvern dag veitt öðrum betr .","Mátti þar sjá margs konar gleði ok skemmtan , ok var hvern dag veitt aðrum betr .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Mátti þar sjá margs konar gleði ok skemmtan , ok var hvern dag veitt aðrum betr .
+B: Mátti þar sjá margs konar gleði ok skemmtan , ok var hvern dag veitt öðrum betr .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_028,llama-3.1-8b-instant,UMLAUT,"Brynhildr svarar : `` Hún veldr öllum upphöfum þess böls , er oss bítr .","Brynhildr svarar : `` Hún veldr allum upphöfum þess böls , er oss bítr .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Brynhildr svarar : `` Hún veldr öllum upphöfum þess böls , er oss bítr .
+B: Brynhildr svarar : `` Hún veldr allum upphöfum þess böls , er oss bítr .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_029,llama-3.1-8b-instant,UMLAUT,"Þá mælti Guðrún til sinnar vinkonu : `` Stattu upp , vér höfum lengi sofit .","Þá mælti Guðrún til sinnar vinkonu : `` Stattu upp , vér hafum lengi sofit .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá mælti Guðrún til sinnar vinkonu : `` Stattu upp , vér hafum lengi sofit .
+B: Þá mælti Guðrún til sinnar vinkonu : `` Stattu upp , vér höfum lengi sofit .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_030,llama-3.1-8b-instant,UMLAUT,"Vek Brynhildi , göngum til borða ok verum kátar . ''","Vek Brynhildi , gangum til borða ok verum kátar . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Vek Brynhildi , gangum til borða ok verum kátar . ''
+B: Vek Brynhildi , göngum til borða ok verum kátar . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_031,llama-3.1-8b-instant,UMLAUT,"Þú berr af öllum mönnum , en þér hefir engi kona orðit leiðari en ek . ''","Þú berr af allum mönnum , en þér hefir engi kona orðit leiðari en ek . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þú berr af öllum mönnum , en þér hefir engi kona orðit leiðari en ek . ''
+B: Þú berr af allum mönnum , en þér hefir engi kona orðit leiðari en ek . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_032,llama-3.1-8b-instant,UMLAUT,"Ok nú er þat fram komit , er fyrir löngu var spát ok vér höfum dulizt við , en engi má við sköpum vinna .","Ok nú er þat fram komit , er fyrir löngu var spát ok vér hafum dulizt við , en engi má við sköpum vinna .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok nú er þat fram komit , er fyrir löngu var spát ok vér hafum dulizt við , en engi má við sköpum vinna .
+B: Ok nú er þat fram komit , er fyrir löngu var spát ok vér höfum dulizt við , en engi má við sköpum vinna .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_033,llama-3.1-8b-instant,UMLAUT,"Þeir fóru með öllum herbúnaði ok höfðu yfir sér loða rauða , sem kveðit er :","Þeir fóru með allum herbúnaði ok höfðu yfir sér loða rauða , sem kveðit er :","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fóru með allum herbúnaði ok höfðu yfir sér loða rauða , sem kveðit er :
+B: Þeir fóru með öllum herbúnaði ok höfðu yfir sér loða rauða , sem kveðit er :
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_034,llama-3.1-8b-instant,UMLAUT,Guðrún segir : `` Ekki má ek af honum hyggja ; hann var öllum fremri . '',Guðrún segir : `` Ekki má ek af honum hyggja ; hann var allum fremri . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Guðrún segir : `` Ekki má ek af honum hyggja ; hann var allum fremri . ''
+B: Guðrún segir : `` Ekki má ek af honum hyggja ; hann var öllum fremri . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_035,llama-3.1-8b-instant,UMLAUT,"Þá mælti ráðgjafi Atla konungs : `` Sé ek betra ráð : Tökum heldr þrælinn Hjalla , en forðum Högna .","Þá mælti ráðgjafi Atla konungs : `` Sé ek betra ráð : Takum heldr þrælinn Hjalla , en forðum Högna .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá mælti ráðgjafi Atla konungs : `` Sé ek betra ráð : Takum heldr þrælinn Hjalla , en forðum Högna .
+B: Þá mælti ráðgjafi Atla konungs : `` Sé ek betra ráð : Tökum heldr þrælinn Hjalla , en forðum Högna .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_036,llama-3.1-8b-instant,UMLAUT,Þeir svöruðu : `` Ráða muntu börnum þínum sem þú vilt .,Þeir svöruðu : `` Ráða muntu barnum þínum sem þú vilt .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir svöruðu : `` Ráða muntu barnum þínum sem þú vilt .
+B: Þeir svöruðu : `` Ráða muntu börnum þínum sem þú vilt .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_037,llama-3.1-8b-instant,UMLAUT,"Atli konungr svarar : `` Eigi er þat satt , ok við slíkar fortölur batnar hvárigra hluti , því at vér höfum skarðan .","Atli konungr svarar : `` Eigi er þat satt , ok við slíkar fortölur batnar hvárigra hluti , því at vér hafum skarðan .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Atli konungr svarar : `` Eigi er þat satt , ok við slíkar fortölur batnar hvárigra hluti , því at vér höfum skarðan .
+B: Atli konungr svarar : `` Eigi er þat satt , ok við slíkar fortölur batnar hvárigra hluti , því at vér hafum skarðan .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_038,llama-3.1-8b-instant,UMLAUT,"Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í öllum fornkvæðum .","Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í allum fornkvæðum .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í allum fornkvæðum .
+B: Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í öllum fornkvæðum .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_039,llama-3.1-8b-instant,UMLAUT,Hún bar svá mjök af öðrum konum um vænleik sem sól af öðrum himintunglum .,Hún bar svá mjök af aðrum konum um vænleik sem sól af öðrum himintunglum .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hún bar svá mjök af öðrum konum um vænleik sem sól af öðrum himintunglum .
+B: Hún bar svá mjök af aðrum konum um vænleik sem sól af öðrum himintunglum .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_040,llama-3.1-8b-instant,UMLAUT,"Svá var ok gert , ok þá flugu ór öllum áttum steinar at þeim , ok varð þeim þat at aldrlagi .","Svá var ok gert , ok þá flugu ór allum áttum steinar at þeim , ok varð þeim þat at aldrlagi .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Svá var ok gert , ok þá flugu ór allum áttum steinar at þeim , ok varð þeim þat at aldrlagi .
+B: Svá var ok gert , ok þá flugu ór öllum áttum steinar at þeim , ok varð þeim þat at aldrlagi .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_041,llama-3.1-8b-instant,UMLAUT,Konungr gefr höfum gull.,Konungr gefr hafum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr höfum gull.
+B: Konungr gefr hafum gull.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_042,llama-3.1-8b-instant,UMLAUT,Þeir gefa köllum mat.,Þeir gefa kallum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa kallum mat.
+B: Þeir gefa köllum mat.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_043,llama-3.1-8b-instant,UMLAUT,Þeir gefa öllum mat.,Þeir gefa allum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa öllum mat.
+B: Þeir gefa allum mat.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_UMLAUT_044,llama-3.1-8b-instant,UMLAUT,Þeir fara til mönnum.,Þeir fara til mannum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fara til mannum.
+B: Þeir fara til mönnum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_045,llama-3.1-8b-instant,UMLAUT,Vér löngum heim ok hvílumsk.,Vér langum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér löngum heim ok hvílumsk.
+B: Vér langum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_046,llama-3.1-8b-instant,UMLAUT,Ragnarr gefr rögum baug.,Ragnarr gefr ragum baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr gefr rögum baug.
+B: Ragnarr gefr ragum baug.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_047,llama-3.1-8b-instant,UMLAUT,Þeir fara til förum.,Þeir fara til farum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fara til farum.
+B: Þeir fara til förum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_048,llama-3.1-8b-instant,UMLAUT,Baldr segir mörgum frá því.,Baldr segir margum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Baldr segir mörgum frá því.
+B: Baldr segir margum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_049,llama-3.1-8b-instant,UMLAUT,Þeir fara til jörlum.,Þeir fara til jarlum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fara til jarlum.
+B: Þeir fara til jörlum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_050,llama-3.1-8b-instant,UMLAUT,Konungr gefr öllum gull.,Konungr gefr allum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr allum gull.
+B: Konungr gefr öllum gull.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_051,llama-3.1-8b-instant,UMLAUT,Vér köllum heim ok hvílumsk.,Vér kallum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér kallum heim ok hvílumsk.
+B: Vér köllum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_052,llama-3.1-8b-instant,UMLAUT,Skarpheðinn segir mörgum frá því.,Skarpheðinn segir margum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skarpheðinn segir mörgum frá því.
+B: Skarpheðinn segir margum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_053,llama-3.1-8b-instant,UMLAUT,Vér mörgum hér ok bíðum.,Vér margum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér margum hér ok bíðum.
+B: Vér mörgum hér ok bíðum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_054,llama-3.1-8b-instant,UMLAUT,Vér tökum hér ok bíðum.,Vér takum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér takum hér ok bíðum.
+B: Vér tökum hér ok bíðum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_055,llama-3.1-8b-instant,UMLAUT,Vér mönnum hér ok bíðum.,Vér mannum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér mönnum hér ok bíðum.
+B: Vér mannum hér ok bíðum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_056,llama-3.1-8b-instant,UMLAUT,Þeir fara til glöðum.,Þeir fara til glaðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fara til glöðum.
+B: Þeir fara til glaðum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_057,llama-3.1-8b-instant,UMLAUT,Konungr gefr löngum gull.,Konungr gefr langum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr langum gull.
+B: Konungr gefr löngum gull.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_058,llama-3.1-8b-instant,UMLAUT,Þeir mæla við jörlum.,Þeir mæla við jarlum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við jörlum.
+B: Þeir mæla við jarlum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_059,llama-3.1-8b-instant,UMLAUT,Þeir gefa stöndum mat.,Þeir gefa standum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa stöndum mat.
+B: Þeir gefa standum mat.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_060,llama-3.1-8b-instant,UMLAUT,Þeir mæla við glöðum.,Þeir mæla við glaðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við glaðum.
+B: Þeir mæla við glöðum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_061,llama-3.1-8b-instant,UMLAUT,Konungr gefr mönnum gull.,Konungr gefr mannum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr mönnum gull.
+B: Konungr gefr mannum gull.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_062,llama-3.1-8b-instant,UMLAUT,Vér mönnum nú til skógar.,Vér mannum nú til skógar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér mannum nú til skógar.
+B: Vér mönnum nú til skógar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_063,llama-3.1-8b-instant,UMLAUT,Konungr gefr rögum gull.,Konungr gefr ragum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr ragum gull.
+B: Konungr gefr rögum gull.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_064,llama-3.1-8b-instant,UMLAUT,Þeir mæla við vöngum.,Þeir mæla við vangum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við vöngum.
+B: Þeir mæla við vangum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_065,llama-3.1-8b-instant,UMLAUT,Þeir mæla við öðrum.,Þeir mæla við aðrum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við öðrum.
+B: Þeir mæla við aðrum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_066,llama-3.1-8b-instant,UMLAUT,Þórr segir rögum frá því.,Þórr segir ragum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr segir ragum frá því.
+B: Þórr segir rögum frá því.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_067,llama-3.1-8b-instant,UMLAUT,Sigurðr gefr vöngum baug.,Sigurðr gefr vangum baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr gefr vangum baug.
+B: Sigurðr gefr vöngum baug.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_068,llama-3.1-8b-instant,UMLAUT,Þeir mæla við höfum.,Þeir mæla við hafum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við hafum.
+B: Þeir mæla við höfum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_069,llama-3.1-8b-instant,UMLAUT,Baldr segir öllum frá því.,Baldr segir allum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Baldr segir öllum frá því.
+B: Baldr segir allum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_070,llama-3.1-8b-instant,UMLAUT,Vér höfum heim ok hvílumsk.,Vér hafum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér höfum heim ok hvílumsk.
+B: Vér hafum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_071,llama-3.1-8b-instant,UMLAUT,Þeir gefa rögum mat.,Þeir gefa ragum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa rögum mat.
+B: Þeir gefa ragum mat.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_072,llama-3.1-8b-instant,UMLAUT,Vér göngum nú til skógar.,Vér gangum nú til skógar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér gangum nú til skógar.
+B: Vér göngum nú til skógar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_073,llama-3.1-8b-instant,UMLAUT,Haukr gefr öllum baug.,Haukr gefr allum baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr gefr allum baug.
+B: Haukr gefr öllum baug.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_074,llama-3.1-8b-instant,UMLAUT,Konungr gefr stöndum gull.,Konungr gefr standum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr stöndum gull.
+B: Konungr gefr standum gull.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_075,llama-3.1-8b-instant,UMLAUT,Vér öðrum nú til skógar.,Vér aðrum nú til skógar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér öðrum nú til skógar.
+B: Vér aðrum nú til skógar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_076,llama-3.1-8b-instant,UMLAUT,Óðinn segir stöndum frá því.,Óðinn segir standum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn segir stöndum frá því.
+B: Óðinn segir standum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_077,llama-3.1-8b-instant,UMLAUT,Baldr segir tökum frá því.,Baldr segir takum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Baldr segir tökum frá því.
+B: Baldr segir takum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_078,llama-3.1-8b-instant,UMLAUT,Vér öllum ok sjám Flosi.,Vér allum ok sjám Flosi.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér öllum ok sjám Flosi.
+B: Vér allum ok sjám Flosi.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_079,llama-3.1-8b-instant,UMLAUT,Þeir mæla við göngum.,Þeir mæla við gangum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við göngum.
+B: Þeir mæla við gangum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_080,llama-3.1-8b-instant,UMLAUT,Óláfr segir göngum frá því.,Óláfr segir gangum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr segir gangum frá því.
+B: Óláfr segir göngum frá því.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_081,llama-3.1-8b-instant,UMLAUT,Haukr segir göngum frá því.,Haukr segir gangum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr segir göngum frá því.
+B: Haukr segir gangum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_082,llama-3.1-8b-instant,UMLAUT,Vér förum hér ok bíðum.,Vér farum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér förum hér ok bíðum.
+B: Vér farum hér ok bíðum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_083,llama-3.1-8b-instant,UMLAUT,Vér glöðum heim ok hvílumsk.,Vér glaðum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér glaðum heim ok hvílumsk.
+B: Vér glöðum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_084,llama-3.1-8b-instant,UMLAUT,Vér öllum hér ok bíðum.,Vér allum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér öllum hér ok bíðum.
+B: Vér allum hér ok bíðum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_085,llama-3.1-8b-instant,UMLAUT,Vér mörgum nú til skógar.,Vér margum nú til skógar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér mörgum nú til skógar.
+B: Vér margum nú til skógar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_086,llama-3.1-8b-instant,UMLAUT,Vér öllum heim ok hvílumsk.,Vér allum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér allum heim ok hvílumsk.
+B: Vér öllum heim ok hvílumsk.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_087,llama-3.1-8b-instant,UMLAUT,Þeir mæla við öllum.,Þeir mæla við allum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við öllum.
+B: Þeir mæla við allum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_088,llama-3.1-8b-instant,UMLAUT,Þeir gefa göngum mat.,Þeir gefa gangum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa gangum mat.
+B: Þeir gefa göngum mat.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_089,llama-3.1-8b-instant,UMLAUT,Þeir gefa öðrum mat.,Þeir gefa aðrum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa aðrum mat.
+B: Þeir gefa öðrum mat.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_090,llama-3.1-8b-instant,UMLAUT,Vér öðrum ok sjám Flosi.,Vér aðrum ok sjám Flosi.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér aðrum ok sjám Flosi.
+B: Vér öðrum ok sjám Flosi.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_091,llama-3.1-8b-instant,UMLAUT,Þeir mæla við mönnum.,Þeir mæla við mannum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við mannum.
+B: Þeir mæla við mönnum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_092,llama-3.1-8b-instant,UMLAUT,Þeir fara til vöngum.,Þeir fara til vangum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fara til vöngum.
+B: Þeir fara til vangum.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_UMLAUT_093,llama-3.1-8b-instant,UMLAUT,Þeir fara til öllum.,Þeir fara til allum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fara til öllum.
+B: Þeir fara til allum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_094,llama-3.1-8b-instant,UMLAUT,Þórr segir stöndum frá því.,Þórr segir standum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr segir standum frá því.
+B: Þórr segir stöndum frá því.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_095,llama-3.1-8b-instant,UMLAUT,Vér öðrum heim ok hvílumsk.,Vér aðrum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér aðrum heim ok hvílumsk.
+B: Vér öðrum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_096,llama-3.1-8b-instant,UMLAUT,Óðinn gefr vöngum baug.,Óðinn gefr vangum baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn gefr vangum baug.
+B: Óðinn gefr vöngum baug.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_097,llama-3.1-8b-instant,UMLAUT,Þeir mæla við köllum.,Þeir mæla við kallum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við köllum.
+B: Þeir mæla við kallum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_098,llama-3.1-8b-instant,UMLAUT,Vér glöðum hér ok bíðum.,Vér glaðum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér glaðum hér ok bíðum.
+B: Vér glöðum hér ok bíðum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_099,llama-3.1-8b-instant,UMLAUT,Sigurðr segir rögum frá því.,Sigurðr segir ragum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr segir rögum frá því.
+B: Sigurðr segir ragum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_100,llama-3.1-8b-instant,UMLAUT,Vér jörlum ok sjám Baldr.,Vér jarlum ok sjám Baldr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér jörlum ok sjám Baldr.
+B: Vér jarlum ok sjám Baldr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_101,llama-3.1-8b-instant,UMLAUT,Þeir gefa mönnum mat.,Þeir gefa mannum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa mönnum mat.
+B: Þeir gefa mannum mat.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_102,llama-3.1-8b-instant,UMLAUT,Vér jörlum hér ok bíðum.,Vér jarlum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér jörlum hér ok bíðum.
+B: Vér jarlum hér ok bíðum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_103,llama-3.1-8b-instant,UMLAUT,Vér göngum hér ok bíðum.,Vér gangum hér ok bíðum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér gangum hér ok bíðum.
+B: Vér göngum hér ok bíðum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_104,llama-3.1-8b-instant,UMLAUT,Flosi segir löngum frá því.,Flosi segir langum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Flosi segir langum frá því.
+B: Flosi segir löngum frá því.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_105,llama-3.1-8b-instant,UMLAUT,Þórr segir göngum frá því.,Þórr segir gangum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr segir gangum frá því.
+B: Þórr segir göngum frá því.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_106,llama-3.1-8b-instant,UMLAUT,Vér jörlum heim ok hvílumsk.,Vér jarlum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér jarlum heim ok hvílumsk.
+B: Vér jörlum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_107,llama-3.1-8b-instant,UMLAUT,Haukr segir förum frá því.,Haukr segir farum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr segir förum frá því.
+B: Haukr segir farum frá því.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_108,llama-3.1-8b-instant,UMLAUT,Þeir mæla við förum.,Þeir mæla við farum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við farum.
+B: Þeir mæla við förum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_109,llama-3.1-8b-instant,UMLAUT,Kormákr gefr jörlum baug.,Kormákr gefr jarlum baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr gefr jörlum baug.
+B: Kormákr gefr jarlum baug.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_110,llama-3.1-8b-instant,UMLAUT,Þeir gefa tökum mat.,Þeir gefa takum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa tökum mat.
+B: Þeir gefa takum mat.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_111,llama-3.1-8b-instant,UMLAUT,Þeir gefa glöðum mat.,Þeir gefa glaðum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa glaðum mat.
+B: Þeir gefa glöðum mat.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_112,llama-3.1-8b-instant,UMLAUT,Þeir gefa löngum mat.,Þeir gefa langum mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gefa langum mat.
+B: Þeir gefa löngum mat.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_113,llama-3.1-8b-instant,UMLAUT,Óláfr segir tökum frá því.,Óláfr segir takum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr segir takum frá því.
+B: Óláfr segir tökum frá því.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_114,llama-3.1-8b-instant,UMLAUT,Vér mörgum heim ok hvílumsk.,Vér margum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér mörgum heim ok hvílumsk.
+B: Vér margum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_115,llama-3.1-8b-instant,UMLAUT,Þeir mæla við rögum.,Þeir mæla við ragum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við ragum.
+B: Þeir mæla við rögum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_116,llama-3.1-8b-instant,UMLAUT,Vér mörgum ok sjám Kormákr.,Vér margum ok sjám Kormákr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér margum ok sjám Kormákr.
+B: Vér mörgum ok sjám Kormákr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_117,llama-3.1-8b-instant,UMLAUT,Þeir mæla við löngum.,Þeir mæla við langum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir mæla við langum.
+B: Þeir mæla við löngum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_118,llama-3.1-8b-instant,UMLAUT,Vér göngum heim ok hvílumsk.,Vér gangum heim ok hvílumsk.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér göngum heim ok hvílumsk.
+B: Vér gangum heim ok hvílumsk.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_119,llama-3.1-8b-instant,UMLAUT,Sigurðr segir öðrum frá því.,Sigurðr segir aðrum frá því.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr segir aðrum frá því.
+B: Sigurðr segir öðrum frá því.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_UMLAUT_120,llama-3.1-8b-instant,UMLAUT,Njáll gefr köllum baug.,Njáll gefr kallum baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Njáll gefr kallum baug.
+B: Njáll gefr köllum baug.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_121,llama-3.1-8b-instant,UMLAUT,Vér öðrum ok sjám Haukr.,Vér aðrum ok sjám Haukr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér öðrum ok sjám Haukr.
+B: Vér aðrum ok sjám Haukr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_122,llama-3.1-8b-instant,UMLAUT,Ragnarr gefr köllum baug.,Ragnarr gefr kallum baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr gefr köllum baug.
+B: Ragnarr gefr kallum baug.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_123,llama-3.1-8b-instant,UMLAUT,Konungr gefr förum gull.,Konungr gefr farum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr farum gull.
+B: Konungr gefr förum gull.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_UMLAUT_124,llama-3.1-8b-instant,UMLAUT,Vér stöndum ok sjám Óðinn.,Vér standum ok sjám Óðinn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Vér stöndum ok sjám Óðinn.
+B: Vér standum ok sjám Óðinn.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_UMLAUT_125,llama-3.1-8b-instant,UMLAUT,Konungr gefr tökum gull.,Konungr gefr takum gull.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr gefr takum gull.
+B: Konungr gefr tökum gull.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_001,llama-3.1-8b-instant,MIDDLE_VOICE,"Sigurðr mælti : `` Aldri finnst þér vitrari kona í veröldu , ok kenn ek fleiri spekiráð . ''","Sigurðr mælti : `` Aldri finnr þér vitrari kona í veröldu , ok kenn ek fleiri spekiráð . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr mælti : `` Aldri finnst þér vitrari kona í veröldu , ok kenn ek fleiri spekiráð . ''
+B: Sigurðr mælti : `` Aldri finnr þér vitrari kona í veröldu , ok kenn ek fleiri spekiráð . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_002,llama-3.1-8b-instant,MIDDLE_VOICE,Henni finnst engi kona huglausari né verri . '',Henni finnr engi kona huglausari né verri . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Henni finnst engi kona huglausari né verri . ''
+B: Henni finnr engi kona huglausari né verri . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_003,llama-3.1-8b-instant,MIDDLE_VOICE,Mér sýnist sem hans ást sé þér gulli betri . '',Mér sýnir sem hans ást sé þér gulli betri . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Mér sýnir sem hans ást sé þér gulli betri . ''
+B: Mér sýnist sem hans ást sé þér gulli betri . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_004,llama-3.1-8b-instant,MIDDLE_VOICE,"Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í öllum fornkvæðum .","Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnr í öllum fornkvæðum .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í öllum fornkvæðum .
+B: Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnr í öllum fornkvæðum .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_005,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir fundusk um daginn.,Þeir fundu um daginn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fundu um daginn.
+B: Þeir fundusk um daginn.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_006,llama-3.1-8b-instant,MIDDLE_VOICE,Eiríkr ok jarl takask þar.,Eiríkr ok jarl taka þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr ok jarl taka þar.
+B: Eiríkr ok jarl takask þar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_007,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir takask um daginn.,Þeir taka um daginn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir takask um daginn.
+B: Þeir taka um daginn.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_008,llama-3.1-8b-instant,MIDDLE_VOICE,Menn finnask við ána.,Menn finna við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn finnask við ána.
+B: Menn finna við ána.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_009,llama-3.1-8b-instant,MIDDLE_VOICE,Menn hittust ok berjask.,Menn hittu ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn hittust ok berjask.
+B: Menn hittu ok berjask.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_010,llama-3.1-8b-instant,MIDDLE_VOICE,Njáll hittask ríkr maðr.,Njáll hitta ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Njáll hitta ríkr maðr.
+B: Njáll hittask ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_011,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir hittust ok mæla saman.,Þeir hittu ok mæla saman.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir hittust ok mæla saman.
+B: Þeir hittu ok mæla saman.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_012,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir setjask í bardaga.,Þeir setja í bardaga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir setjask í bardaga.
+B: Þeir setja í bardaga.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_013,llama-3.1-8b-instant,MIDDLE_VOICE,Óðinn tókusk konungr.,Óðinn tóku konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn tókusk konungr.
+B: Óðinn tóku konungr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_014,llama-3.1-8b-instant,MIDDLE_VOICE,Víkingar takask á hólminum.,Víkingar taka á hólminum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Víkingar taka á hólminum.
+B: Víkingar takask á hólminum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_015,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir kallask í bardaga.,Þeir kalla í bardaga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir kallask í bardaga.
+B: Þeir kalla í bardaga.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_016,llama-3.1-8b-instant,MIDDLE_VOICE,Eiríkr gerðusk við Þórr.,Eiríkr gerðu við Þórr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr gerðusk við Þórr.
+B: Eiríkr gerðu við Þórr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_017,llama-3.1-8b-instant,MIDDLE_VOICE,Menn kallast í skóginum.,Menn kallar í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn kallar í skóginum.
+B: Menn kallast í skóginum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_018,llama-3.1-8b-instant,MIDDLE_VOICE,Menn takask við ána.,Menn taka við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn taka við ána.
+B: Menn takask við ána.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_019,llama-3.1-8b-instant,MIDDLE_VOICE,Menn takask í skóginum.,Menn taka í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn takask í skóginum.
+B: Menn taka í skóginum.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_020,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir finnask um daginn.,Þeir finna um daginn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir finna um daginn.
+B: Þeir finnask um daginn.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_021,llama-3.1-8b-instant,MIDDLE_VOICE,Menn hittask við ána.,Menn hitta við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn hittask við ána.
+B: Menn hitta við ána.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_022,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir settust ok mæla saman.,Þeir settu ok mæla saman.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir settust ok mæla saman.
+B: Þeir settu ok mæla saman.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_023,llama-3.1-8b-instant,MIDDLE_VOICE,Menn gerask í skóginum.,Menn gera í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn gera í skóginum.
+B: Menn gerask í skóginum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_024,llama-3.1-8b-instant,MIDDLE_VOICE,Menn settust ok berjask.,Menn settu ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn settu ok berjask.
+B: Menn settust ok berjask.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_025,llama-3.1-8b-instant,MIDDLE_VOICE,Menn finnst í skóginum.,Menn finnr í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn finnr í skóginum.
+B: Menn finnst í skóginum.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_MIDDLE_VOICE_026,llama-3.1-8b-instant,MIDDLE_VOICE,Konungar leggjask í Noregi.,Konungar leggja í Noregi.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungar leggja í Noregi.
+B: Konungar leggjask í Noregi.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_027,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir tókusk í morgin.,Þeir tóku í morgin.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir tókusk í morgin.
+B: Þeir tóku í morgin.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_028,llama-3.1-8b-instant,MIDDLE_VOICE,Flosi kallast konungr.,Flosi kallar konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Flosi kallast konungr.
+B: Flosi kallar konungr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_029,llama-3.1-8b-instant,MIDDLE_VOICE,Kormákr ok Skarpheðinn börðusk þar.,Kormákr ok Skarpheðinn börðu þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr ok Skarpheðinn börðusk þar.
+B: Kormákr ok Skarpheðinn börðu þar.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_030,llama-3.1-8b-instant,MIDDLE_VOICE,Menn leggjask við ána.,Menn leggja við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn leggjask við ána.
+B: Menn leggja við ána.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_031,llama-3.1-8b-instant,MIDDLE_VOICE,Menn tókusk við ána.,Menn tóku við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn tókusk við ána.
+B: Menn tóku við ána.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_032,llama-3.1-8b-instant,MIDDLE_VOICE,Sigurðr ok Njáll fundusk þar.,Sigurðr ok Njáll fundu þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr ok Njáll fundusk þar.
+B: Sigurðr ok Njáll fundu þar.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_033,llama-3.1-8b-instant,MIDDLE_VOICE,Menn leggjask ok berjask.,Menn leggja ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn leggjask ok berjask.
+B: Menn leggja ok berjask.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_034,llama-3.1-8b-instant,MIDDLE_VOICE,Konungar börðusk í Noregi.,Konungar börðu í Noregi.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungar börðusk í Noregi.
+B: Konungar börðu í Noregi.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_035,llama-3.1-8b-instant,MIDDLE_VOICE,Þórr kallast ríkr maðr.,Þórr kallar ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr kallast ríkr maðr.
+B: Þórr kallar ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_036,llama-3.1-8b-instant,MIDDLE_VOICE,Njáll tókusk við Sigurðr.,Njáll tóku við Sigurðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Njáll tókusk við Sigurðr.
+B: Njáll tóku við Sigurðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_037,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir setjask um daginn.,Þeir setja um daginn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir setja um daginn.
+B: Þeir setjask um daginn.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_038,llama-3.1-8b-instant,MIDDLE_VOICE,Víkingar gerask á hólminum.,Víkingar gera á hólminum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Víkingar gerask á hólminum.
+B: Víkingar gera á hólminum.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_039,llama-3.1-8b-instant,MIDDLE_VOICE,Ragnarr kallask ríkr maðr.,Ragnarr kalla ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr kalla ríkr maðr.
+B: Ragnarr kallask ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_040,llama-3.1-8b-instant,MIDDLE_VOICE,Menn börðusk í skóginum.,Menn börðu í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn börðusk í skóginum.
+B: Menn börðu í skóginum.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_041,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir finnask ok mæla saman.,Þeir finna ok mæla saman.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir finnask ok mæla saman.
+B: Þeir finna ok mæla saman.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_042,llama-3.1-8b-instant,MIDDLE_VOICE,Eiríkr berjask ríkr maðr.,Eiríkr berja ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr berja ríkr maðr.
+B: Eiríkr berjask ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_043,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir gerðusk ok fara heim.,Þeir gerðu ok fara heim.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gerðu ok fara heim.
+B: Þeir gerðusk ok fara heim.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_044,llama-3.1-8b-instant,MIDDLE_VOICE,Sigurðr snúask ríkr maðr.,Sigurðr snúa ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr snúask ríkr maðr.
+B: Sigurðr snúa ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_045,llama-3.1-8b-instant,MIDDLE_VOICE,Sigurðr gerðusk ríkr maðr.,Sigurðr gerðu ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr gerðusk ríkr maðr.
+B: Sigurðr gerðu ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_046,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir hittask ok fara heim.,Þeir hitta ok fara heim.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir hittask ok fara heim.
+B: Þeir hitta ok fara heim.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_047,llama-3.1-8b-instant,MIDDLE_VOICE,Eiríkr ok jarl leggjask þar.,Eiríkr ok jarl leggja þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr ok jarl leggjask þar.
+B: Eiríkr ok jarl leggja þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_048,llama-3.1-8b-instant,MIDDLE_VOICE,Menn hittust við ána.,Menn hittu við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn hittust við ána.
+B: Menn hittu við ána.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_049,llama-3.1-8b-instant,MIDDLE_VOICE,Njáll ok Þórr finnask þar.,Njáll ok Þórr finna þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Njáll ok Þórr finnask þar.
+B: Njáll ok Þórr finna þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_050,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir berjask í bardaga.,Þeir berja í bardaga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir berja í bardaga.
+B: Þeir berjask í bardaga.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_MIDDLE_VOICE_051,llama-3.1-8b-instant,MIDDLE_VOICE,Menn kallast við ána.,Menn kallar við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn kallar við ána.
+B: Menn kallast við ána.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_052,llama-3.1-8b-instant,MIDDLE_VOICE,Menn takask ok berjask.,Menn taka ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn takask ok berjask.
+B: Menn taka ok berjask.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_053,llama-3.1-8b-instant,MIDDLE_VOICE,Menn snúask í skóginum.,Menn snúa í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn snúask í skóginum.
+B: Menn snúa í skóginum.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_054,llama-3.1-8b-instant,MIDDLE_VOICE,Óláfr finnask við Sigurðr.,Óláfr finna við Sigurðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr finna við Sigurðr.
+B: Óláfr finnask við Sigurðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_055,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir hittask í bardaga.,Þeir hitta í bardaga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir hitta í bardaga.
+B: Þeir hittask í bardaga.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_MIDDLE_VOICE_056,llama-3.1-8b-instant,MIDDLE_VOICE,Menn hittust í skóginum.,Menn hittu í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn hittust í skóginum.
+B: Menn hittu í skóginum.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_057,llama-3.1-8b-instant,MIDDLE_VOICE,Menn tókusk í skóginum.,Menn tóku í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn tókusk í skóginum.
+B: Menn tóku í skóginum.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_058,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir kallast um daginn.,Þeir kallar um daginn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir kallast um daginn.
+B: Þeir kallar um daginn.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_059,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir gerask í morgin.,Þeir gera í morgin.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir gerask í morgin.
+B: Þeir gera í morgin.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_060,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir setjask í morgin.,Þeir setja í morgin.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir setja í morgin.
+B: Þeir setjask í morgin.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_061,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir settust í bardaga.,Þeir settu í bardaga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir settu í bardaga.
+B: Þeir settust í bardaga.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_062,llama-3.1-8b-instant,MIDDLE_VOICE,Víkingar kallast á hólminum.,Víkingar kallar á hólminum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Víkingar kallast á hólminum.
+B: Víkingar kallar á hólminum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_063,llama-3.1-8b-instant,MIDDLE_VOICE,Ragnarr berjask við Gunnarr.,Ragnarr berja við Gunnarr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr berja við Gunnarr.
+B: Ragnarr berjask við Gunnarr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_064,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir finnst í bardaga.,Þeir finnr í bardaga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir finnst í bardaga.
+B: Þeir finnr í bardaga.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_065,llama-3.1-8b-instant,MIDDLE_VOICE,Konungar kallask í Noregi.,Konungar kalla í Noregi.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungar kallask í Noregi.
+B: Konungar kalla í Noregi.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_066,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir finnask ok fara heim.,Þeir finna ok fara heim.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir finnask ok fara heim.
+B: Þeir finna ok fara heim.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_067,llama-3.1-8b-instant,MIDDLE_VOICE,Víkingar gerðusk á hólminum.,Víkingar gerðu á hólminum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Víkingar gerðu á hólminum.
+B: Víkingar gerðusk á hólminum.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_MIDDLE_VOICE_068,llama-3.1-8b-instant,MIDDLE_VOICE,Þórr hittask ríkr maðr.,Þórr hitta ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr hittask ríkr maðr.
+B: Þórr hitta ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_069,llama-3.1-8b-instant,MIDDLE_VOICE,Konungar settust í Noregi.,Konungar settu í Noregi.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungar settust í Noregi.
+B: Konungar settu í Noregi.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_070,llama-3.1-8b-instant,MIDDLE_VOICE,Kormákr setjask konungr.,Kormákr setja konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr setja konungr.
+B: Kormákr setjask konungr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_071,llama-3.1-8b-instant,MIDDLE_VOICE,Svartr börðusk við Óðinn.,Svartr börðu við Óðinn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr börðusk við Óðinn.
+B: Svartr börðu við Óðinn.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_072,llama-3.1-8b-instant,MIDDLE_VOICE,Flosi takask ríkr maðr.,Flosi taka ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Flosi takask ríkr maðr.
+B: Flosi taka ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_073,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir tókusk um daginn.,Þeir tóku um daginn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir tókusk um daginn.
+B: Þeir tóku um daginn.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_074,llama-3.1-8b-instant,MIDDLE_VOICE,Ragnarr snúask ríkr maðr.,Ragnarr snúa ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr snúa ríkr maðr.
+B: Ragnarr snúask ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_075,llama-3.1-8b-instant,MIDDLE_VOICE,Ragnarr hittask konungr.,Ragnarr hitta konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr hitta konungr.
+B: Ragnarr hittask konungr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_076,llama-3.1-8b-instant,MIDDLE_VOICE,Svartr ok jarl leggjask þar.,Svartr ok jarl leggja þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr ok jarl leggjask þar.
+B: Svartr ok jarl leggja þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_077,llama-3.1-8b-instant,MIDDLE_VOICE,Eiríkr kallask ríkr maðr.,Eiríkr kalla ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr kallask ríkr maðr.
+B: Eiríkr kalla ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_078,llama-3.1-8b-instant,MIDDLE_VOICE,Flosi hittust við Óðinn.,Flosi hittu við Óðinn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Flosi hittust við Óðinn.
+B: Flosi hittu við Óðinn.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_079,llama-3.1-8b-instant,MIDDLE_VOICE,Menn berjask við ána.,Menn berja við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn berjask við ána.
+B: Menn berja við ána.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_080,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir kallast í morgin.,Þeir kallar í morgin.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir kallar í morgin.
+B: Þeir kallast í morgin.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_081,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir hittask í morgin.,Þeir hitta í morgin.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir hittask í morgin.
+B: Þeir hitta í morgin.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_082,llama-3.1-8b-instant,MIDDLE_VOICE,Óðinn ok Svartr gerask þar.,Óðinn ok Svartr gera þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn ok Svartr gera þar.
+B: Óðinn ok Svartr gerask þar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_083,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir leggjask um daginn.,Þeir leggja um daginn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir leggja um daginn.
+B: Þeir leggjask um daginn.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_084,llama-3.1-8b-instant,MIDDLE_VOICE,Óláfr hittask ríkr maðr.,Óláfr hitta ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr hittask ríkr maðr.
+B: Óláfr hitta ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_085,llama-3.1-8b-instant,MIDDLE_VOICE,Skarpheðinn kallask ríkr maðr.,Skarpheðinn kalla ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skarpheðinn kalla ríkr maðr.
+B: Skarpheðinn kallask ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_086,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir settust ok fara heim.,Þeir settu ok fara heim.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir settust ok fara heim.
+B: Þeir settu ok fara heim.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_087,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir tókusk ok fara heim.,Þeir tóku ok fara heim.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir tóku ok fara heim.
+B: Þeir tókusk ok fara heim.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_088,llama-3.1-8b-instant,MIDDLE_VOICE,Menn settust við ána.,Menn settu við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn settust við ána.
+B: Menn settu við ána.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_089,llama-3.1-8b-instant,MIDDLE_VOICE,Óðinn gerðusk ríkr maðr.,Óðinn gerðu ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn gerðusk ríkr maðr.
+B: Óðinn gerðu ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_090,llama-3.1-8b-instant,MIDDLE_VOICE,Óðinn ok Flosi gerask þar.,Óðinn ok Flosi gera þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn ok Flosi gera þar.
+B: Óðinn ok Flosi gerask þar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_091,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir hittust í morgin.,Þeir hittu í morgin.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir hittu í morgin.
+B: Þeir hittust í morgin.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_092,llama-3.1-8b-instant,MIDDLE_VOICE,Ragnarr ok Gunnarr finnst þar.,Ragnarr ok Gunnarr finnr þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr ok Gunnarr finnst þar.
+B: Ragnarr ok Gunnarr finnr þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_093,llama-3.1-8b-instant,MIDDLE_VOICE,Menn börðusk við ána.,Menn börðu við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn börðu við ána.
+B: Menn börðusk við ána.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_MIDDLE_VOICE_094,llama-3.1-8b-instant,MIDDLE_VOICE,Þórr hittust ríkr maðr.,Þórr hittu ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr hittust ríkr maðr.
+B: Þórr hittu ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_095,llama-3.1-8b-instant,MIDDLE_VOICE,Þórr ok Eiríkr gerask þar.,Þórr ok Eiríkr gera þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr ok Eiríkr gera þar.
+B: Þórr ok Eiríkr gerask þar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_096,llama-3.1-8b-instant,MIDDLE_VOICE,Menn kallask við ána.,Menn kalla við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn kallask við ána.
+B: Menn kalla við ána.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_097,llama-3.1-8b-instant,MIDDLE_VOICE,Skarpheðinn tókusk ríkr maðr.,Skarpheðinn tóku ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skarpheðinn tóku ríkr maðr.
+B: Skarpheðinn tókusk ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_098,llama-3.1-8b-instant,MIDDLE_VOICE,Skarpheðinn berjask konungr.,Skarpheðinn berja konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skarpheðinn berja konungr.
+B: Skarpheðinn berjask konungr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_099,llama-3.1-8b-instant,MIDDLE_VOICE,Baldr hittask við Haukr.,Baldr hitta við Haukr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Baldr hittask við Haukr.
+B: Baldr hitta við Haukr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_100,llama-3.1-8b-instant,MIDDLE_VOICE,Haukr berjask við Óðinn.,Haukr berja við Óðinn.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr berjask við Óðinn.
+B: Haukr berja við Óðinn.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_101,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir kallask ok fara heim.,Þeir kalla ok fara heim.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir kalla ok fara heim.
+B: Þeir kallask ok fara heim.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_102,llama-3.1-8b-instant,MIDDLE_VOICE,Svartr ok jarl kallask þar.,Svartr ok jarl kalla þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr ok jarl kallask þar.
+B: Svartr ok jarl kalla þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_103,llama-3.1-8b-instant,MIDDLE_VOICE,Menn snúask ok berjask.,Menn snúa ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn snúask ok berjask.
+B: Menn snúa ok berjask.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_104,llama-3.1-8b-instant,MIDDLE_VOICE,Menn kallask ok berjask.,Menn kalla ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn kalla ok berjask.
+B: Menn kallask ok berjask.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_105,llama-3.1-8b-instant,MIDDLE_VOICE,Menn setjask ok berjask.,Menn setja ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn setjask ok berjask.
+B: Menn setja ok berjask.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_106,llama-3.1-8b-instant,MIDDLE_VOICE,Menn gerðusk ok berjask.,Menn gerðu ok berjask.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn gerðu ok berjask.
+B: Menn gerðusk ok berjask.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_MIDDLE_VOICE_107,llama-3.1-8b-instant,MIDDLE_VOICE,Konungar takask í Noregi.,Konungar taka í Noregi.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungar takask í Noregi.
+B: Konungar taka í Noregi.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_108,llama-3.1-8b-instant,MIDDLE_VOICE,Skarpheðinn kallask við Sigurðr.,Skarpheðinn kalla við Sigurðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skarpheðinn kallask við Sigurðr.
+B: Skarpheðinn kalla við Sigurðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_109,llama-3.1-8b-instant,MIDDLE_VOICE,Svartr hittask ríkr maðr.,Svartr hitta ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr hitta ríkr maðr.
+B: Svartr hittask ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_110,llama-3.1-8b-instant,MIDDLE_VOICE,Eiríkr finnask ríkr maðr.,Eiríkr finna ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr finnask ríkr maðr.
+B: Eiríkr finna ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_111,llama-3.1-8b-instant,MIDDLE_VOICE,Ragnarr ok jarl tókusk þar.,Ragnarr ok jarl tóku þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr ok jarl tókusk þar.
+B: Ragnarr ok jarl tóku þar.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_112,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir takask ok fara heim.,Þeir taka ok fara heim.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir taka ok fara heim.
+B: Þeir takask ok fara heim.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_113,llama-3.1-8b-instant,MIDDLE_VOICE,Kormákr ok Svartr settust þar.,Kormákr ok Svartr settu þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr ok Svartr settust þar.
+B: Kormákr ok Svartr settu þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_114,llama-3.1-8b-instant,MIDDLE_VOICE,Gunnarr leggjask við Sigurðr.,Gunnarr leggja við Sigurðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Gunnarr leggja við Sigurðr.
+B: Gunnarr leggjask við Sigurðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_115,llama-3.1-8b-instant,MIDDLE_VOICE,Kormákr setjask ríkr maðr.,Kormákr setja ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr setjask ríkr maðr.
+B: Kormákr setja ríkr maðr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_116,llama-3.1-8b-instant,MIDDLE_VOICE,Haukr ok Skarpheðinn settust þar.,Haukr ok Skarpheðinn settu þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr ok Skarpheðinn settust þar.
+B: Haukr ok Skarpheðinn settu þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_117,llama-3.1-8b-instant,MIDDLE_VOICE,Menn leggjask í skóginum.,Menn leggja í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn leggja í skóginum.
+B: Menn leggjask í skóginum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_118,llama-3.1-8b-instant,MIDDLE_VOICE,Óláfr finnst ríkr maðr.,Óláfr finnr ríkr maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr finnr ríkr maðr.
+B: Óláfr finnst ríkr maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_119,llama-3.1-8b-instant,MIDDLE_VOICE,Menn setjask í skóginum.,Menn setja í skóginum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn setja í skóginum.
+B: Menn setjask í skóginum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_120,llama-3.1-8b-instant,MIDDLE_VOICE,Menn snúask við ána.,Menn snúa við ána.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Menn snúa við ána.
+B: Menn snúask við ána.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_121,llama-3.1-8b-instant,MIDDLE_VOICE,Óðinn ok Flosi hittust þar.,Óðinn ok Flosi hittu þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn ok Flosi hittu þar.
+B: Óðinn ok Flosi hittust þar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_MIDDLE_VOICE_122,llama-3.1-8b-instant,MIDDLE_VOICE,Víkingar kallask á hólminum.,Víkingar kalla á hólminum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Víkingar kallask á hólminum.
+B: Víkingar kalla á hólminum.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_123,llama-3.1-8b-instant,MIDDLE_VOICE,Þeir takask í bardaga.,Þeir taka í bardaga.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir takask í bardaga.
+B: Þeir taka í bardaga.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_MIDDLE_VOICE_124,llama-3.1-8b-instant,MIDDLE_VOICE,Sigurðr ok Óðinn berjask þar.,Sigurðr ok Óðinn berja þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr ok Óðinn berjask þar.
+B: Sigurðr ok Óðinn berja þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_MIDDLE_VOICE_125,llama-3.1-8b-instant,MIDDLE_VOICE,Víkingar tókusk á hólminum.,Víkingar tóku á hólminum.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Víkingar tóku á hólminum.
+B: Víkingar tókusk á hólminum.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_001,llama-3.1-8b-instant,ADJECTIVE,Nú gerist Sigi gamall maðr at aldri .,Nú gerist Sigi gamli maðr at aldri .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú gerist Sigi gamli maðr at aldri .
+B: Nú gerist Sigi gamall maðr at aldri .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_002,llama-3.1-8b-instant,ADJECTIVE,"Hann var snemma mikill ok sterkr ok áræðisfullr um þat , er mannraun þótti í ok karlmennska .","Hann var snemma mikill ok sterki ok áræðisfullr um þat , er mannraun þótti í ok karlmennska .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var snemma mikill ok sterki ok áræðisfullr um þat , er mannraun þótti í ok karlmennska .
+B: Hann var snemma mikill ok sterkr ok áræðisfullr um þat , er mannraun þótti í ok karlmennska .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_003,llama-3.1-8b-instant,ADJECTIVE,Hann var ríkr konungr ok fjölmennr .,Hann var ríki konungr ok fjölmennr .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var ríkr konungr ok fjölmennr .
+B: Hann var ríki konungr ok fjölmennr .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_004,llama-3.1-8b-instant,ADJECTIVE,"`` Bregðum nú eigi af þessu , '' segir Sigmundr , `` því at þú ert ungr ok áræðisfullr .","`` Bregðum nú eigi af þessu , '' segir Sigmundr , `` því at þú ert ungi ok áræðisfullr .","Which of the following Old Norse sentences is grammatically correct?
+
+A: `` Bregðum nú eigi af þessu , '' segir Sigmundr , `` því at þú ert ungr ok áræðisfullr .
+B: `` Bregðum nú eigi af þessu , '' segir Sigmundr , `` því at þú ert ungi ok áræðisfullr .
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_ADJECTIVE_005,llama-3.1-8b-instant,ADJECTIVE,"Sigmundr gerist nú ríkr konungr ok ágætr , vitr ok stórráðr .","Sigmundr gerist nú ríki konungr ok ágætr , vitr ok stórráðr .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigmundr gerist nú ríkr konungr ok ágætr , vitr ok stórráðr .
+B: Sigmundr gerist nú ríki konungr ok ágætr , vitr ok stórráðr .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_006,llama-3.1-8b-instant,ADJECTIVE,"Þat er sagt , at hann réðst í hernað , þá er hann var fimmtán vetra gamall .","Þat er sagt , at hann réðst í hernað , þá er hann var fimmtán vetra gamli .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þat er sagt , at hann réðst í hernað , þá er hann var fimmtán vetra gamli .
+B: Þat er sagt , at hann réðst í hernað , þá er hann var fimmtán vetra gamall .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_007,llama-3.1-8b-instant,ADJECTIVE,Hann var ríkr konungr ok fjölmennr ok réð fyrir löndum .,Hann var ríki konungr ok fjölmennr ok réð fyrir löndum .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var ríki konungr ok fjölmennr ok réð fyrir löndum .
+B: Hann var ríkr konungr ok fjölmennr ok réð fyrir löndum .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_008,llama-3.1-8b-instant,ADJECTIVE,"Nú þykkir Helgi hafa vaxit mikit , er hann hefir fellt svá ríkan konung .","Nú þykkir Helgi hafa vaxit mikit , er hann hefir fellt svá ríka konung .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Nú þykkir Helgi hafa vaxit mikit , er hann hefir fellt svá ríka konung .
+B: Nú þykkir Helgi hafa vaxit mikit , er hann hefir fellt svá ríkan konung .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_009,llama-3.1-8b-instant,ADJECTIVE,"Er mér þetta mikill tímadagr , ok muntu fá af þessu veg ok ágæti , er þú hefir svá ríkan konung felldan . ''","Er mér þetta mikill tímadagr , ok muntu fá af þessu veg ok ágæti , er þú hefir svá ríka konung felldan . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Er mér þetta mikill tímadagr , ok muntu fá af þessu veg ok ágæti , er þú hefir svá ríkan konung felldan . ''
+B: Er mér þetta mikill tímadagr , ok muntu fá af þessu veg ok ágæti , er þú hefir svá ríka konung felldan . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_010,llama-3.1-8b-instant,ADJECTIVE,"Eylimi hefir konungr heitit , ríkr ok ágætr .","Eylimi hefir konungr heitit , ríki ok ágætr .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Eylimi hefir konungr heitit , ríki ok ágætr .
+B: Eylimi hefir konungr heitit , ríkr ok ágætr .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_011,llama-3.1-8b-instant,ADJECTIVE,"Tekst þar nú hörð orrosta , ok þótt Sigmundr væri gamall , þá barðist hann nú hart ok var jafnan fremstr sinna manna .","Tekst þar nú hörð orrosta , ok þótt Sigmundr væri gamli , þá barðist hann nú hart ok var jafnan fremstr sinna manna .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Tekst þar nú hörð orrosta , ok þótt Sigmundr væri gamall , þá barðist hann nú hart ok var jafnan fremstr sinna manna .
+B: Tekst þar nú hörð orrosta , ok þótt Sigmundr væri gamli , þá barðist hann nú hart ok var jafnan fremstr sinna manna .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_012,llama-3.1-8b-instant,ADJECTIVE,"Hann var grár at lit ok ungr at aldri , mikill vexti ok vænn .","Hann var grár at lit ok ungi at aldri , mikill vexti ok vænn .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var grár at lit ok ungr at aldri , mikill vexti ok vænn .
+B: Hann var grár at lit ok ungi at aldri , mikill vexti ok vænn .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_013,llama-3.1-8b-instant,ADJECTIVE,Gekk Sigurðr þá glaðr heim .,Gekk Sigurðr þá glaði heim .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Gekk Sigurðr þá glaði heim .
+B: Gekk Sigurðr þá glaðr heim .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_014,llama-3.1-8b-instant,ADJECTIVE,Sigla þeir nú góðan byr .,Sigla þeir nú góða byr .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigla þeir nú góða byr .
+B: Sigla þeir nú góðan byr .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_015,llama-3.1-8b-instant,ADJECTIVE,"Ok er hann er at þessu verki , kemr at honum einn gamall maðr með síðu skeggi ok spyrr , hvat hann gerir þar .","Ok er hann er at þessu verki , kemr at honum einn gamli maðr með síðu skeggi ok spyrr , hvat hann gerir þar .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok er hann er at þessu verki , kemr at honum einn gamall maðr með síðu skeggi ok spyrr , hvat hann gerir þar .
+B: Ok er hann er at þessu verki , kemr at honum einn gamli maðr með síðu skeggi ok spyrr , hvat hann gerir þar .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_016,llama-3.1-8b-instant,ADJECTIVE,"Hann var gamall ok inn mesti hermaðr , ok hafði Óðinn honum sigri heitit , en annarr Agnarr eða Auðabróðir .","Hann var gamli ok inn mesti hermaðr , ok hafði Óðinn honum sigri heitit , en annarr Agnarr eða Auðabróðir .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var gamall ok inn mesti hermaðr , ok hafði Óðinn honum sigri heitit , en annarr Agnarr eða Auðabróðir .
+B: Hann var gamli ok inn mesti hermaðr , ok hafði Óðinn honum sigri heitit , en annarr Agnarr eða Auðabróðir .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_017,llama-3.1-8b-instant,ADJECTIVE,"Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .","Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungi sé .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungi sé .
+B: Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_018,llama-3.1-8b-instant,ADJECTIVE,"Sigurðr svarar : `` Góðr vinr , heyr , hvat ek hugsa .","Sigurðr svarar : `` Góði vinr , heyr , hvat ek hugsa .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr svarar : `` Góðr vinr , heyr , hvat ek hugsa .
+B: Sigurðr svarar : `` Góði vinr , heyr , hvat ek hugsa .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_019,llama-3.1-8b-instant,ADJECTIVE,"Þat dreymdi mik , at ek sá einn fagran hauk mér á hendi .","Þat dreymdi mik , at ek sá einn fagra hauk mér á hendi .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þat dreymdi mik , at ek sá einn fagra hauk mér á hendi .
+B: Þat dreymdi mik , at ek sá einn fagran hauk mér á hendi .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_020,llama-3.1-8b-instant,ADJECTIVE,Hann er ungr ok fás vitandi ok fyrir utan alla eiða . '',Hann er ungi ok fás vitandi ok fyrir utan alla eiða . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er ungi ok fás vitandi ok fyrir utan alla eiða . ''
+B: Hann er ungr ok fás vitandi ok fyrir utan alla eiða . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_021,llama-3.1-8b-instant,ADJECTIVE,"Atli var mikill konungr ok ríkr , vitr ok fjölmennr ; gerir nú ráð við sína menn , hversu með skal fara .","Atli var mikill konungr ok ríki , vitr ok fjölmennr ; gerir nú ráð við sína menn , hversu með skal fara .","Which of the following Old Norse sentences is grammatically correct?
+
+A: Atli var mikill konungr ok ríkr , vitr ok fjölmennr ; gerir nú ráð við sína menn , hversu með skal fara .
+B: Atli var mikill konungr ok ríki , vitr ok fjölmennr ; gerir nú ráð við sína menn , hversu með skal fara .
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_022,llama-3.1-8b-instant,ADJECTIVE,Sonr Högna mælti : `` Farið vel ok hafið góðan tíma . '',Sonr Högna mælti : `` Farið vel ok hafið góða tíma . '',"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sonr Högna mælti : `` Farið vel ok hafið góða tíma . ''
+B: Sonr Högna mælti : `` Farið vel ok hafið góðan tíma . ''
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_023,llama-3.1-8b-instant,ADJECTIVE,Hann var ríkr konungr í þann tíma .,Hann var ríki konungr í þann tíma .,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var ríki konungr í þann tíma .
+B: Hann var ríkr konungr í þann tíma .
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_024,llama-3.1-8b-instant,ADJECTIVE,"Þá mælti Bikki til Randvés : `` Sannligt væri þat , at þér ættið svá fríða konu , en eigi svá gamall maðr . ''","Þá mælti Bikki til Randvés : `` Sannligt væri þat , at þér ættið svá fríða konu , en eigi svá gamli maðr . ''","Which of the following Old Norse sentences is grammatically correct?
+
+A: Þá mælti Bikki til Randvés : `` Sannligt væri þat , at þér ættið svá fríða konu , en eigi svá gamall maðr . ''
+B: Þá mælti Bikki til Randvés : `` Sannligt væri þat , at þér ættið svá fríða konu , en eigi svá gamli maðr . ''
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_025,llama-3.1-8b-instant,ADJECTIVE,Hann tekr góðan brand.,Hann tekr góða brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann tekr góðan brand.
+B: Hann tekr góða brand.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_026,llama-3.1-8b-instant,ADJECTIVE,Konungr á reiðan baug.,Konungr á reiða baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr á reiðan baug.
+B: Konungr á reiða baug.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_027,llama-3.1-8b-instant,ADJECTIVE,Þar er fagr skógr.,Þar er fagri skógr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar er fagri skógr.
+B: Þar er fagr skógr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_028,llama-3.1-8b-instant,ADJECTIVE,Hann var illr mjök.,Hann var illi mjök.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var illr mjök.
+B: Hann var illi mjök.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_029,llama-3.1-8b-instant,ADJECTIVE,Konungr á ríkan baug.,Konungr á ríka baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr á ríka baug.
+B: Konungr á ríkan baug.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_030,llama-3.1-8b-instant,ADJECTIVE,Hann var ríkr mjök.,Hann var ríki mjök.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var ríkr mjök.
+B: Hann var ríki mjök.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_031,llama-3.1-8b-instant,ADJECTIVE,Þeir fœra ríkan mat.,Þeir fœra ríka mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fœra ríka mat.
+B: Þeir fœra ríkan mat.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_032,llama-3.1-8b-instant,ADJECTIVE,Sigurðr hefir harðan hjálm.,Sigurðr hefir harða hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr hefir harða hjálm.
+B: Sigurðr hefir harðan hjálm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_033,llama-3.1-8b-instant,ADJECTIVE,Hann á gamlan hest.,Hann á gamla hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann á gamla hest.
+B: Hann á gamlan hest.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_034,llama-3.1-8b-instant,ADJECTIVE,Þórr vegr ungan úlf.,Þórr vegr unga úlf.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr vegr ungan úlf.
+B: Þórr vegr unga úlf.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_ADJECTIVE_035,llama-3.1-8b-instant,ADJECTIVE,Hann kaupir ríkan hest.,Hann kaupir ríka hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann kaupir ríka hest.
+B: Hann kaupir ríkan hest.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_036,llama-3.1-8b-instant,ADJECTIVE,Hann tekr sterkan brand.,Hann tekr sterka brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann tekr sterka brand.
+B: Hann tekr sterkan brand.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_037,llama-3.1-8b-instant,ADJECTIVE,Konungr á illan baug.,Konungr á illa baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr á illa baug.
+B: Konungr á illan baug.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_038,llama-3.1-8b-instant,ADJECTIVE,Konungr á fagran baug.,Konungr á fagra baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr á fagran baug.
+B: Konungr á fagra baug.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_039,llama-3.1-8b-instant,ADJECTIVE,Hann á spakan hest.,Hann á spaka hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann á spakan hest.
+B: Hann á spaka hest.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_040,llama-3.1-8b-instant,ADJECTIVE,Þeir finna stóran konung.,Þeir finna stóra konung.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir finna stóran konung.
+B: Þeir finna stóra konung.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_041,llama-3.1-8b-instant,ADJECTIVE,Svartr var spakr ok ríkr.,Svartr var spaki ok ríkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr var spakr ok ríkr.
+B: Svartr var spaki ok ríkr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_042,llama-3.1-8b-instant,ADJECTIVE,Konungr á spakan baug.,Konungr á spaka baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr á spaka baug.
+B: Konungr á spakan baug.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_043,llama-3.1-8b-instant,ADJECTIVE,Þar er spakr skógr.,Þar er spaki skógr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar er spaki skógr.
+B: Þar er spakr skógr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_044,llama-3.1-8b-instant,ADJECTIVE,Þeir finna reiðan konung.,Þeir finna reiða konung.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir finna reiða konung.
+B: Þeir finna reiðan konung.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_045,llama-3.1-8b-instant,ADJECTIVE,Konungr á ungan baug.,Konungr á unga baug.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Konungr á ungan baug.
+B: Konungr á unga baug.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_ADJECTIVE_046,llama-3.1-8b-instant,ADJECTIVE,Ragnarr sér sterkan mann.,Ragnarr sér sterka mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr sér sterka mann.
+B: Ragnarr sér sterkan mann.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_047,llama-3.1-8b-instant,ADJECTIVE,Þeir sjá reiðan orm.,Þeir sjá reiða orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir sjá reiða orm.
+B: Þeir sjá reiðan orm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_048,llama-3.1-8b-instant,ADJECTIVE,Gunnarr hefir gamlan hjálm.,Gunnarr hefir gamla hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Gunnarr hefir gamla hjálm.
+B: Gunnarr hefir gamlan hjálm.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_049,llama-3.1-8b-instant,ADJECTIVE,Hann á stóran hest.,Hann á stóra hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann á stóra hest.
+B: Hann á stóran hest.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_050,llama-3.1-8b-instant,ADJECTIVE,ungr maðr heitir Baldr.,ungi maðr heitir Baldr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: ungi maðr heitir Baldr.
+B: ungr maðr heitir Baldr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_051,llama-3.1-8b-instant,ADJECTIVE,fagr víkingr kemr þar.,fagri víkingr kemr þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: fagr víkingr kemr þar.
+B: fagri víkingr kemr þar.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_052,llama-3.1-8b-instant,ADJECTIVE,Óláfr hefir reiðan hjálm.,Óláfr hefir reiða hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr hefir reiðan hjálm.
+B: Óláfr hefir reiða hjálm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_053,llama-3.1-8b-instant,ADJECTIVE,Haukr sér sterkan mann.,Haukr sér sterka mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr sér sterkan mann.
+B: Haukr sér sterka mann.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_054,llama-3.1-8b-instant,ADJECTIVE,Þar býr illr jarl.,Þar býr illi jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar býr illr jarl.
+B: Þar býr illi jarl.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_055,llama-3.1-8b-instant,ADJECTIVE,Hann er víss konungr.,Hann er vísi konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er víss konungr.
+B: Hann er vísi konungr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_056,llama-3.1-8b-instant,ADJECTIVE,ungr maðr heitir Kormákr.,ungi maðr heitir Kormákr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: ungr maðr heitir Kormákr.
+B: ungi maðr heitir Kormákr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_057,llama-3.1-8b-instant,ADJECTIVE,Haukr er glaðr maðr.,Haukr er glaði maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr er glaði maðr.
+B: Haukr er glaðr maðr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_058,llama-3.1-8b-instant,ADJECTIVE,Hann var fagr mjök.,Hann var fagri mjök.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var fagri mjök.
+B: Hann var fagr mjök.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_059,llama-3.1-8b-instant,ADJECTIVE,Hann á illan hest.,Hann á illa hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann á illan hest.
+B: Hann á illa hest.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_060,llama-3.1-8b-instant,ADJECTIVE,Þeir fœra góðan mat.,Þeir fœra góða mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fœra góðan mat.
+B: Þeir fœra góða mat.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_061,llama-3.1-8b-instant,ADJECTIVE,Þar býr víss jarl.,Þar býr vísi jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar býr vísi jarl.
+B: Þar býr víss jarl.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_062,llama-3.1-8b-instant,ADJECTIVE,Þeir fœra vísan mat.,Þeir fœra vísa mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fœra vísan mat.
+B: Þeir fœra vísa mat.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_063,llama-3.1-8b-instant,ADJECTIVE,Þar býr fagr jarl.,Þar býr fagri jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar býr fagri jarl.
+B: Þar býr fagr jarl.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_064,llama-3.1-8b-instant,ADJECTIVE,Þar býr spakr jarl.,Þar býr spaki jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar býr spaki jarl.
+B: Þar býr spakr jarl.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_065,llama-3.1-8b-instant,ADJECTIVE,ríkr víkingr kemr þar.,ríki víkingr kemr þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: ríki víkingr kemr þar.
+B: ríkr víkingr kemr þar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_066,llama-3.1-8b-instant,ADJECTIVE,langr maðr heitir Baldr.,langi maðr heitir Baldr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: langr maðr heitir Baldr.
+B: langi maðr heitir Baldr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_067,llama-3.1-8b-instant,ADJECTIVE,Eiríkr hefir spakan hjálm.,Eiríkr hefir spaka hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr hefir spakan hjálm.
+B: Eiríkr hefir spaka hjálm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_068,llama-3.1-8b-instant,ADJECTIVE,Hann var ungr mjök.,Hann var ungi mjök.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var ungr mjök.
+B: Hann var ungi mjök.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_ADJECTIVE_069,llama-3.1-8b-instant,ADJECTIVE,Kormákr sér vísan mann.,Kormákr sér vísa mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr sér vísan mann.
+B: Kormákr sér vísa mann.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_070,llama-3.1-8b-instant,ADJECTIVE,Óláfr er glaðr ok sterkr.,Óláfr er glaði ok sterkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr er glaðr ok sterkr.
+B: Óláfr er glaði ok sterkr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_071,llama-3.1-8b-instant,ADJECTIVE,Þórr er reiðr ok sterkr.,Þórr er reiði ok sterkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þórr er reiði ok sterkr.
+B: Þórr er reiðr ok sterkr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_072,llama-3.1-8b-instant,ADJECTIVE,Baldr er gamall maðr.,Baldr er gamli maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Baldr er gamli maðr.
+B: Baldr er gamall maðr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_073,llama-3.1-8b-instant,ADJECTIVE,Hann tekr spakan brand.,Hann tekr spaka brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann tekr spaka brand.
+B: Hann tekr spakan brand.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_074,llama-3.1-8b-instant,ADJECTIVE,Hann á ríkan hest.,Hann á ríka hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann á ríkan hest.
+B: Hann á ríka hest.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_075,llama-3.1-8b-instant,ADJECTIVE,Ragnarr sér spakan mann.,Ragnarr sér spaka mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Ragnarr sér spakan mann.
+B: Ragnarr sér spaka mann.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_076,llama-3.1-8b-instant,ADJECTIVE,Óðinn var ríkr ok ríkr.,Óðinn var ríki ok ríkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn var ríkr ok ríkr.
+B: Óðinn var ríki ok ríkr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_077,llama-3.1-8b-instant,ADJECTIVE,Þeir fœra reiðan mat.,Þeir fœra reiða mat.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir fœra reiðan mat.
+B: Þeir fœra reiða mat.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_078,llama-3.1-8b-instant,ADJECTIVE,Hann á reiðan hest.,Hann á reiða hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann á reiðan hest.
+B: Hann á reiða hest.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_079,llama-3.1-8b-instant,ADJECTIVE,Hann var frœkn mjök.,Hann var frœkni mjök.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var frœkn mjök.
+B: Hann var frœkni mjök.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_080,llama-3.1-8b-instant,ADJECTIVE,Þar býr glaðr jarl.,Þar býr glaði jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar býr glaði jarl.
+B: Þar býr glaðr jarl.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_081,llama-3.1-8b-instant,ADJECTIVE,Hann var glaðr mjök.,Hann var glaði mjök.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var glaði mjök.
+B: Hann var glaðr mjök.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_082,llama-3.1-8b-instant,ADJECTIVE,Hann tekr glaðan brand.,Hann tekr glaða brand.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann tekr glaðan brand.
+B: Hann tekr glaða brand.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_083,llama-3.1-8b-instant,ADJECTIVE,Hann kaupir ungan hest.,Hann kaupir unga hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann kaupir unga hest.
+B: Hann kaupir ungan hest.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_084,llama-3.1-8b-instant,ADJECTIVE,Hann er stórr konungr.,Hann er stóri konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er stórr konungr.
+B: Hann er stóri konungr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_085,llama-3.1-8b-instant,ADJECTIVE,Svartr er sterkr ok sterkr.,Svartr er sterki ok sterkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr er sterkr ok sterkr.
+B: Svartr er sterki ok sterkr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_086,llama-3.1-8b-instant,ADJECTIVE,Hann er sterkr konungr.,Hann er sterki konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er sterki konungr.
+B: Hann er sterkr konungr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_087,llama-3.1-8b-instant,ADJECTIVE,Haukr vegr langan úlf.,Haukr vegr langa úlf.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Haukr vegr langan úlf.
+B: Haukr vegr langa úlf.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_088,llama-3.1-8b-instant,ADJECTIVE,Svartr hefir reiðan hjálm.,Svartr hefir reiða hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr hefir reiðan hjálm.
+B: Svartr hefir reiða hjálm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_089,llama-3.1-8b-instant,ADJECTIVE,Svartr vegr langan úlf.,Svartr vegr langa úlf.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr vegr langan úlf.
+B: Svartr vegr langa úlf.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_090,llama-3.1-8b-instant,ADJECTIVE,Óðinn sér stóran mann.,Óðinn sér stóra mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óðinn sér stóran mann.
+B: Óðinn sér stóra mann.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_091,llama-3.1-8b-instant,ADJECTIVE,Hann á góðan hest.,Hann á góða hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann á góða hest.
+B: Hann á góðan hest.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_092,llama-3.1-8b-instant,ADJECTIVE,Svartr sér glaðan mann.,Svartr sér glaða mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr sér glaða mann.
+B: Svartr sér glaðan mann.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_093,llama-3.1-8b-instant,ADJECTIVE,Þar er gamall skógr.,Þar er gamli skógr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar er gamall skógr.
+B: Þar er gamli skógr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_094,llama-3.1-8b-instant,ADJECTIVE,Gunnarr er góðr maðr.,Gunnarr er góði maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Gunnarr er góði maðr.
+B: Gunnarr er góðr maðr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_095,llama-3.1-8b-instant,ADJECTIVE,Skarpheðinn sér reiðan mann.,Skarpheðinn sér reiða mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skarpheðinn sér reiðan mann.
+B: Skarpheðinn sér reiða mann.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_096,llama-3.1-8b-instant,ADJECTIVE,Hann var stórr mjök.,Hann var stóri mjök.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann var stórr mjök.
+B: Hann var stóri mjök.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_097,llama-3.1-8b-instant,ADJECTIVE,gamall víkingr kemr þar.,gamli víkingr kemr þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: gamli víkingr kemr þar.
+B: gamall víkingr kemr þar.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_098,llama-3.1-8b-instant,ADJECTIVE,Hann kaupir illan hest.,Hann kaupir illa hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann kaupir illa hest.
+B: Hann kaupir illan hest.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_099,llama-3.1-8b-instant,ADJECTIVE,Hann er ríkr konungr.,Hann er ríki konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er ríki konungr.
+B: Hann er ríkr konungr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_100,llama-3.1-8b-instant,ADJECTIVE,Þar er góðr skógr.,Þar er góði skógr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar er góðr skógr.
+B: Þar er góði skógr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_101,llama-3.1-8b-instant,ADJECTIVE,Flosi hefir ríkan hjálm.,Flosi hefir ríka hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Flosi hefir ríkan hjálm.
+B: Flosi hefir ríka hjálm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_102,llama-3.1-8b-instant,ADJECTIVE,ungr maðr heitir Þórr.,ungi maðr heitir Þórr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: ungr maðr heitir Þórr.
+B: ungi maðr heitir Þórr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_103,llama-3.1-8b-instant,ADJECTIVE,Sá er víss maðr.,Sá er vísi maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sá er vísi maðr.
+B: Sá er víss maðr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_104,llama-3.1-8b-instant,ADJECTIVE,Svartr sér stóran mann.,Svartr sér stóra mann.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Svartr sér stóran mann.
+B: Svartr sér stóra mann.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_105,llama-3.1-8b-instant,ADJECTIVE,Hann er ungr konungr.,Hann er ungi konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er ungi konungr.
+B: Hann er ungr konungr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_106,llama-3.1-8b-instant,ADJECTIVE,Sigurðr var víss ok ríkr.,Sigurðr var vísi ok ríkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr var vísi ok ríkr.
+B: Sigurðr var víss ok ríkr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_107,llama-3.1-8b-instant,ADJECTIVE,Sigurðr var spakr ok ríkr.,Sigurðr var spaki ok ríkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr var spakr ok ríkr.
+B: Sigurðr var spaki ok ríkr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_108,llama-3.1-8b-instant,ADJECTIVE,Kormákr vegr góðan úlf.,Kormákr vegr góða úlf.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Kormákr vegr góða úlf.
+B: Kormákr vegr góðan úlf.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_109,llama-3.1-8b-instant,ADJECTIVE,Gunnarr hefir vísan hjálm.,Gunnarr hefir vísa hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Gunnarr hefir vísa hjálm.
+B: Gunnarr hefir vísan hjálm.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_110,llama-3.1-8b-instant,ADJECTIVE,Þar er stórr skógr.,Þar er stóri skógr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar er stóri skógr.
+B: Þar er stórr skógr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_111,llama-3.1-8b-instant,ADJECTIVE,Skarpheðinn vegr spakan úlf.,Skarpheðinn vegr spaka úlf.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Skarpheðinn vegr spaka úlf.
+B: Skarpheðinn vegr spakan úlf.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_112,llama-3.1-8b-instant,ADJECTIVE,Þar býr frœkn jarl.,Þar býr frœkni jarl.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar býr frœkni jarl.
+B: Þar býr frœkn jarl.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_113,llama-3.1-8b-instant,ADJECTIVE,Þeir finna vísan konung.,Þeir finna vísa konung.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir finna vísa konung.
+B: Þeir finna vísan konung.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_114,llama-3.1-8b-instant,ADJECTIVE,Þeir sjá ríkan orm.,Þeir sjá ríka orm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þeir sjá ríkan orm.
+B: Þeir sjá ríka orm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_115,llama-3.1-8b-instant,ADJECTIVE,Hann er glaðr konungr.,Hann er glaði konungr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann er glaði konungr.
+B: Hann er glaðr konungr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_116,llama-3.1-8b-instant,ADJECTIVE,Þar er langr skógr.,Þar er langi skógr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Þar er langr skógr.
+B: Þar er langi skógr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_117,llama-3.1-8b-instant,ADJECTIVE,Eiríkr vegr stóran úlf.,Eiríkr vegr stóra úlf.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Eiríkr vegr stóran úlf.
+B: Eiríkr vegr stóra úlf.
+
+Answer with A or B only.",B,B,FALSE,A_gram
+ON_ADJECTIVE_118,llama-3.1-8b-instant,ADJECTIVE,Sá er reiðr maðr.,Sá er reiði maðr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sá er reiði maðr.
+B: Sá er reiðr maðr.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_119,llama-3.1-8b-instant,ADJECTIVE,Hann kaupir harðan hest.,Hann kaupir harða hest.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Hann kaupir harðan hest.
+B: Hann kaupir harða hest.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_120,llama-3.1-8b-instant,ADJECTIVE,Óláfr er góðr ok sterkr.,Óláfr er góði ok sterkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Óláfr er góðr ok sterkr.
+B: Óláfr er góði ok sterkr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_121,llama-3.1-8b-instant,ADJECTIVE,Sigurðr hefir fagran hjálm.,Sigurðr hefir fagra hjálm.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Sigurðr hefir fagran hjálm.
+B: Sigurðr hefir fagra hjálm.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_122,llama-3.1-8b-instant,ADJECTIVE,ríkr maðr heitir Haukr.,ríki maðr heitir Haukr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: ríkr maðr heitir Haukr.
+B: ríki maðr heitir Haukr.
+
+Answer with A or B only.",A,A,TRUE,A_gram
+ON_ADJECTIVE_123,llama-3.1-8b-instant,ADJECTIVE,víss maðr heitir Baldr.,vísi maðr heitir Baldr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: vísi maðr heitir Baldr.
+B: víss maðr heitir Baldr.
+
+Answer with A or B only.",A,A,FALSE,B_gram
+ON_ADJECTIVE_124,llama-3.1-8b-instant,ADJECTIVE,spakr víkingr kemr þar.,spaki víkingr kemr þar.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: spaki víkingr kemr þar.
+B: spakr víkingr kemr þar.
+
+Answer with A or B only.",B,B,TRUE,B_gram
+ON_ADJECTIVE_125,llama-3.1-8b-instant,ADJECTIVE,Baldr var reiðr ok ríkr.,Baldr var reiði ok ríkr.,"Which of the following Old Norse sentences is grammatically correct?
+
+A: Baldr var reiðr ok ríkr.
+B: Baldr var reiði ok ríkr.
+
+Answer with A or B only.",A,A,TRUE,A_gram

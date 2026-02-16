@@ -1,0 +1,4622 @@
+
+
+=== PAGE 1 ===
+
+Old Norse for Beginners - Lesson One 
+by Haukur Þorgeirsson and Óskar Guðlaugsson 
+1. Miscellany 
+1. About this course 
+2. On learning languages in general 
+3. On learning arcane languages 
+4. Old Norse? Which Old Norse? 
+5. English grammatical vocabulary 
+2. Grammar 
+1. Declension of pronouns 
+2. Declension of nouns 
+3. Article 
+4. Gender of nouns 
+5. Notes on word order 
+3. Vocabulary 
+1. Nouns 
+2. Pronoun 
+3. Verbs 
+4. Adverbs 
+5. Conjunctions 
+6. Sample sentences 
+4. Exercises 
+1. Mark the pronouns' cases (optional) 
+2. Translate the phrases into English 
+3. Translate the phrases into Norse 
+4. Translate the text into English 
+5. Translate the text into Norse 
+5. Looking at real texts 
+1. A few words from Snorra-Edda 
+2. Two lines from the Völuspá 
+0. Miscellany 
+0.1 About this course 
+This course is designed for speakers of English. No previous knowledge of 
+Old Norse or any other language is needed or expected. 
+The aim of the course is to aid beginning students of Old Norse in building up 
+sufficient basic knowledge for the student to be able to start studying on his 
+own after the course. The method is to focus on building up a firm 
+
+
+=== PAGE 2 ===
+
+understanding of the grammatical basics of the language, having the student 
+use the language as much as possible. 
+We will try throughout the course to spice it up with background information, 
+as most students of Old Norse have strong interest in Old Norse culture as 
+well as language. We will also refrain from using nonsensical sentences, 
+preferring "real" made-up sentences or simplified versions of actual texts. 
+Lessons are organised into four chapters. The first one (0) contains 
+information that is not really the core of the matter but can be useful and 
+interesting to read. The next one (1) contains the new grammar for the lesson, 
+then (2) comes the vocabulary, all of which you should memorise, and then 
+(3) exercises to help you get a hands on feeling for the subject. In the last 
+chapter (4) we look at real texts or sentences from the literature. Do not get 
+discouraged if this is difficult at times, you don't have to memorise everything 
+there, just read through it. 
+0.2 On learning languages in general 
+The process of learning languages is often somewhat misperceived, especially 
+in cultures with little tradition or need for it. Language learning is gradual, 
+piece-by-piece, sometimes fast, sometimes slow, often rewarding, often 
+frustrating. There is no black and white in language learning, no set stage 
+where one "speaks the language", before which one understood and spoke 
+nothing, after which one understands and speaks everything. It's an open-
+ended process, from which one can enter and exit at will, always benefitting 
+from every minute effort. How this relates to our course, is to make you 
+understand that you will not exit from it completely fluent in Old Norse, 
+having "finished" that language, because there is no finish line; but neither 
+will you have wasted your time, because time invested in language study is 
+never "lost". You are to emerge from the course having achieved a certain 
+point, a certain skill level, from which you can benefit, even if it cannot be 
+considered fluency. Most importantly, the end results should be gratifying and 
+the process fun, though unavoidably hard at times. 
+0.3 On learning arcane languages 
+The study of arcane languages such as Old Norse has certain marked 
+differences to the study of modern languages; the most important factor is, 
+naturally, that one can never hear anybody speak the language. That can be a 
+significant psychological obstacle in memorizing words and reading text. 
+Coming from an experienced language learner, the problem with learning 
+arcane languages is that one has no access to the "sound of the language", its 
+very soul. This makes it more difficult to get a feel for its structure, to become 
+comfortable with it, even to develop feelings for it, all factors not to be taken 
+lightly. 
+
+
+=== PAGE 3 ===
+
+In studying arcane languages, one must deal with this by "reliving" and 
+"realizing" the language, by familiarizing oneself with the culture of the 
+language's former speakers and imagining the life behind it. One must 
+understand that it was once the native language of a whole nation of people of 
+all kinds, to whom it was as dear and natural as your first language is to you. 
+Understand that those people thought in this language, expressed their needs 
+in it, their love, their anger and hate, their first and last words; parent to child, 
+friend to friend, husband to wife, foe to foe, any person to any other person. It 
+was as living once as any given language of today, complete with slang, 
+neologisms, swearing and nonsense, just as well as the more commonly 
+known poetry and literature. Once one genuinely and truly understands this, 
+one has gained an important psychological advantage in the learning process 
+of an arcane language. 
+0.4 Old Norse? Which Old Norse? 
+The term Old Norse refers to the language spoken in Scandinavia and 
+Scandinavian settlements from about 800 to about 1350. It should be obvious 
+that it was not exactly the same language over a vast area and 550 years. It is 
+usually split into two groups, which are then split into two dialects. 
+West Norse 
+East Norse 
+Old Icelandic Old Norwegian 
+Old Danish Old Swedish
+Of all these, the dialect which preserved the most interesting literature is Old 
+Icelandic. This course will teach Old Icelandic from the 13th century; when 
+such works as Heimskringla and the Edda were composed. The spelling of 
+Old Icelandic words is normalised to the accepted standard. When texts that 
+are not from the 13th century are quoted we will still use the same spelling. 
+The term 'Old Norse' is sometimes used to mean specifically what we here call 
+'West Norse' or what we here call 'Old Icelandic'. It is sometimes applied to 
+Icelandic up to the 16th century. 
+0.5 English grammatical vocabulary 
+It is quite possible to teach and learn languages without the use of 
+grammatical terms. Indeed, a child does not learn to speak by first learning 
+what a noun is. Yet, it is our opinion that it is practical to use grammatical 
+vocabulary in describing the Old Norse language. This course assumes 
+knowledge of the following words for parts of speech. Very short descriptions 
+follow. 
+• Noun: A name of a person, place or thing (book, Paris, John). 
+• Adjective: A word that describes a noun (good, bad, ugly). 
+
+
+=== PAGE 4 ===
+
+• Pronoun: A word used instead of a noun (he, we, which). 
+• Verb: A word that describes what someone is doing (do, kill, say). 
+• Adverb: A word that describes a verb (well, highly, badly). 
+• Conjunction: A connecting word (and, but, or). 
+• Preposition: A word placed before a noun to indicate place, direction 
+etc. (to, from, in). 
+As new terms are introduced make an effort at understanding them; it is 
+essential for making sense of the text. 
+1. Grammar 
+1.1 Declension of pronouns 
+In Norse, nouns and pronouns are declined in cases. What on earth does that 
+mean? We will use English as a starting point to explain. Consider the English 
+sentence: "She loves me." If you have learnt syntax you will know that the 
+"subject" of this sentence is the pronoun "she" and the "object" is the pronoun 
+"me". If you haven't learnt syntax I'll let you in on the trick; the subject in a 
+sentence is the word that is doing stuff, the object is the word stuff is done to. 
+So, in our sentence "she" is doing stuff and it's being done to "me". Simple. 
+Now let's look at another sentence: "I love her." Okay, now "I" is doing stuff, 
+so "I" is the subject, and it's being done to "her" which must then be the object. 
+Now consider; how does the English language distinguish between subject 
+and object in a sentence? As you will see from our example there are two 
+methods: 
+1. Changing the word order. You will note that the word preceding the verb is 
+the subject whereas the word following the verb is the object. 
+2. Changing the form of the words. Aha! This is where things get interesting. 
+Of course the "she" in the first sentence is the same person as the "her" in the 
+second sentence, similarly the "I" and "me" refer to the same bloke. We say 
+the word itself hasn't changed, only the form of it. We'll make a little table: 
+Subject: 
+I 
+you he she it
+Object: 
+me you him her it
+You will note that sometimes the word changes completely when switching 
+between the roles of subject and object, like "I" to "me", sometimes it changes 
+but remains recognisably the same, like "he" to "him", and sometimes it 
+doesn't change at all, like "you" to "you". 
+Now we have seen that English uses different forms of pronouns to represent 
+subject and object but those different forms are also used for other things. 
+Let's look at the sentence "I am he." Something strange has happened; 
+preceding the verb there is a pronoun in the subject form, well and good, but 
+
+
+=== PAGE 5 ===
+
+following the verb is a pronoun that is also in the subject form. The 
+explanation lies in the verb we're using; the verb "to be" doesn't really 
+describe "stuff being done" (as we have so eloquently put it in this passage). 
+It's more like an equals sign: "I = he". In such cases the word following the 
+verb is called neither object nor subject but "complement". 
+Now that we've found a new use for our subject form we'll have to redo our 
+table: 
+Subject, complement: 
+I 
+you he she it
+Object: 
+me you him her it
+Now we might wonder whether there is another use for the object form as well. 
+Indeed there is; consider the sentence "I saved it for him". Here "I" is the 
+subject and "it" is the object, as you will have realised, but what about "him"? 
+It's not following a verb so it can't be an object but it's still in the object form. 
+We conclude that words following a preposition take the object form. Again 
+we have to redo our table: 
+Subject, complement: 
+I 
+you he she it
+Object, prepositional: 
+me you him her it
+Now that we've found more than one use for both of our forms we'll name 
+those forms for easy reference. We'll call them nominative and accusative and 
+we'll refer to them collectively as the cases of the pronouns. We'll call this 
+changing of forms by the pronouns declension. 
+Nominative case: 
+I 
+you he she it
+Accusative case: 
+me you him her it
+Remember what we stated at the beginning of this section? "In Norse, nouns 
+and pronouns are declined in cases". Now we can state: "In English, pronouns 
+are declined in cases". The beauty of it is that the Norse cases of nominative 
+and accusative work exactly like the English cases we have been defining. 
+Thus the nominative in Norse serves as subject and compliment and the 
+accusative as object and prepositional. The Norse table corresponding to the 
+English table above looks like this: 
+Nominative case: 
+ek þú hann hon þat
+Accusative case: 
+mik þik hann hana þat
+You notice a slight resemblance between the two tables. You also note that, as 
+with English, when the pronouns go from nominative to accusative they 
+
+
+=== PAGE 6 ===
+
+sometimes change much (ek - mik), sometimes little (hon - hana) and 
+sometimes not at all (hann - hann). Now you can do exercise 3.1. 
+1.2 Declension of nouns 
+In the Norse language, nouns, like pronouns, are declined in cases. Again we 
+start by discussing English. Consider the sentence "Peter calls Maggie." Here 
+the subject is "Peter" and the object is "Maggie". Now another sentence: 
+"Maggie calls Peter." The roles of subject and object have been switched, but 
+how? Not by changing the forms of the words, as with the pronouns, but 
+solely by changing the word order. In contrast, Norse solves the problem of 
+distinguishing between subject and object with case endings and not word 
+order. 
+Now to the good stuff. Norse nouns are declined in cases. That is, the form of 
+the nouns change depending on whether they play the role of nominative or 
+accusative. The wonderful science of grammar puts nouns into different 
+groups depending on their declension pattern. The first group we will look at 
+is called "strong masculine"; accept those terms as arbitrary for now. 
+The pattern of the strong masculine word is that they have the ending -r in the 
+nominative. We'll look at some examples from our vocabulary in 2.1. 
+Singular of the strong masculine declension: 
+Nominative: 
+álfr baugr Haukr konungr
+Accusative: 
+álf baug Hauk konung 
+Note that proper names (like Haukr here) are declined in cases like any other 
+nouns. 
+1.3 Article 
+In English there are two kinds of articles; the indefinite article "a and an" and 
+the definite article "the". The Norse language has no indefinite article, thus 
+"draugr" by itself means "a ghost". Norse, however, does have a definite 
+article though it doesn't work quite like the English one. Rather than being a 
+small unchanging word preceding nouns the Norse article is a suffix 
+depending on case, gender and number. For the masculine words we've 
+introduced the article in both nominative singular and accusative singular is "-
+inn" tacked on to the words. Thus: 
+ 
+Indefinite Definite
+Nominative 
+álfr 
+álfrinn 
+Accusative 
+álf 
+álfinn 
+
+
+=== PAGE 7 ===
+
+or in so many words: 
+álfr = an elf (nominative) álfrinn = the elf (nominative) 
+álf = an elf (accusative) álfinn = the elf (accusative) 
+1.4 Gender of nouns 
+We said before that the group of nouns we're looking at is called strong 
+masculine. The "strong" classification is arbitrary but we're going to let you in 
+on the masculine thing. Every word in Norse has an arbitrary "gender", 
+masculine, feminine or neuter. When we refer to a word with a certain gender 
+we have to use the pronoun with the same gender. Thus masculine nouns take 
+the masculine pronoun (hann=he), feminine nouns take the feminine pronoun 
+(hon=she) and neuter nouns take the neuter pronoun (þat=it). Since all the 
+nouns used in this chapter are masculine you'll be concerned with "hann" for 
+now. 
+1.5 Notes on word order 
+Word order in English is quite rigid. For a simple sentence it's always 
+"subject-verb-object". In Norse this is not so, the word order is quite free, 
+mainly because the information about which word plays which role is given 
+by grammatical endings (cases and more) whereas English relies on word 
+order to convey this information. Remember to check the grammatical ending 
+of Norse words to find their place in the sentence. 
+This is not to say that there aren't certain conventions on word order in Norse. 
+Most often there is one thing that is most natural but be prepared to meet 
+anything. 
+In Norse, titles usually follow the name they refer to; thus 'king Óláfr' is 'Óláfr 
+konungr'. 
+2. Vocabulary 
+2.1. Nouns 
+All nouns here are of the strong masculine declension. 
+álfr 
+elf 
+baugr 
+ring 
+brandr 
+sword 
+
+
+=== PAGE 8 ===
+
+dvergr 
+dwarf 
+draugr 
+ghost 
+hestr 
+horse 
+haukr 
+hawk 
+hjálmr 
+helmet 
+konungr 
+king 
+knífr 
+knife 
+ormr 
+worm, serpent
+úlfr 
+wolf 
+Names: 
+Haukr 
+Óláfr 
+Sigurðr 
+Tyrfingr
+2.2 Pronoun 
+hann 
+he, it
+We gloss the word as both "he" and "it" as it can refer both to men and to 
+things with masculine gender. Remember that all the nouns given in this 
+lesson are of masculine gender. 
+2.3 Verbs 
+The forms given here are the third person singular of the verbs. This 
+corresponds with the English s-form (like "sees" and "hears"). This is all you 
+need to know for now. 
+
+
+=== PAGE 9 ===
+
+á 
+owns 
+er 
+is (takes a complement!) 
+heitir 
+is called (takes a complement!)
+sér 
+sees 
+segir 
+says 
+tekr 
+takes 
+vegr 
+kills (usually in battle), slays 
+Sometimes the subject is dropped and the verb alone gives the meaning. Thus 
+'vegr' alone might mean 'he kills'. 
+2.4 Adverbs 
+hér 
+here
+eigi 
+not 
+ok 
+also
+2.5 Conjunctions 
+These conjunctions are used much as in English. Note that 'ok' can be either 
+an adverb or a conjunction, depending on context. 
+ok 
+and
+en 
+but
+2.6 Sample sentences 
+The following sentences represent one approach to tackling Norse sentences. 
+If you're comfortable with it you can employ it yourself in the exercises. 
+1. Vegr orminn Óláfr. 
+o Subject: Óláfr [nominative, proper name] 
+
+
+=== PAGE 10 ===
+
+o Object: orminn [accusative, with article] 
+o Meaning: Óláfr kills the serpent 
+2. Baug á dvergr 
+o Subject: dvergr [nominative, without article] 
+o Object: baug [accusative, without article] 
+o Meaning: A dwarf has a ring. 
+3. Draugrinn sér konunginn. 
+o Subject: draugrinn [nominative, with article] 
+o Object: konunginn [accusative, with article] 
+o Meaning: The ghost sees the king. 
+4. Heitir konungrinn Óláfr. 
+o Subject: konungrinn [nominative, with article] 
+o Complement: Óláfr [nominative, proper name] 
+o Meaning: The king is called Óláfr. 
+After you finish studying the vocabulary you should take on the remaining 
+exercises. 
+3. Exercises 
+3.1 Mark the pronouns' cases (optional) 
+In the following bible quotes there are many pronouns. Locate them and find 
+out what case they're in. Also note the reason they are in that case. 
+• a) I am he that liveth. 
+• b) Take now thy son whom thou lovest and offer him there for a burnt 
+offering. 
+• c) And when she had brought them unto him to eat, he took hold of her, 
+and said unto her: "Come lie with me, my sister". 
+• d) Him that dieth of Baasha in the city shall the dogs eat. 
+• e) Judah, thou art he whom thy brethren shall praise. 
+3.2 Translate the phrases into English. 
+• a) Dvergrinn á baug. 
+• b) Hjálm á Haukr. 
+• c) Álfrinn sér draug. 
+• d) Hann er konungrinn. 
+• e) Hann sér dverginn. 
+3.3 Translate the phrases into Old Norse 
+• a) The ghost kills the king. 
+
+
+=== PAGE 11 ===
+
+• b) The elf kills a wolf. 
+• c) The king sees a hawk. 
+• d) Óláfr is a king. 
+• e) A king is named Óláfr. 
+3.4 Translate the text into English 
+Óláfr heitir konungr. Hann á brand. Heitir brandrinn Tyrfingr. Úlf sér Óláfr ok 
+segir: "Hér er úlfr!". Óláfr tekr brandinn ok vegr úlfinn. En hér er ok ormr. 
+Óláfr sér hann eigi. Óláf vegr ormrinn. 
+3.5 Translate the text into Old Norse 
+A king is called Sigurðr. He owns a sword but not a horse. Óláfr is also a king. 
+He owns a horse. Sigurðr kills Óláfr and takes the horse. 
+4. Looking at real texts 
+4.1 A few words from the Snorra-Edda 
+En er Jörmunrekkr konungr sá haukinn...
+Glossary: 
+ 
+er 
+when 
+sá 
+saw (past tense of 'sér')
+ 
+Meaning: "But when king Jörmunrekkr saw the hawk..." 
+The subject of the sentence 'Jörmunrekkr konungr' is in the nominative case 
+whereas the object 'haukinn' is in the accusative case. 
+To find out just what happened when king Jörmunrekkr saw the hawk you 
+will have to look up chapter 50 of the Skáldskaparmál. 
+4.2 Two lines from the Völuspá 
+In Völuspá (The Prophecy of the Seeress) the seeress says: 
+Ask veit ek standa.
+Heitir Yggdrasill. 
+Glossary: 
+
+
+=== PAGE 12 ===
+
+askr 
+ash tree 
+veit ek 
+I know 
+standa 
+(to) stand
+ 
+There are some things you should notice here. The first word of the sentence, 
+'ask', is the object. You can see that because it is in the accusative form. Then 
+comes the verb 'veit' and then the subject 'ek'. Thus the word order is 'object-
+verb-subject'. 
+The second sentence has no subject. Instead of 'Hann heitir Yggdrasill.' we 
+have only 'Heitir Yggdrasill.' It is quite normal in poetry that the subject be 
+dropped. 
+Meaning: 
+"I know an ash tree to stand. 
+It is called Yggdrasill." 
+ 
+ 
+Old Norse for Beginners - Lesson Two 
+by Haukur Þorgeirsson and Óskar Guðlaugsson 
+1. Grammar 
+1. First and second person personal pronouns 
+2. Plural of third person pronouns 
+3. Plural of nouns 
+4. Slightly irregular nouns 
+5. Maðr - an irregular noun 
+6. Verbal conjugation 
+7. "Er" - an all purpose relative pronoun 
+8. The present tense 
+9. Word order 
+2. Vocabulary 
+1. Nouns 
+2. Pronouns 
+3. Verbs 
+4. Adverbs 
+5. A greeting 
+6. Yes or no questions 
+7. Sample sentences 
+
+
+=== PAGE 13 ===
+
+3. Exercises 
+1. Translate the phrases into English 
+2. Translate the phrases into Old Norse 
+3. Translate the text into English 
+4. Translate the text into Old Norse 
+5. Translate the play into English 
+6. Translate the play into English 
+4. Looking at real texts 
+1. Half a stanza by Snorri Sturluson 
+2. Two half-strophes from the Sigdrífumál 
+1. Grammar 
+1.1 First and second person personal pronouns 
+Now you have to learn those singular personal pronouns: 
+ 
+1.person 
+2.person
+Nominative 
+ek 
+þú 
+Accusative 
+mik 
+þik 
+The corresponding English table looks like this: 
+ 
+1.person 
+2.person
+Nominative 
+I 
+you 
+Accusative 
+me 
+you 
+The forms 'þú' and 'þik' are the relatives of the English forms 'thou' and 'thee'. 
+And then there are the plural pronouns, still fairly similar to English: 
+ 
+1.person 
+2.person
+Nominative 
+vér 
+þér 
+Accusative 
+oss 
+yðr 
+ 
+1.person 
+2.person
+Nominative 
+we 
+you 
+
+
+=== PAGE 14 ===
+
+Accusative 
+us 
+you 
+And finally a concept that doesn't exist in Modern English, dual pronouns: 
+ 
+1.person 
+2.person
+Nominative 
+vit 
+þit 
+Accusative 
+okkr 
+ykkr 
+ 
+1.person 
+2.person
+Nominative 
+we two 
+you two
+Accusative 
+us two 
+you two
+1.2 Plural of third person pronouns 
+We will now introduce the plural of the third person pronouns. As before we 
+begin with English. 
+ 
+Singular  
+Plural 
+Nominative 
+he she it  
+they they they
+Accusative 
+him her it  
+them them them
+The reason for writing "they" out three times is that the plural of "he" is the 
+same as the plural of "she" or the plural of "it", unlike Old Norse : 
+ 
+Singular 
+ 
+Plural 
+Nominative 
+hann hon þat  
+þeir þær þau
+Accusative 
+hann hana þat  
+þá þær þau
+Thus, many "hons" make a "þær" and many "hanns" make a "þeir" (to put it in 
+silly terms). We are still only using the masculine pronoun as all nouns we 
+have introduced are masculine. 
+1.3 Plural of nouns 
+Nouns, of course, have a plural form. The plural form declines in cases and 
+can be with or without definitive article. We'll write up a table showing the 
+
+
+=== PAGE 15 ===
+
+declension of our strong masculine words. This time we will use a {stem + 
+ending} scheme. The grammatical stem of a word is the word without 
+grammatical ending. 
+ 
+Without article 
+With article 
+ 
+Singular Plural 
+Singular 
+Plural 
+Nom. 
+stem + r stem + ar 
+stem + r + inn stem + ar + nir
+Acc. 
+stem 
+stem + a 
+stem + inn 
+stem + a + na 
+And then with the good old elf as the example. 
+ 
+Without article With article 
+ 
+Singular Plural Singular Plural 
+Nom. 
+álfr 
+álfar 
+álfrinn álfarnir
+Acc. 
+álf 
+álfa 
+álfinn 
+álfana 
+Now you know eight different forms of each noun. This might be a bit 
+overwhelming at first but if you immediately begin memorising the table 
+above and work hard at the exercises it will soon be very familiar. 
+1.4 Some slightly irregular nouns 
+Some words of the strong masculine declension lack the nominative singular 
+ending 'r'. 
+In order to make it completely clear what we mean we decline a sample word 
+from this group. The word is 'jarl' and means 'earl'. The reason is probably that 
+pronouncing "jarlr" would not be comfortable. 
+ 
+Without article 
+With article 
+ 
+Singular Plural 
+Singular Plural 
+Nom. 
+jarl 
+jarlar 
+jarlinn jarlarnir
+Acc. 
+jarl 
+jarla 
+jarlinn jarlana 
+The vocabulary also introduces the word 'geirr'. It is completely regular, so do 
+not get confused by the two r's at the end. The first r is part of the stem 
+whereas the second one is the nominative singular ending. 
+
+
+=== PAGE 16 ===
+
+1.5 Maðr - an irregular noun 
+We will now introduce a masculine noun that in its declension does not follow 
+the patterns already described. The word is 'maðr' and means 'human being' or 
+'person'. 
+ 
+Without article 
+With article 
+ 
+Singular Plural 
+Singular Plural 
+Nom. 
+maðr 
+menn 
+maðrinn menninir
+Acc. 
+mann 
+menn 
+manninn mennina
+Notice how the irregularity is similar to that of the corresponding English 
+word, 'man'. Also notice that the endings for the article are very similar to 
+those for the regular words. This is no coincidence, in fact the article declines 
+in the same basic way for every word of the same gender. 
+The word 'maðr' is a very useful one and will help us make more interesting 
+sentences. 
+1.6 Verbal conjugation 
+The form of a verb depends upon the subject in the sentence, so in Old Norse 
+as it is in English. Let us give an example 
+Infinitive: (to) be 
+I am 
+we are 
+thou art 
+you are
+he/she/it is they are
+We will now give the corresponding Old Norse verb; like its English 
+counterpart, it is completely irregular. 
+Infinitive: (at) vera 
+ek em 
+vit/vér erum 
+þú ert 
+þit/þér eruð 
+hann/hon/þat er þeir/þær/þau eru
+
+
+=== PAGE 17 ===
+
+Remember what everything means here. The plural of 'hann' is 'þeir' et cetera. 
+Also note that the dual pronouns have the same conjugation as the plural ones. 
+Now we will look at more regular verbs. We don't have to remember every 
+form of every verb; for now it will be sufficient for us to remember two; the 
+infinitive and the first person singular. The endings are tacked on in the 
+following way. 
+Infinitive: [form 1] 
+ek [form 2] 
+vit/vér [form 1] - a + um
+þú [form 2] + r 
+þit/þér [form 1] - a + ið 
+hann/hon/þat [form 2] + r þeir/þær/þau [form 1] 
+This code may be a bit cryptic. When I say " - a + um" I mean "subtract 'a' and 
+add 'um'". This is best illustrated with examples: 
+vega, veg 
+ek veg 
+vit/vér vegum 
+þú vegr 
+þit/þér vegið 
+hann/hon/þat vegr 
+þeir/þær/þau vega
+heita, heiti 
+ek heiti 
+vit/vér heitum 
+þú heitir 
+þit/þér heitið 
+hann/hon/þat heitir 
+þeir/þær/þau heita
+taka, tek 
+ek tek 
+vit/vér tökum (explained below)
+þú tekr 
+þit/þér takið 
+hann/hon/þat tekr 
+þeir/þær/þau taka 
+
+
+=== PAGE 18 ===
+
+segja, segi 
+ek segi 
+vit/vér segjum 
+þú segir 
+þit/þér segið (explained below)
+hann/hon/þat segir 
+þeir/þær/þau segja 
+kalla, kalla (to call) 
+ek kalla 
+vit/vér köllum 
+þú kallar 
+þit/þér kallið 
+hann/hon/þat kallar 
+þeir/þær/þau kalla
+hafa, hefi (to have, wear, carry)
+ek hefi 
+vit/vér höfum 
+þú hefir 
+þit/þér hafið 
+hann/hon/þat hefir 
+þeir/þær/þau hafa
+And now for one verb that is almost regular, but not quite: 
+sjá, sé (to see) 
+ek sé 
+vit/vér sjám (not *sjáum)
+þú sér 
+þit/þér séð (not *sjáið) 
+hann/hon/þat sér 
+þeir/þær/þau sjá 
+• A u in a grammatical ending always changes a preceding 'a' to an 'ö'. 
+This is known as u-mutation and is treated in more detail later. 
+• The letters 'j' and 'i' cannot coexist; for this reason we have 'segið' and 
+not '*segjið'. 
+• We won't use the infinitive just yet but it is still one of two forms of 
+each verb you need to memorise. 
+
+
+=== PAGE 19 ===
+
+• The verb 'á' does not follow this pattern, it is conjugated in lesson 3. 
+• The forms 'sjáum' and 'sjáið' are correct in later Icelandic. 
+1.7 "Er" - an all purpose relative pronoun 
+Relative pronouns are words like 'who, which, that'. In Norse we have one 
+very useful word that can play the role of all those. The word is 'er' and it 
+should not be confused with the 3rd person singular of the verb "to be". An 
+example will be in order. 
+The people (that) he sees are 
+Norwegians. 
+Relative pronoun can be 
+dropped. 
+Menninir, er hann sér, eru Norðmenn. Relative pronoun cannot be 
+dropped. 
+We say that the relative pronoun represents a word from the main sentence in 
+the case appropriate for the verb in the relative clause. Since the word 'er' is 
+the same in all cases this is mostly a technical thing and need not be worried 
+overly about. We will, somewhat arbitrarily, separate all relative clauses in 
+Norse with commas. 
+1.8 The present tense 
+So far we have only been discussing the present tense of verbs. The ON 
+present tense actually corresponds to two forms in English. 
+Víkingarnir koma. 
+The vikings come. 
+Víkingarnir koma. 
+The vikings are coming.
+When translating remember to use the most natural English form. 
+1.9 Word order 
+While word order in Old Norse is fairly free there are usually some things that 
+are more normal than others. The normal word order in a simple sentence is, 
+as in English: "subject verb object". Another common word order is "verb 
+subject object". The greatest emphasis in a sentence is usually on the first 
+word. Thus, if we want to draw special attention to the object we can use 
+"object verb subject". Other word-order schemes are usually reserved for 
+elaborate poetry. 
+Where do you put the negating word "eigi"? Those examples will illustrate the 
+variety of normal structures. Do not be overwhelmed by this, there is little 
+
+
+=== PAGE 20 ===
+
+need to memorise every possible pattern, you will slowly become familiar 
+with normal word order in reading the translation exercises. 
+• Subject-verb-object 
+o Hann sér eigi úlfinn. 
+o Hann sér úlfinn eigi. 
+• Verb-subject-object 
+o Sér hann úlfinn eigi. 
+o Sér hann eigi úlfinn. 
+o Eigi sér hann úlfinn. 
+• Object-verb-subject 
+o Úlfinn sér hann eigi. 
+All the legal sentences above have one thing in common: "The verb is always 
+the first or the second word in the sentence." This phenomenon is known as 
+V2 and is treated in more detail later in the course. 
+Other adverbs are usually placed in the same way. 
+2. Vocabulary 
+2.1 Nouns 
+maðr 
+person, man, human being (declension described in 1.5)
+Norðmaðr 
+Norwegian (declines like maðr) 
+Then two words whose declension we described in 1.4. 
+hrafn 
+raven
+jarl 
+earl 
+The rest of the words given are regular strong masculine. 
+bátr 
+boat 
+geirr 
+spear 
+Íslendingr 
+Icelander
+vargr 
+wolf 
+víkingr 
+viking 
+
+
+=== PAGE 21 ===
+
+þjófr 
+thief 
+And for good measure we also list the names used in the lesson. You should 
+never forget that names behave as any other nouns. They decline according to 
+their declension group. 
+Eiríkr 
+Erlingr
+2.2 Pronouns 
+er that, which, who, whom
+Also remember to memorise the masculine pronoun in plural. 
+Nom. þeir (they)
+Acc. þá (them) 
+2.3 Verbs 
+The verbs from lesson one are reiterated here for easy reference. 
+hafa, hefi 
+have, hold, wear 
+hata, hata 
+hate 
+heita, heiti 
+be called 
+deyja, dey 
+die 
+bíða, bíð 
+wait 
+koma, køm 
+come 
+mæla, mæli 
+talk 
+sjá, sé 
+see 
+vega, veg 
+slay 
+
+
+=== PAGE 22 ===
+
+segja, segi 
+says 
+taka, tek 
+take 
+sjá (irregular) 
+see 
+vera (irregular) 
+be 
+á 
+owns (only form of this verb yet presented)
+2.4 Adverbs 
+nú 
+now
+þar 
+there
+2.5 A greeting 
+The following forms can be used as greetings. This is actually an adjective 
+that is declining according to gender and number but we'll talk about that later. 
+Heill! - to greet one man 
+Heil! - to greet one woman 
+Heilir! - to greet a group of men 
+Heilar! - to greet a group of women 
+Heil! - to greet a group including both sexes
+2.6 Yes or no questions 
+To change a statement into a question you use the word order 
+Verb-subject-(object/complement) 
+And often you add the word 'hvárt' in front. 
+Hvárt er hann hér?
+Er hann hér? 
+
+
+=== PAGE 23 ===
+
+But it's not good fashion to answer a yes or no question with yes or no! That's 
+almost never done in the Old Icelandic texts. Instead you just repeat the 
+question as a statement. 
+Question: Hvárt er hann hér?
+Answer: Hann er hér. 
+Oh, alright, we can tell you the words: 
+já 
+yes
+nei 
+no
+2.7 Sample sentences 
+1. Norðmenn hata Íslendinga. 
+o Subject: Norðmenn [nominative, plural, without article] 
+o Object: Íslendinga [accusative, plural, without article] 
+o Meaning: Norwegians hate Icelanders. 
+2. Hatar konungrinn úlfa. 
+o Subject: konungrinn [nominative, singular, with article] 
+o Object: úlfa [accusative, plural, without article] 
+o Meaning: The king hates wolfs. 
+3. Þeir eru Norðmenn. 
+o Subject: þeir [nominative, plural] 
+o Complement: Norðmenn [nominative, plural, without 
+article] 
+o Meaning: They are Norwegians. 
+4. Brandrinn, er hann á, heitir Tyrfingr. 
+o Subject in main sentence: brandrinn [nominative, singular, 
+with article] 
+o Complement in main sentence Tyrfingr [nominative, 
+singular, proper name] 
+o Subject in relative clause: hann [nominative, singular] 
+o Object in relative clause: er [accusative, singular] 
+o Meaning: The sword which he has is called Tyrfingr. 
+5. Vit höfum hjálma. 
+o Subject: vit [nominative, dual] 
+o Object: hjálma [accusative, plural] 
+o Meaning: We two have (are wearing) helmets. 
+3. Exercises 
+
+
+=== PAGE 24 ===
+
+3.1 Translate the phrases into English 
+• Sjá jarlarnir konungana. 
+• Álfrinn á knífa. 
+• Úlfar heita ok vargar. 
+• Baugana sjá menninir. 
+• Hrafnarnir deyja. 
+3.2 Translate the phrases into Old Norse 
+• The raven sees a hawk. 
+• The king hates thieves. 
+• A viking is called Erlingr. 
+• The earls are called Erlingr and Eiríkr. 
+• You (pl.) are coming. 
+3.3 Translate the text into English 
+Note: As our vocabulary and knowledge of grammar expands we will find 
+better things to do with our exercises than killing Óláfr. 
+Norðmenn hafa konung; hann heitir Óláfr. Maðr heitir Eiríkr; hann er jarl ok 
+víkingr. Óláf hatar Eiríkr. Óláfr á bát. Hann heitir Ormr. Nú sér Eiríkr bátinn. 
+Segir hann: "Hér er bátrinn, er Óláfr á." Eiríkr hatar Óláf en hann tekr eigi 
+bátinn, er Óláfr á. Hann bíðr. Óláfr kømr. Eiríkr segir: "Nú deyr þú, Óláfr 
+konungr! Ek veg þik!" ok vegr Óláf. Óláfr segir "Þú vegr mik! Ek dey! Á! Á! 
+(exclamation of pain) 
+3.4 Translate the text into Old Norse 
+A man is called Eiríkr. He owns (some) helmets, (some) boats and a spear. He 
+is a viking. He kills people and takes boats. But Eiríkr is not a thief. Thieves 
+don't kill. Now Eiríkr sees Óláfr and the Serpent. He kills Óláfr and takes the 
+Serpent. 
+3.5 Translate the play into English 
+[Óláfr bíðr.] 
+Óláfr: Ek sé mann! 
+[maðr kømr] 
+Maðr: Heill Óláfr konungr! Ek heiti Eiríkr ok ek em Íslendingr. 
+Óláfr: Heill Eiríkr! 
+Eiríkr: Hvárt sér þú orminn þar, konungr? 
+Óláfr: Eigi sé ek orm. 
+Eiríkr: En hann er hér! 
+
+
+=== PAGE 25 ===
+
+[nú sér Óláfr orminn] 
+Óláfr: Ormr! Ek sé orm! 
+Ormr: Óláfr! Ek sé Óláf! 
+Eiríkr: Segir ormrinn "Óláfr"? 
+Ormr: Nei. Ormar mæla eigi. 
+[Óláfr ok Eiríkr flýja] 
+3.6 Translate the play into English 
+[Eiríkr, þjófr ok víkingr, sér Orm, bát er Óláfr á] 
+Eiríkr: "Þar er bátr!" 
+[Haukr, Íslendingr, mælir] 
+Haukr: "Óláfr á bátinn." 
+[Óláfr kømr] 
+Óláfr: "Menn sé ek!" 
+Eiríkr ok Haukr: "Vit erum hér." 
+Óláfr: "Hvárt takið þit bátinn?" 
+Eiríkr ok Haukr: "Vit tökum hann eigi." 
+Óláfr: "Ormr heitir bátrinn. Ek á Orm" 
+[Eiríkr ok Haukr kalla] 
+E & H: "Úlfr! Úlfr! Þar er úlfr!" 
+Óláfr: "Úlfr? Ek hata úlfa!" 
+[Úlfr, Norðmaðr ok þjófr, kømr] 
+Óláfr: "Ek sé eigi úlf. Hvárt er hér úlfr?" 
+Úlfr: "Hér em ek, Óláfr konungr." 
+[Eiríkr, Haukr ok Úlfr taka bátinn ok flýja] 
+Óláfr: "Þjófar! Ek hata þjófa!" 
+E, H & Ú: "Vér erum víkingar, vér höfum bát er heitir Ormr!" 
+4. Looking at real texts 
+4.1 Half a stanza by Snorri Sturluson 
+Drífr handar hlekkr 
+þar er hilmir drekkr. 
+Mjök er brögnum bekkr
+blíðskálar þekkr. 
+
+
+=== PAGE 26 ===
+
+This half-stanza will not look recognisable to you, indeed it shouldn't, it is a 
+complicated poetic passage. But we will apply the principles set forth earlier 
+[The Norse and English tongues] to help us with individual words. 
+Some we can guess at without thought; 'handar' looks like it's a cognate of 
+'hand' and 'drífr' could be a cognate of 'drive'. We are right on both accounts; 
+'handar' means 'of hand' but while 'drífr' is indeed related to 'drive' in this case 
+it means 'snows'. Compare with the English word '(snow)drift'. 
+The next word is 'hlekkr'. Doesn't look familiar. But English dropped all h's in 
+front of consonants, maybe if we change it to 'lekkr'. Looks better but we need 
+to do more. The cluster 'nk' was frequently assimilated to 'kk' in Old Norse, 
+maybe we need to reverse such a change. Then we've got 'lenkr'. Of course 
+English doesn't have r as a grammatical ending, out it goes. New result 'lenk'. 
+Still not an English word but let's remember that vowels are more prone to 
+change than consonants. If we change the 'e' to an 'i' then we've finally made it 
+to 'link' which is the right word. 
+It's a good and correct guess that 'þar' means 'there'. In this context 'þar er' 
+means 'where'. 
+What might 'hilmir' be? No way to figure that one out, it means 'king'. The 
+word is related to 'hjálmr' and refers to the fact that kings tend to bear helmets. 
+Then there's 'drekkr'. We apply the same rules as before; Norse 'kk' can be 
+English 'nk' and English doesn't have 'r' as a grammatical ending. Then we've 
+got 'drenk'. Maybe if we change the vowel to 'i' as before. Hocus-pocus we've 
+got 'drink' which is correct. More specifically 'drekkr' means 'drinks'. 
+Let's look at that first sentence in toto. 
+"Drífr handar hlekkr þar er hilmir drekkr." 
+The subject is 'handar hlekkr' which means 'link of the hand'. And what does 
+_that_ mean? It is a poetic paraphrase for 'gold'. The verb is 'drífr' which 
+means 'snows'. Then 'þar er' means 'where', 'hilmir' means 'king' and 'drekkr' 
+means 'drinks'. 
+"(The) link of the hand [gold] snows where (the) king drinks." 
+This sentence is quite typical of Norse court poetry; praise of the king's 
+generosity in florid language. 
+Let's look at the second sentence. 
+The word 'mjök' means 'very'. The English cognate is 'much'. You already 
+know that 'er' can mean 'is'. Such is the case here. The word 'brögnum' doesn't 
+have an English cognate. It means 'for men' and is a poetic word. 
+Then there's 'bekkr'. In with the n, out with the r! We've got 'benk'. Hmm... 
+The correct cognate is 'bench' and the meaning is the same. 
+The word-form 'blíðskálar' is made out of 'blíð' and 'skálar'. The first is an 
+adjective cognate to English 'blithe'. The second is the possessive form of 
+'skál' which means 'bowl'. Modern Scandinavians can often be heard shouting 
+this word. Skál! Skål! Toast! 
+Last word: 'þekkr'. Once more we change 'kk' into 'nk' and get 'thenk'. The 
+correct cognate is 'thank' but the word means 'comfortable' rather than 
+'thankful'. 
+
+
+=== PAGE 27 ===
+
+If we draw together the second sentence. 
+"Mjök er brögnum bekkr blíðskálar þekkr." 
+Meaning: "The bench of the blithe bowl is very comfortable for men." 
+And who doesn't like sitting and drinking... 
+In summary we could guess correctly at the meaning of many words: 'handar, 
+drekkr, blíð, hlekkr, bekkr' but we also had some whose cognates didn't help 
+us much: 'drífr, þekkr'. This is quite typical. 
+Do not rely on cognate trickery but use it, where it applies, as an aid to 
+memory. 
+4.2 Two half-strophes from the Sigdrífumál 
+- - - 
+Heill Dagr! 
+Heilir Dags synir!
+Heil Nótt ok nipt!"
+- - - 
+- - - 
+Heilir Æsir! 
+Heilar Ásynjur! 
+Heil sjá in fjölnýta fold!"
+- - - 
+Compare the greeting carefully with chapter 2.5; notice how it changes 
+according to gender and number. 
+"Hail, Day! 
+Hail, Day's sons! 
+Hail, Night and [her] sister!" 
+"Hail, Æsir (gods)! 
+Hail, Ásynjur (goddesses)! 
+Hail, bountiful earth!" 
+ 
+
+
+=== PAGE 28 ===
+
+Old Norse for Beginners - Lesson Three 
+by Haukur Þorgeirsson and Óskar Guðlaugsson 
+1. Miscellany 
+1. Spelling 
+2. Grammar 
+1. Adjectives - indefinite form 
+2. Usage - accusative with infinitive 
+3. Usage - auxiliary verbs 
+4. The masculine article 
+3. Vocabulary 
+1. Nouns 
+2. Pronouns 
+3. Adjectives 
+4. Verbs 
+5. Adverbs 
+6. Conjunctions 
+4. Exercises 
+1. Translate the phrases into English 
+2. Translate the phrases into Old Norse 
+3. Translate the text into English 
+4. Translate the text into Old Norse 
+5. Looking at real texts 
+1. A strophe from the Völuspá 
+0. Miscellany 
+0.1 Spelling 
+When the Latin alphabet was introduced to write Old Norse the spelling used 
+was not very consistent and not very precise. To improve readability the 
+spelling of the preserved manuscripts is usually "corrected" in modern 
+editions. For example, there are few manuscripts that distinguish between 
+short and long vowels but this distinction is, as a rule, made now when Old 
+Icelandic texts are published. 
+The spelling used in this course is the standardised spelling used in the 
+"Íslenzk fornrit" edition of the sagas. That spelling, in turn, is based on 
+suggestions from a 12th century treatise called The First Grammatical Treatise, 
+because it is the first of four in its manuscript. 
+
+
+=== PAGE 29 ===
+
+There are two exceptions to this. What we here write as 'ö' should be an o with 
+a tail and what we here write as 'oe' should be an oe-ligature. This is due to 
+letter code difficulties. 
+1. Grammar 
+1.1 Adjectives - indefinite form 
+In Modern English an adjective, such as 'fresh' will have exactly the same 
+form no matter what its grammatical context is. This was not so in Middle 
+English. Let's look at a part of Chaucer's description of the Squire. 
+Embrouded was he, as it were a meede 
+Al ful of fresshe floures, whyte and reede.
+Syngynge he was, or floytynge, al þe day;
+He was as fressh as is þe monþ of May. 
+We see that two forms of the same adjective occur; 'fressh' and 'fresshe'. The 
+first form goes with 'he' and the second with 'floures'. We could guess, 
+correctly, that the Middle English adjective has a plural ending of 'e'. We have 
+more examples of this above. The flowers are 'whyte' and 'reede' whereas the 
+meadow is 'ful' of them. 
+After this sidestep it should come as no surprise to you that in Old Norse 
+adjectives have different forms depending on the number and case of the noun 
+they describe. Their form also depends on the gender of the noun and whether 
+it is definite or indefinite (explained below). The masculine indefinite 
+declension is exemplified here. 
+ 
+Sg. 
+Pl. 
+Nom. 
+reiðr 
+reiðir
+Acc. 
+reiðan 
+reiða
+The word 'reiðr' means 'angry'. As always you must memorise the table. 
+We will immediately give examples of the usage. Note that the adjective can 
+come either in front of the noun or behind it. Both types of usage are natural. 
+Hér eru reiðir menn. 
+Here are (some) angry people. 
+Hann sér reiðan mann. 
+He sees an angry person. 
+
+
+=== PAGE 30 ===
+
+Óláfr er maðr reiðr. 
+Olaf is an angry person. 
+Note carefully, however, that ON has a separate declension for adjectives that 
+apply to nouns with a definite article. That is called the definite declension, 
+while the one presented here is the indefinite. Be careful thus, not to use the 
+forms above with a definite noun, for that is (under normal circumstances) 
+wrong. 
+The definite declension of adjectives is not presented here yet, since it is 
+modelled on a noun declension not yet introduced (the weak one); the 
+indefinite forms above, however, are similar to the declensions of strong 
+masculine nouns and various pronouns, all of which are being presented now. 
+We will have to make do with only indefinite adjective forms for a while. 
+1.2 Usage - accusative with infinitive 
+Having learnt infinitive forms of verbs and accusative forms of some nouns, 
+we're ready for a very useful sentence construction. First, let's take a look of 
+the English equivalent. 
+I saw him come.
+He sees it fly. 
+This construction, usually with a main verb meaning to see, watch, hear, feel, 
+sense, etc, indicates that the subject sees/hears/senses the object performing an 
+action, which is put into the infinitive form (without any marker). ON 
+examples: 
+Ek sé Óláf konung koma. 
+I see King Olaf come. 
+Vér sjám manninn kalla. 
+We see the man shout. 
+Hann heyrir drauginn mæla. 
+He hears the ghost speak.
+Modern English speakers will often say "I see it coming." instead of "come." 
+The ON construction may be translated either way. 
+1.3 Usage - auxiliary verbs 
+ON has much in common with English in its use of auxiliaries. To begin with, 
+some examples of English auxiliary constructions with infinitive: 
+It wants to go. 
+He has to go. 
+
+
+=== PAGE 31 ===
+
+The man does see. 
+Birds can fly. 
+The dogs must leave.
+The beast will sleep.
+The auxiliary verbs are the ones that conjugate, 'want', 'can', etc, always 
+coming first in an English sentence (but not necessarily in ON). The other 
+verbs are all in infinitive. 
+Note how some of the infinitives are marked with 'to', but some not. This is a 
+feature of English as well as ON. It is inherent in the auxiliaries themselves, if 
+the following infinitive is marked or not. Among the auxiliaries above only 
+'want' and 'have' take a marker. ON verbs that have no infinitive marker, are 
+easily recognized because they all belong to a special conjugation group. 
+Below you will learn 'vilja', meaning 'want', which is one of those "special" 
+auxiliaries. 
+Konungrinn vill vega mennina. 
+The king wants to kill the men.
+Þeir vilja taka hestinn. 
+They want to take the horse. 
+Ek vil mæla. 
+I want to speak. 
+Eta vil ek eigi. 
+I don't want to eat. 
+1.4 The masculine article 
+It may annoy speakers of many languages that the definite article is attached 
+to the end of words rather than being a seperate word in front. It may be some 
+consolation that it is originally a separate word. Its declension (in the cases 
+and gender we have learnt so far) follows: 
+ 
+sg
+pl 
+nom inn inir
+acc inn ina
+When we tack the article on to words it sometimes appears in its full majesty: 
+maðr + inn = maðrinn 
+
+
+=== PAGE 32 ===
+
+menn + inir = menninir
+But if the noun ends with a vowel or 'r' the 'i' of the article is dropped: 
+ormar + inir = ormarnir
+orma + ina = ormana 
+And now a masculine noun from a declension group (the weak one) which 
+you haven't learnt. 
+(nom sg) hani + inn = haninn 
+(acc sg) hana + inn = hanann
+Though it is a separate word, 'inn' cannot be freely put in front of a word as an 
+article; it always follows the noun (with some important exceptions to be 
+learnt later). 
+2. Vocabulary 
+2.1 Nouns 
+matr 
+food (always in singular)
+fiskr 
+fish 
+ostr 
+cheese 
+Names: 
+Svartr 
+Kormákr
+2.2 Pronouns 
+There is a group of pronouns called 'indefinite' pronouns; here are two useful 
+ones: 
+allr 
+all, whole 
+margr many, multitudinous 
+
+
+=== PAGE 33 ===
+
+As said above, many pronouns decline like the indefinite adjectives that have 
+been presented. Thus, 'allr' is declined (in masculine): 
+ 
+sg 
+pl 
+nom allr allir
+acc allan alla 
+Exactly like the adjectives above. 
+But since 'allr' is available both in singular and plural, how would each 
+translate in English? The plural form translates directly to the English cognate 
+'all', while the singular means 'all of', 'whole'. Examples: 
+Allir menninir eru norskir. 
+All the men are Norwegian.
+Hann sér allan manninn 
+He sees all of the man. 
+'Margr' declines in the same way. Its singular form means 'one of many', while 
+the plural means 'many'. To explain the singular, consider this example: 
+Margr maðr á hest. 
+Many a man has got a horse.
+What students should perhaps realize, is that there is little difference between 
+these so-called pronouns on the one hand, and adjectives on the other. For 
+other adjectives can stand independently just as these pronouns can; examples: 
+Allir eru glaðir. 
+All are happy. 
+Hræddir eru ok ragir. Scared [ones] are also cowardly.
+Dauðir sjá dauða. 
+Dead [ones] see dead [ones]. 
+Ef blindr leiðir blindan falla báðir í gryfju. 
+If a blind [one] guides a blind [one], both fall into a pit.
+However, traditional grammar defines these so-called pronouns as such, and 
+other adjectives as such; we will adhere to this system in our lessons, in order 
+not to confuse students refer to other sources. 
+Regarding word order, adjectives usually postcede personal pronouns; thus: 
+Ek et hann allan. I eat all of it.
+2.3 Adjectives 
+
+
+=== PAGE 34 ===
+
+danskr 
+Danish 
+dauðr 
+dead 
+góðr 
+good 
+hræddr 
+afraid 
+illr 
+evil 
+íslenzkr 
+Icelandic 
+norskr 
+Norwegian 
+reiðr 
+angry 
+ragr 
+cowardly 
+stórr 
+big (note that the first r is part of the stem)
+svangr 
+hungry 
+2.4 Verbs 
+Regular verbs: 
+eta, et 
+eat 
+veiða, veiði 
+hunt/fish 
+flýja, flý 
+flee, run away 
+spyrja, spyr 
+ask 
+svara, svara 
+answer 
+kenna, kenni recognize, know (a person, place, or object) 
+elta, elti 
+follow, chase 
+
+
+=== PAGE 35 ===
+
+heyra, heyri 
+hear 
+fara, fer 
+go 
+deyja, dey 
+die 
+Note that ON has different words for the English concept "know"; "kenna" 
+above indicates familiarity, while "vita", mentioned above, is the "absolute" 
+knowing, i.e. it means awareness of a fact or event. 
+An irregular verb - vilja: 
+This irregular verb, meaning "want", is the second in a small group of verbs 
+with an anomalous conjugation (the first being "vera"), but also highly useful 
+meanings. It is a cognate of English "will", and behaves in similar ways as 
+that English verb (e.g. in auxiliary constructions, see 1.3 above). It conjugates 
+thus: 
+Infinitive: (at) vilja
+ek 
+vil vit/vér 
+viljum
+þú 
+vilt þit/þér 
+vilið 
+hann/hon/þat 
+vill þeir/þær/þau vilja 
+2.5 Adverbs 
+brátt soon 
+oft 
+often 
+hví? why? (word-order: hví + verb + subject)
+mjök very, very much, greatly 
+'Mjök', being an adverb, can also be used with verbs, in which case it means 
+'very much'. For example, 
+Óláfr hatar mjök úlfa. Olaf hates wolves very much.
+Another example, from a real text, Völuspá: 
+Geyr nú garmr mjök. Now [the] dog howls greatly.
+
+
+=== PAGE 36 ===
+
+2.6 Conjunctions 
+því at because (word-order: því at + subject + verb)
+er 
+when 
+3. Exercises 
+3.1 Translate the sentences into English 
+Ragir menn sjá reiðan úlf koma. 
+"Ek sé svangan mann taka ost." 
+"Hvárt sér þú íslenzka menn koma?" 
+Maðrinn er oft hræddr. 
+Illir menn vilja vega góða menn. 
+Allir vilja bátinn taka því at Óláfr á hann. 
+Íslendingar eru eigi menn ragir. Þeir eru ok góðir en eigi illir.
+Maðrinn veiðir fisk ok etr hann brátt allan. 
+3.2 Translate the phrases into Old Norse 
+"Do you two eat the whole cheese?" 
+"We see hungry wolves chase the man." 
+"The ravens want to eat all of him, for they are very hungry." 
+King Olaf sees the thieves take the boat. 
+"I see many thieves! I want to kill them all!" 
+
+
+=== PAGE 37 ===
+
+Olaf wants to kill the thieves, but they see him coming. 
+As the thieves hear Olaf speak, they all flee. The king chases them.
+"Many a thief wants to take the boat." 
+3.3 Translate the texts into English 
+Illr draugr vill vega Óláf konung. Hann eltir konunginn ok er hann sér hann, 
+kallar draugrinn, "Óláfr, þú ert maðr illr mjök ok ragr. Ek hata þik, því at þú 
+vegr góða menn." Óláfr er hræddr ok flýr. 
+Svartr heitir danskr maðr. Hann veiðir oft fiska ok etr þá því at fiskar eru matr 
+góðr. Svartr ferr ok veiðir marga stóra fiska er hann vill eta. Er Svartr veiðir 
+fiskana, kømr maðr. Er maðrinn sér Svart veiða fiskana, segir hann, "Heill, ek 
+heiti Kormákr." Svartr heyrir Kormák mæla ok svarar, "Heill. Svartr heiti ek 
+ok em danskr maðr." Kormákr spyrr Svart, "Hvárt veiðir þú fiska, Svartr?" 
+"Marga stóra fiska veiði ek, því at þeir eru góðr matr." Kormákr segir, "Ostr er 
+ok góðr matr, Svartr. Ek hefi hér ost góðan. Hvárt vilt þú ost eta?" "- Ek vil 
+fisk ok ost eta, því at ostr er ok góðr matr. Hvárt vilt þú fisk eta, Kormákr?" "- 
+Fiskr er góðr," svarar Kormákr ok tekr fisk. Svartr tekr ok ost ok etr. Menninir 
+eru mjök svangir. Þeir eta nú alla fiskana ok allan ostinn, ok eru brátt glaðir 
+menn en eigi svangir. 
+3.4 Translate the text into Old Norse 
+A worm sees a wolf coming. When it sees the wolf, it says, "Sss - wolf, why 
+do you come? I own the fish here, which you want to take." The wolf is not 
+scared and replies, "hail worm, I'm a hungry wolf now and I want to eat fish. 
+You have much fish (many fishes) there, which you aren't eating (don't eat)." 
+The worm is angry and says, "I own all the fish there, wolf. Wolves who eat 
+the fish all die (deyja allir)!" Now the wolf is scared, because an evil worm 
+wants to kill it. "- You are an evil worm! You fish (hunt) much fish but do not 
+eat it (them) all. We wolves are very hungry and don't have fish. We also want 
+to eat fish, worm!" The worm sees the wolf flee. The wolf is very angry and 
+shouts, "I hate evil worms!" But the worm does not chase the wolf, for it is 
+happy but not angry. 
+4. Looking at real texts 
+4.1 A strophe from Völuspá 
+
+
+=== PAGE 38 ===
+
+In this course we use standardised Old Icelandic spelling, geared to the 13th 
+century. In this format we would give one of the last strophes of Völuspá like 
+this. 
+"Sér hon upp koma
+öðru sinni 
+jörð ór ægi 
+iðjagroena; 
+falla forsar, 
+flýgr örn yfir, 
+sá er á fjalli 
+fiska veiðir." 
+This, however, is not what how the main manuscript of Völuspá, Codex 
+Regius, reads. The same strophe is spelled in the following way in the 
+manuscript (I change e with tail to æ and o with tail to ö). 
+Ser hon upp koma avðro siNi iord or ægi iþia gröna. falla
+forsar flygr avrn yfir sa er afialli fisca ueiðir. 
+Lots of interesting points. 
+• The manuscript doesn't distinguish between short and long vowels. 
+• It sometimes uses capitals for double consonants. 
+• It does not differentiate between i and j. 
+• It does not differentiate between u and v. 
+• It uses c for k. 
+• The grammatical ending 'u' is written 'o'. 
+• It does not split the poem into lines. 
+• It uses capitalisation and punctuation in a way different from ours. 
+• It divides words in a way different from ours. 
+• It writes 'ð' as 'þ', 'd' or 'ð'. 
+• It uses 'av' for 'ö'. 
+In all those respects Codex Regius is quite normal. Indeed, the standardised 
+spelling is by no means an average of the spelling systems in the various 
+
+
+=== PAGE 39 ===
+
+manuscripts. Rather, it is intended to write Old Norse in a way that 
+distinguishes its different sounds. 
+We can now look at the same strophe respelled into modern Icelandic. 
+"Sér hún upp koma
+öðru sinni 
+jörð úr ægi 
+iðjagræna; 
+falla fossar, 
+flýgur örn yfir, 
+sá er á fjalli 
+fiska veiðir." 
+Not many changes because the spelling of Old Icelandic and the spelling of 
+Modern Icelandic are based on the same basic system. You should note that 
+the ending 'r' has changed to 'ur'. 
+We have now shown you the same strophe in three different spellings. All of 
+them are quite plausible and many more. The morale? When you encounter a 
+text 'in the original Old Norse' be sure to notice which spelling is used. 
+ 
+ 
+Old Norse for Beginners - Lesson Four 
+by Haukur Þorgeirsson and Óskar Guðlaugsson 
+1. Grammar 
+1. Dative Case: Giving & Receiving 
+2. Dative Case: Forms 
+3. Word Order: Indirect Objects 
+4. Verb Imperative 
+5. Pronoun trick - We Olaf slay a worm 
+2. Vocabulary 
+1. Nouns 
+2. Adjectives 
+3. Verbs 
+
+
+=== PAGE 40 ===
+
+4. Adverbs 
+3. Exercises 
+1. Translate the phrases into English 
+2. Translate the phrases into Old Norse 
+3. Translate the text into English 
+4. Translate the text into Old Norse 
+4. Looking at real texts 
+1. A stanza from the Höfuðlausn 
+1. Grammar 
+1.1 Dative Case: Giving & Receiving 
+Until now, we have been working with two opposing cases: nominative and 
+accusative. By now you should understand clearly the concept behind them 
+and the difference between them. Consider this English sentence, 
+John tells a story. 
+That's complete. It's clear to you that John is the subject and the story is the 
+object; if it were ON, John would be in nominative form and the story would 
+be in accusative form. 
+John tells a story to Mary. 
+John's still the subject, the story's still the object; but the new participant, 
+Mary, serves an as yet unidentified role. Let's consider the following 
+incomplete sentence, 
+John gives the dog... 
+As stated above, the sentence is not complete; we need to know to whom John 
+gives the dog. So, 
+John gives the dog to Mary. 
+Again, Mary's a third participant in the sentence; but how does Mary relate do 
+John and the dog? Again, before we answer that, let's consider what word 
+order has to do with it; 
+John gives to Mary the dog. 
+To Mary the dog gives John. 
+The first version is not obviously incorrect, merely unconventional; the 
+second one is wrong, especially for our purposes, because it makes it seem 
+like the dog is giving John away, and thereby being the subject. 
+In any case, it is clear that Mary has a different role from the dog, and John 
+clearly has a different role from both of them. We know that John is the 
+subject and the dog is the object, so what does that make Mary? She's an 
+object all right, but not in the same way as the dog. The dog's a direct object; 
+it's being directly affected by John. Mary is an indirect object; she's merely 
+being affected by John's actions involving the dog. 
+The bottom line is, Mary's role is special, and it is practical to mark this role 
+in a separate way. How does English mark this role? Usually, in sentences like 
+
+
+=== PAGE 41 ===
+
+the ones above, by fixing "to" to the indirect object. Note how the "to" would 
+stay with Mary no matter how the word order got arranged. 
+You might have figured out by now that we're dealing with a new case. You 
+might also have guessed that ON marks this case with special endings, not 
+merely with words like "to" and a special word order. This case is called the 
+dative case; the "da" part of the word is the stem of the Latin word "give", 
+which is the logic behind the term for the primary usage of the dative case is 
+to mark the receiver of a "gift" (note, though, that "gifts" can also be thrown, 
+shoved, transmitted, told, etc to their receivers). 
+1.2 Dative Case: Forms 
+Now that you understand the basic idea behind the dative, you require only the 
+ON endings to start using it. 
+First, the strong masculine noun declension: 
+ 
+Sg 
+Pl 
+Nom 
+dvergr dvergar 
+Acc 
+dverg dverga 
+Dat 
+dvergi dvergum
+The -i ending there is characteristic of the dative in the strong masculine; 
+some words in this declension don't have it (i.e. they are the same in acc and 
+dat), e.g. "matr", but you should not worry about it now. The -um in the dative 
+plural is characteristic of all declensions; it is thus important that you learn to 
+recognize it. 
+Next, the pronouns: 
+ 
+Sg
+Du Pl
+Nom 
+ek vit 
+vér
+Acc 
+mik okkr oss 
+Dat 
+mér okkr oss 
+ 
+Sg
+Du Pl 
+Nom 
+þú þit 
+þér
+Acc 
+þik ykkr yðr
+
+
+=== PAGE 42 ===
+
+Dat 
+þér ykkr yðr
+ 
+he 
+it 
+they (masc) they (neut)
+nom 
+hann þat þeir 
+þau 
+acc 
+hann þat þá 
+þau 
+dat 
+hánum því þeim 
+þeim 
+You may find it disconcerting that "hánum" has an -um ending (coupled with 
+a minor stem change), similar to the plural of nouns; that is however 
+characteristic of masculine pronouns in general. Since the article is originally 
+a pronoun, its masculine form also features this, see a strong masculine word 
+declined with the article attached: 
+ 
+Sg 
+Pl 
+Nom dvergrinn dvergarnir
+Acc dverginn dvergana 
+Dat dverginum dvergunum
+The main anomaly here is the plural dative form; you might, systematically 
+speaking, expect something like "dvergumnum". Roughly speaking, that's the 
+original form, but a combination like "mn" in that position would very easily 
+get simplified to a more convenient "n"; which is what happened. 
+Finally, adjectives in masculine: 
+ 
+Sg 
+Pl 
+Nom reiðr 
+reiðir 
+Acc reiðan reiða 
+Dat reiðum reiðum
+Again, same pattern as with the pronouns, since the boundary between 
+pronouns and adjectives is often not that clear in ON. 
+As you have seen happen with verbs, endings like -um that have an u in them, 
+will modify any a in the immediately preceding syllable, changing it to ö. This 
+is called u-umlaut, or u-mutation ("umlaut" is a German term; "um" is a 
+preposition meaning "about/around", while "laut" means "sound" - "sound-
+
+
+=== PAGE 43 ===
+
+about" if you like). Practically speaking, this means that you must take care 
+with words containing an "a" in the root. For example, 
+(Example noun) 
+ 
+Sing
+Pl 
+Nom maðr menn 
+Acc mann menn 
+Dat manni mönnum
+(Example adjective) 
+ 
+Sing 
+Pl 
+Nom glaðr 
+glaðir 
+Acc glaðan glaða 
+Dat glöðum glöðum
+(Example pronoun) 
+ 
+Sg 
+Pl 
+Nom allr 
+allir 
+Acc allan alla 
+Dat öllum öllum
+Note the "a > ö" changes where the -um ending is present (always in dative 
+plural and In dative singular of masculine adjectives and pronouns). 
+1.3 Word Order: Indirect Objects 
+The most conventional order in ON prose, is to put the indirect object 
+*before* the direct object. 
+Maðrinn gefr konunginum bátinn. 
+You should stick to this word order, though you can expect just about any 
+word order to appear in skaldic poetry. 
+1.4 Verb Imperative 
+
+
+=== PAGE 44 ===
+
+We commonly command or suggest for people to do something: 
+Leave, find the car and then bring it here. 
+All the verbs there are in "imperative". English verbs do not have any separate 
+form for the imperative. ON verbs do not have any endings for the imperative, 
+but rather the infinitive stem is used without the -a ending. For example, 
+Veg þú orminn ok tak bauginn er hann hefir. 
+An exception is verbs that end with -a in 1st person singular present, "kalla". 
+Those keep their a in the imperative. 
+Kalla þú mik Hauk! 
+(From the verb infinitives "vega" and "taka") 
+As can be seen, the pronoun "þú" (or "þit" or "þér") may be inserted and 
+usually is, especially in spoken language. It need not be repeated for the 
+following imperative verbs, though it may be done ("...ok tak þú bauginn..."). 
+To command more than one person, the "-ið" ending (as in the verb active) is 
+used: 
+Vegið þér orminn ok takið bauginn er hann hefir. 
+The imperative is seen in some greetings: 
+Ver (þú) heill! be whole/healthy 
+Verið heilir! be whole/healthy (plural)
+Far vel! 
+go well (fare well) 
+But "negative commands" are also used, as in English 
+Don't go! 
+In ON, this is simply expressed by adding a negative adverb such as "eigi". 
+Far þú eigi! 
+1.5 Pronoun trick - We Olaf slay a worm 
+In English we can say sentences like this: 
+Olaf and I are slaying a worm. 
+Old Norse has an idiomatic way of expressing the same: 
+Vit Óláfr vegum orm. 
+We could also have: 
+Vér Óláfr vegum orm. 
+Meaning: 
+Olaf, I, and some other people are slaying a worm. 
+Some more examples: 
+Þeir Óláfr vega orm. 
+Þit Óláfr vegið orm. 
+Þér Óláfr vegið orm. 
+2. Vocabulary 
+
+
+=== PAGE 45 ===
+
+2.1 Nouns 
+hattr hat 
+grautr porridge
+Names: 
+Einarr 
+Fjalarr (dwarf-name) 
+Gandálfr (dwarf-name)
+2.2 Adjectives 
+glaðr happy, glad 
+langr long 
+gylltr golden, gilted
+2.3 Verbs 
+gefa, gef 
+give 
+foera, foeri bring
+finna, finn find 
+hlæja, hlæ laugh
+2.4 Adverbs 
+þá then
+3. Exercises 
+
+
+=== PAGE 46 ===
+
+3.1 Translate the phrases into English 
+• Svartr gefr Kormáki fiska. Þá er Kormákr glaðr. 
+• Menninir foera þeim góðan mat. 
+• "Vit foerum góðum manni ost." 
+• Svartr spyrr, "Hví gefr þú mér eigi ost, Kormákr?" 
+• Kormákr svarar, "Ek gef þér eigi ost, því at ek hefi hann eigi." 
+• Kormákr etr allan ostinn en gefr Svarti hann eigi. 
+• Konungrinn foerir Norðmönnunum knífa ok geira. 
+• Þá gefa Norðmenninir hánum langan bát ok gylltan baug. 
+• Maðrinn gefr hánum hatt góðan. 
+3.2 Translate the phrases into Old Norse 
+• Then they give a golden ring to an evil king. 
+• The dwarves bring the king a golden ring. 
+• The king says "You are good dwarves." 
+• The king takes the ring and gives the dwarves a big cheese. 
+• The dwarves don't want any cheese, but they take it and go. 
+• "Why do I give them cheese which they don't eat?" King Olaf asks the 
+ghost. 
+• The ghost replies "Olaf, you're a good man. But do not give cheese to 
+dwarves." 
+3.3 Translate the text into English 
+Óláfr gefr Svarti hatt, kníf ok hest góðan. Hann segir, "Far þú nú, Svartr, ok 
+finn bauginn er dvergarnir Fjalarr ok Gandálfr hafa." Svartr svarar, "En Óláfr, 
+hví gefr þú mér eigi mat? Ek em svangr ok vil mat eta."Óláfr gefr hánum ost, 
+graut, ok fisk ok segir, "Hér hefir þú mat. Far nú ok finn bauginn." 
+Svartr etr matinn er Óláfr gefr hánum. Hann segir, "grautrinn er þú gefr mér er 
+góðr, Óláfr. Þú ert góðr konungr." 
+Svartr ferr nú ok finnr dvergana er hafa bauginn. Hann segir, "Dvergar, gefið 
+mér bauginn. Óláfr konungr vill hann." Dvergarnir svara, "Vit viljum eigi gefa 
+Óláfi konungi bauginn. Hann er illr konungr." Svartr er reiðr ok segir, "Gefið 
+mér bauginn eða ek veg ykkr!" Dvergarnir eru eigi hræddir. Þeir hlæja ok 
+Fjalarr segir, "Þú ert ragr maðr, Svartr. Þú vegr okkr Gandálf eigi. Vit gefum 
+ykkr Óláfi eigi bauginn, ok far þú nú!" Svartr hefir eigi brand. Hann hefir kníf, 
+en knífrinn er eigi stórr. Hann vegr eigi dvergana ok foerir Óláfi eigi bauginn. 
+3.4 Translate the text into Old Norse 
+Eric, a thief, sees some men eat. They eat good porridge, many fish, and a big 
+cheese. Eric wants the food, for he is hungry. He says "Hail, I am hungry. 
+
+
+=== PAGE 47 ===
+
+Will you (use "þér") give some good food to a hungry man?" They reply 
+"Take some food. We give it to you. But the elves are hungry too. Take some 
+porridge and give it to them. Eric finds some elves. He brings hungry elves 
+food, for he is a good man. 
+4. Looking at real texts 
+4.1 A stanza from the Höfuðlausn 
+Again we practice our etymology but in a less verbose manner than before. 
+A stanza from the Höfuðlausn: 
+Beit fleinn floginn
+þá var friðr loginn
+var álmr dreginn 
+varð úlfr feginn. 
+Stózk fólk-hagi 
+við fjör-lagi 
+gall ý-bogi 
+at egg-togi. 
+The main etymological lesson here is that g inside a word is gone in modern 
+English; resulting in a change of the original vowel. 
+floginn 
+flown
+loginn 
+lied 
+dreginn 
+drawn
+feginn 
+fain 
+lagi (dative) lay 
+Other cognates: 
+álmr 
+elm (bows were made of elm) 
+
+
+=== PAGE 48 ===
+
+stózk (middle 
+voice) 
+stood 
+beit 
+bit (bíta = bite) 
+gall 
+yelled (Old English "geall", the 'g' is pronounced as 
+'y' in ME) 
+egg- 
+edge (Old English "ecg" was pronounced "edge") 
+ý- 
+yew- 
+Words without English cognates: 
+fleinn arrow
+friðr peace
+fjör 
+life 
+I have included most of the cognates in this translation but enclosed them in 
+quotation marks when they didn't seem to fit the context. 
+A flown arrow bit 
+then peace was "lied" [broken]
+the elm [bow] was drawn 
+the wolf became fain. 
+The folk-leader stood against 
+a "lay" [blow] to his life 
+a yew bow "yelled" [twung] 
+at the "tow" [pull] of edges. 
+ 
+ 
+ 
+
+
+=== PAGE 49 ===
+
+Old Norse for Beginners - Lesson Five 
+by Haukur Þorgeirsson and Óskar Guðlaugsson 
+1. Grammar 
+1. Prepositions and Case Usage 
+2. Dative Case: Command 
+3. Accusative Case: Qualifying 
+4. Assimilative Verb Conjugation 
+2. Vocabulary 
+1. Nouns 
+2. Conjunctions 
+3. Adjectives 
+4. Verbs 
+5. Adverbs 
+6. Prepositions 
+7. Pronouns 
+8. Phrases 
+3. Exercises 
+1. Translate the phrases into English 
+2. Translate the phrases into Old Norse 
+3. Translate the text into English 
+4. Translate the text into Old Norse 
+1. Grammar 
+1.1 Prepositions 
+So far we have been managing entirely without prepositions. But prepositions 
+are an important part of ON as well as English, and not using them calls for 
+much unnecessary circumlocution and paraphrasing. ON prepositions, 
+however, largely involve use of the dative case, which is why we have not 
+started using them until now. 
+Why would prepositions involve the dative case? Our first acquaintance with 
+this case introduced it as a case for "giving & receiving". But the dative case 
+has many different functions in ON. The reason is that ON's dative case was 
+(and is, in Icelandic and Faroese) the final result of a fusion of many different 
+cases. In the farthest "known" (projected by comparative linguistics) ancestral 
+language of both ON and English, "Indo-European" (so called because it is the 
+ancestor of most European languages and Persian and North-Indian languages 
+as well), all those different cases served one specific purpose only. Four Indo- 
+European cases served as the basis for the ON dative: 
+
+
+=== PAGE 50 ===
+
+· Locative: The case for marking places or objects where the subject of the 
+sentence is positioned; associated with prepositions meaning 'in', 'on', 'at', etc. 
+· Ablative: Marks places or objects whence the subject comes; associated with 
+prepositions meaning 'from', 'out of', etc. 
+· Instrumental: Marks objects that are being used in the verb action; e.g. a 
+sentence meaning 'he weighed the book with a scale', would mark the word 
+'scale' with the instrumental; English primarily marks the instrumental with 
+the preposition 'with', but sometimes with 'by', e.g. 'he came by ship'. 
+· Dative: Marks the indirect object, usually the receiver of a gift of some kind 
+(whether negative or positive); English usually marks this with 'to', e.g. "he 
+gave it to him" or simply by word order, e.g. "he gave the man a chance", 
+where "the man" would be in dative. 
+In Indo-European, those cases (supposedly) had separate forms, i.e. separate 
+endings, for each of them. But ON had united all those cases into one form, 
+while retaining all of those different uses for that single case. 
+It may be evident by now why the dative case is so strongly affiliated with 
+prepositions in ON. Most prepositions have meanings that would be 
+associated with the locative and ablative cases mentioned above. 
+You might wonder what case category prepositions like 'into' and 'onto' fit. 
+While locative answers 'where?', and ablative answers 'whence?/where from?', 
+the 'into' case would answer 'whither?/'where to?'. This case is called "allative" 
+by grammarians, and is the opposite of the 'ablative'. Even Indo-European did 
+not have a separate form for this case; instead, it was assigned to the 
+accusative case. This is significant, because some ON cases involve 
+accusative, and they are all essentially allative in meaning. 
+From now on, prepositions are introduced in the Vocabulary section in the 
+following format: 
+með + dat with, by, using
+Or that is, the prepositions are shown with a "+ [case]" following it. It is very 
+important to note the case that a preposition takes, especially because a few 
+ON prepositions may take either accusative or dative, with different meanings 
+according to which case follows. These are cases of prepositions with either 
+locative or allative meanings; compare English "in", locative, which would 
+take dative in ON, to "into", allative, which would take accusative. Both are 
+represented by the ON preposition "í", but the meaning differs according to 
+the case that follows. 
+1.2 Dative Case: Command 
+Now that you have learnt how to mark the dative case in all words we have 
+yet introduced, it is time to learn more useful ways of using it. One useful 
+construction involves verbs meaning "tell" or "command". 
+Consider this English sentence, 
+
+
+=== PAGE 51 ===
+
+I told him to stop. 
+As opposed to, 
+I gave him a watch. 
+And then consider 
+I told it to him. 
+I gave it to him. 
+The sentences both exhibit the same pattern, at close inspection. We already 
+understand that the second sentence, involving giving, has an indirect object, 
+and therefore a dative case. By re-arranging the sentence, the abstract "to" 
+preposition pops up, which is a sure sign of the dative in English. "He" is the 
+indirect object, the receiver of the "gift", and is marked with the dative. 
+What we are interested in now, however, is that the first sentence, not 
+obviously involving any "giving", merely "telling", behaves in the same way. 
+"He" is also an indirect object, and is marked with dative. What does he 
+receive? "To stop". Hardly a noun, but verb infinitives are tricky in that they 
+often behave as nouns. Without dwelling on that, we have at least found that 
+this is a significant "new" way of using the dative, although it is in principle 
+the same as the "giving" usage we already know. 
+Common English verbs that can function in this way are "tell", "command", 
+"order", and others of similar meanings. 
+The good news is that ON does the exact same thing. In ON, we know the 
+verb "segja"; it means "say", but it also means "tell", since ON does not 
+distinguish between those two meanings. Let's make ON constructions 
+analogous to the ones above: 
+Ek gef hánum mat. 
+Is already familiar. Using the command-type construction, 
+Ek segi hánum at eta. 
+However, in examining 13th century Icelandic texts, it seems to us that such 
+constructions with "segja" were not altogether usual, though not wrong. The 
+idiomatic usage of the text writers was to use the verb "bjóða, býð" = 'offer'. 
+Thus, they'd rather say: 
+Ek býð hánum at eta. 
+But Nordic men of authority often made "offers" that couldn't be refused; 
+'bjóða' sometimes means simply 'order'/'command'. 
+Evidently, verb infinitives can function like nouns in other dative contexts 
+than commanding, both in English and ON. English says, 
+I give him to eat. (usually elaborated to, say, "I give him something to eat") 
+ON would say, 
+Ek gef hánum at eta. 
+1.3 Accusative Case: Qualifying 
+There still remain some useful ways of employing accusative in ON. One 
+common construction is what we off-hand dub "qualifying". Again, being 
+closely related to ON, English has an analogous construction: 
+
+
+=== PAGE 52 ===
+
+I call him cowardly. 
+In ON, both "him" and "cowardly" come in accusative: 
+Ek kalla hann ragan. 
+ON often uses the verb "segja" in this way: 
+Ek segi hann ragan. 
+Another use is with the verb "vilja", as English uses "want": 
+Ek vil hann dauðan.    I want him dead. 
+1.4 Assimilative Verb Conjugation 
+Verbs that do not conjugate with a vowel ending, and whose stems have a 
+long vowel (acutes, diphthongs, ae and oe) and end in 's' or 'n' never have an -r 
+ending; instead, the -r assimilates to the 's' or 'n' and becomes an -s/-n ending: 
+blása, blaes to blow
+ek 
+blæs 
+þú 
+blæss 
+hann 
+blæss 
+skína, skín to shine
+ek 
+skín 
+þú 
+skínn 
+hann 
+skínn 
+But verbs that end in vowels are of course not affected: 
+reisa, reisi to construct, to raise something/someone (to vertical 
+position) 
+ek 
+reisi 
+þú 
+reisir 
+hann 
+reisir 
+2. Vocabulary 
+
+
+=== PAGE 53 ===
+
+2.1 Nouns 
+skógr forest 
+vágr 
+small bay, cove 
+hólmr isle, small island 
+garðr palisade/stone wall, city, city-state, garden, yard 
+haugr mound, dung, pile, grave (see below) 
+eldr 
+fire 
+vindr wind 
+vangr field (not farming), meadow, clear patch of ground
+brunnr well 
+heimr home, homeland, world 
+oddr point, spike 
+fors 
+waterfall 
+sandr sand 
+• Norse people made great piles over the graves of important men. 
+Ragnarr 
+Hjálmarr 
+Oddr 
+Úlfarr 
+Noregr 
+Norway 
+
+
+=== PAGE 54 ===
+
+Geirshólmr "Geir's Isle" 
+Geirshaugr "Geir's Grave" 
+Heiðvangr "Clear Field" 
+Skógarfors "Forest's Falls" 
+Úlfarsheimr "Úlfar's Home" 
+Hólmgarðr "Island City", a Nordic (Swedish) colony in Russia, now 
+called Novgorod ("gorod" = "garðr") 
+Austrvegr "Eastway" (Russia) 
+2.2 Conjunctions 
+ef 
+if 
+þar er where (relative)
+2.3 Adjectives 
+djúpr deep 
+ungr young 
+ríkr 
+rich 
+heiðr clear 
+bjartr bright, fair (of light complexion and/or blonde hair)
+sterkr strong 
+víðr wide, extensive 
+breiðr broad 
+
+
+=== PAGE 55 ===
+
+feigr doomed to die, "dead already", fey 
+spakr wise 
+2.4 Verbs 
+sigla, sigli 
+sail 
+ganga, geng 
+walk 
+bjóða, býð 
+offer (sometimes 'command', see 1.2)
+sýna, sýni 
+show 
+búa, bý 
+live in, inhabit 
+brenna, brennr be burning 
+blása, blæs 
+blow 
+falla, fell 
+fall 
+skína, skín 
+shine 
+standa, stend stand 
+lifa, lifi 
+live 
+2.5 Adverbs 
+meðan while 
+svá 
+so, such, then (immediately following)
+heim homewards 
+vel 
+well 
+
+
+=== PAGE 56 ===
+
+sem 
+as, like 
+2.6 Prepositions 
+í + acc 
+into 
+í + dat 
+in(side) 
+á + acc 
+onto 
+á + dat 
+on (top of) 
+ór + dat 
+out of 
+með + dat with, by, using; with, accompanying
+2.7 Pronouns 
+fáir 
+(pl) few (note: "fám" in pl dat, not "fáum")
+sumir (pl) some 
+báðir (pl) both 
+hvat? what? 
+2.8 Phrases 
+"gefa grið" grant/give mercy, spare, pardon (from death)
+Example: "illr maðr gefr mér eigi grið." (an evil man gives me no mercy) 
+Dictionaries will reveal that "grið" is a plural neuter, but do not let that 
+disconcert you. It will not need to be declined to any form not known to you. 
+Just use the phrase. 
+3. Exercises 
+3.1 Translate the phrases into English 
+
+
+=== PAGE 57 ===
+
+a. Úlfrinn gengr í skóginn. 
+b. Úlfrinn gengr í skóginum. 
+c. Eldr mjök bjartr brennr í garðinum. 
+d. Ragnarr ferr með víkingum í váginn. 
+e. Þar vegr hann úlfana með geirinum. 
+f. Ragnarr kømr í Eiríksheim með bátinum. 
+g. Með hánum eru fáir menn. 
+h. "Hví eru sumir eigi glaðir?" spyrr Oddr. 
+i. "Fám mönnum, er mik feigan vilja, gef ek grið," segir Úlfarr jarl. 
+3.2 Translate the phrases into Old Norse 
+a. A young man sails in the cove. 
+b. He walks out of the boat and into the isle. 
+c. The vikings wait with the earl in a big forest, in the isle. 
+d. The man finds the vikings and the earl in the forest. 
+e. The earl says: "Some men want me dead. Do you want so?" 
+f. "That I do (so I want), earl. Here I stand and fall." 
+g. "Few men do I spare. If you do not leave (go), I kill you." 
+h. The vikings say: "Go home, or be doomed." 
+3.3 Translate the text into English 
+Oddr ok Ragnarr heita menn. Oddr er maðr ungr ok bjartr, ok sterkr mjök. 
+Ragnarr er maðr mjök ríkr. Ragnarr á bát góðan ok langan mjök. Þeir eru 
+báðir Norðmenn ok búa í Noregi. 
+Ragnarr býðr Oddi ok mörgum víkingum at fara í bátinn. Þeir fara nú allir ok 
+sigla. Þeir sigla í stórum vági. Ór bátinum sjá þeir hólm. Þar er sandr ok skógr. 
+"Hólmrinn heitir Geirshólmr," segir Ragnarr Oddi. "Í skóginum þar er ok 
+Geirshaugr, en þar býr Geirr, illr draugr." Þeir sjá ok vang mjök víðan ok 
+heiðan. Oddr spyrr, "Hvat heitir þá vangrinn, svá heiðr?" "Hann heitir 
+Heiðvangr. Þar blása vindar sterkir," svarar Ragnarr hánum. "Þar á ek marga 
+hesta, ok eta þeir vel í vanginum. Í Heiðvangi er ok brunnr mjök djúpr," segir 
+hann. Oddr sér fors breiðan ok spyrr, "Hvat heitir forsinn, er þar fellr?" 
+Ragnarr svarar hánum, "Forsinn heitir Skógarfors, ok er breiðr mjök." Ragnarr 
+sýnir Oddi vága, hólma, skóga, sanda, forsa, ok vanga, meðan þeir sigla. Oddr 
+segir, "Þú ert maðr mjök spakr ok mælir vel, Ragnarr, ok kenni ek nú marga 
+vága ok vanga hér í Noregi." 
+Brátt koma þeir í Úlfarsheim, þar er Úlfarr jarl býr. Úlfar hatar mjök Ragnarr 
+ok vill hann feigan. Er þeir ganga ór bátinum ok á sandinn, segir hann, "Hér í 
+Úlfarsheimi býr Úlfarr, jarl illr ok ríkr. Hann gefr eigi góðum mönnum grið." 
+Þeir ganga nú í Úlfarsheim ok sjá stóran garð. Ragnar maelir, "Garðrinn er 
+mjök stórr. Hann er svá stórr sem Hólmgarðr." Þá svarar Oddr, "Eigi kenni ek 
+Hólmgarð." Ragnarr segir hánum, "Þú ert ungr maðr, Oddr, ok eigi spakr. 
+Hólmgarðr er stórr garðr í Austrvegi. Þar eru margir vargar í víðum skógum." 
+
+
+=== PAGE 58 ===
+
+3.4 Translate the text into Old Norse 
+When Úlfar sees Ragnar coming with a young man and many vikings, he says, 
+"Many fires burn in me, while Ragnar lives. I grant him no mercy if he does 
+not leave (go) [out of] Úlfarsheim soon." The men are afraid, who are with 
+him, as they hear him speak so. Úlfar takes a sword and a horse, and leaves. 
+As they walk, Oddr asks Ragnar much (= many questions, use "mjök"). But 
+Ragnar does not answer him. He says: "Úlfar comes soon. Do not speak, he 
+wants all of us ("oss alla") dead." But Oddr and the vikings do not speak. 
+They stand and are afraid. Now Ragnar also sees what they see. 
+He sees Úlfar on a horse. The wind blows as he speaks: "You are all dead 
+("feigir") men. I don't spare men like you." As he is coming, they see the fire 
+[that is] burning in him. 
+Oddr and the vikings flee. They do not want to die in Úlfarsheim. Ragnar sees 
+them flee and shouts: "You are all cowardly! But now I flee too, for Úlfar 
+grants no mercy." Then he flees with the men. Úlfar does not pursue them. He 
+says: "Some men I do grant mercy - cowardly men." 
+4. Looking at real texts 
+4.1 A few words from the Heimskringla 
+Þá varð Óláfr konungr reiðr mjök ok mælti bráðliga: "Hví mun ek vilja eiga 
+þik hundheiðna?" 
+varð 
+became 
+bráðliga 
+angrily 
+mun 
+will (conjugated in lesson 8) 
+eiga 
+own, marry 
+hund-heiðna dog-heathen, heathen like a dog
+Then king Olaf became very angry and spoke angrily: 
+"Why will I want to marry you {when you are} heathen like a dog?" 
+4.2 A question and an answer from Brennu-Njáls saga 
+Hann spyrr hvat þeim væri þar gefit.  
+"Ostr," segja þær. 
+væri gefit = was given
+
+
+=== PAGE 59 ===
+
+He asks what was given there to them. 
+"Cheese," they say. 
+4.3 Half a strophe from Helgakviða Hundingsbana: 
+Hvárt eru þat svik ein
+er ek sjá þykkjumk? 
+Eða Ragnarök? 
+Ríða menn dauðir! 
+svik (plural noun) = betrayal, illusion 
+ein = one, only 
+þykkjumk = seem to 
+ríða = ride 
+Ragnarök = "the fate of the gods", the end of the world
+Are that only illusions 
+which I seem to see? 
+Or the end of the world? 
+There are dead men riding! 
+ 
+ 
+ 
+Old Norse for Beginners - Lesson Six 
+by Haukur Þorgeirsson and Óskar Guðlaugsson 
+1. Grammar 
+1. Umlauts 
+2. Article Usage 
+
+
+=== PAGE 60 ===
+
+3. Word Order 
+4. Reference 
+2. Vocabulary 
+1. Nouns 
+2. Pronouns 
+3. Adjectives 
+4. Verbs 
+5. Adverbs 
+6. Prepositions 
+7. Conjunctions 
+8. Phrases 
+3. Exercises 
+1. Translate the text into English 
+1. Grammar 
+1.1 Umlauts 
+"Umlaut" is a feature of Old Norse, and other Germanic languages; it 
+potentially causes the greatest difficulty to foreign learners, of all the features 
+in the language. It may be best, in order to thoroughly tackle this phenomenon, 
+to understand its origin, workings, occurrence, and function. First, perhaps, we 
+need to understand the term; "umlaut" is a "nonsensical" (German) term that 
+probably adds to the difficulty experienced by English speakers. In German, 
+"um" is a preposition meaning "about, around" (just as the corresponding ON 
+word); "laut" is a noun, meaning "sound". "Umlaut" means, roughly, "sound 
+change/shift/mutation" (or, for better memorization, "sound-about"!), and is 
+often called by one of those terms in English literature. 
+The umlaut was, to begin with, a pattern of changes within the Germanic 
+languages, where their speakers sought to reduce the bulk of the endings, by 
+dropping them and replacing them with vowels of changed quality (the 
+'quality' of vowels is simply their nature, like 'a' vs 'i' vs 'u', etc, while 
+'quantity' is their length). Until then, the Germanic vowels systems are thought 
+to have been simple, with (approximately) the 5 basic vowels as in Latin, 'a, i, 
+u, e, o', and various diphthong combinations of those. Through umlaut, a 
+vowel ending might be dropped, but its preceding stem vowel would be 
+affected by it in a certain way, changing to a new type of vowel. This 
+introduced many new vowels to the language, called the "umlaut vowels". The 
+umlaut vowels in ON are 'y, ý, æ, ø, oe, ö'. In older Norse, the ON 'e' was two 
+different vowels, one of which was an umlaut; but they merged to yield the 
+ON 'e', which is then "only sometimes" a case of umlaut. 
+There are three basic umlauts: a-, i-, and u-umlaut, according to the vowel of 
+the disappearing ending which caused the sound change. They were not active 
+
+
+=== PAGE 61 ===
+
+all at the same time, but rather appeared in the order given above. A-umlaut is 
+not important to us, and only one type of u-umlaut is significant. The details 
+of those will therefore be left out here. 
+I-umlaut caused vowels to become fronted, and in that way, drawn towards 
+the 'i'. This umlaut is of great functional importance, because in many 
+declensions and conjugations, the stem alternates between having it and not 
+having it. In orthographic terms, these are the i-umlauts: 
+a > e 
+á > æ 
+o > ø 
+ó > oe 
+u > y 
+o > y 
+ú > ý 
+jú > ý 
+jó > ý 
+au > ey
+We have some examples from verbs that we have been using: 
+hafa > hef 
+blása > blæs
+koma > køm
+róa > roe 
+búa > bý 
+bjóða > býð
+And also in noun declensions: 
+
+
+=== PAGE 62 ===
+
+áss, áss, æsir 
+maðr, manns, menn
+The i-umlaut is a prominent feature in verb conjugations, some noun 
+declensions, adjective comparisons, and finally, in word derivations. This will 
+be encountered and further discussed in future lessons. 
+The u-umlaut, then, has only one form that we need concern ourselves with: 
+a > ö
+We have seen this in the verb conjugation, especially in the 1p pl, such as 
+"höfum" or "tökum". Also in the dative forms, where the -um ending is 
+common, e.g "rögum mönnum". This is called "preserved" u-umlaut, because 
+the ending that caused it is still present, making it easy to predict. 
+Other types of u-umlauts, which need to be explained, are to be encountered, 
+but since they occur in declension forms that we have not yet dealt with, they 
+will be discussed later. 
+1.2 Article Usage 
+As it happens, a concept in one language seldom corresponds exactly to the 
+same concept in another. In that way, the concept of the definite article in ON 
+is by no means an exact counterpart of the same concept in English. Let's 
+consider some of the special ways in which the ON article is used. 
+To begin with, the ON article is used considerably less, overall, than the 
+English one. In poetry, it's not used at all. As a rule of thumb, if you are in 
+doubt whether to use the article when writing ON, do not use it. When 
+translating ON to good English, you must thus be ready to add the article into 
+your translation where you see it fit. 
+Our definite article is a complex concept to define. Generally speaking, it is 
+used to make a reference to something familiar to the reader, either from a 
+previous sentence within the text, or from outside sources (i.e. the author 
+presumes the reader to know it, e.g. "the Santa Claus"). An English sequence 
+of introduction and reference might go like this: 
+1. There is an earl in Norway. (introduction)
+2. The earl is rich. (reference) 
+If it were: 
+2. An earl is rich. (another introduction)
+
+
+=== PAGE 63 ===
+
+The reader would be confused, because this would indicate another, wholly 
+unrelated, earl, leaving the sentences irrelevant to each other. Continuing the 
+text: 
+3. The earl is called Ragnar.
+Now we have another way to refer to the earl, apart from 'he' of course, which 
+would normally have been used in the third sentence; but we'll leave personal 
+pronouns out of this, for convenience. At this point, the language will find it 
+preferable to refer to this earl by his name, instead of "the earl"; compare how 
+we might continue: 
+4. One day, the earl goes hunting.
+5. One day, Ragnar goes hunting.
+Having introduced the earl's name, we have reached a "third level" of 
+reference. We might identify three such levels of "familiarity": 
+1. unknown (indefinite article used) 
+2. introduced (definite article used) 
+3. known by name (name used) 
+This is the English pattern. Applying this system to ON, we find slight 
+differences; consider a similar sequence of introduction in ON: 
+1. "Í Noregi býr jarl." (introduction) 
+2. "Jarlinn heitir Eiríkr." (reference) 
+Now we have reached the third level of familiarity with Eric, since we know 
+him by name; from now on, we can refer to him by name: 
+3. "Gengr nú Eiríkr í skóg."  
+However, unlike English, we can also refer to him by his "title", but without 
+an article: 
+3. "Gengr nú jarl í skóg." 
+This is very common in ON texts; it should be translated into English with an 
+article. By "title" in this context, anything relatively specific is meant. "Maðr" 
+will rarely be used in this way, but anything more specific, such as "sveinn" 
+(young man) or "karl" (older man) will commonly be used for close reference, 
+instead of names. 
+1.3 Word Order 
+We have hitherto stated, loosely, that Old Norse has a "free" word order. This 
+is true, as opposed to English, of the relation between the "noun phrases" (= 
+the noun with all attached to it, such as adjectives and prepositions, or = a 
+pronoun). In English, the order of the noun phrases is a strong indication of 
+their case, i.e. which of them is the subject and which the object (direct or 
+indirect). ON leaves the word order free there, indicating the case by changing 
+the endings of the noun phrase's components. 
+
+
+=== PAGE 64 ===
+
+'Syntax' is the study of word order. There is more to the syntax of a language 
+than the relation between its noun phrases ("noun syntax"); going from noun 
+syntax to verb syntax, we find that ON has a rigid set of word order rules, in 
+the relation between the verb phrase and the rest of the sentence's components. 
+We need to start dealing with this phenomenon's immediate implications. 
+(Technically, the noun phrase containing the object is subordinate, or 
+contained within, the verb phrase; for our practical purposes, that is 
+irrelevant.) 
+Consider these sentences: 
+"The wolf walks out of the forest."  
+"Then the wolf walks out of the forest." 
+The order of the sentences is identical; we merely add "then" in the beginning 
+of the latter. But this won't work in ON: 
+"Úlfrinn gengr ór skóginum." 
+"Nú gengr úlfrinn ór skóginum." 
+Not *"Nú úlfrinn gengr ór skóginum." 
+As we add the adverb "nú", the verb shifts in its relation to the other words, 
+and "insists" on maintaining its position as the second component of the 
+sentence, following the adverbial phrase ("nú"). 
+In that sentence, the verb phrase is composed of only one word, "gengr". 
+Consider a sentence with a more complicated verb phrase: 
+"Nú vill Úlfrinn ganga ór skóginum." 
+The verb phrase here is "vill ganga"; "ganga" is a verb infinitive, while "vill" 
+is conjugated, and therefore called the "finite" verb. 
+But you notice that in this sentence, only "vill" stubbornly maintains its 
+position, while "ganga" maintains its relation to the noun phrases; thus, the 
+verb phrase has been split up. 
+A practical rule may be deduced, which, if well understood and thoughtfully 
+applied, will result in correct word order in most cases: 
+The finite verb within an Old Norse sentence must always be the first or the 
+second component, while the rest of the verb phrase retains its relation to the 
+noun phrases even if that involves splitting it away from the finite verb. 
+This is admittedly complicated; but a student who keeps this in mind while 
+reading ON texts, should get a feel for this. 
+This phenomenon is called "Verb-Second", or "V/2"; all Germanic languages 
+except for English remain V/2 languages today, more or less. The origin and 
+inner cause of the V/2 phenomenon is not all too well understood by linguists, 
+though their knowledge of its function will suffice for our practical purposes. 
+The V/2 characteristics has different manifestations within the Germanic 
+family, however, so speakers of German or even modern Scandinavian 
+languages should not always trust ON to have the same rules of verb syntax as 
+their native languages do. 
+An important fact in the V/2 procedure is that conjunctions are not members 
+of the sentences which follow them; consider these examples: 
+"Menninir vilja flýja." 
+"Svá vilja menninir flýja." 
+
+
+=== PAGE 65 ===
+
+"Því at menninir vilja flýja." 
+"Svá" is an adverbial phrase, while "því at" is a conjunctive phrase. As can be 
+seen by the finite verb's position in the third sentence, "því at" has no effect on 
+its position; sentence-wise, the third sentence is identical to the first, but with 
+a conjunction tacked in front (which doesn't count into the sentence). 
+It is therefore important to note whether such "structural words" (like "þá" and 
+"ok", etc) are conjunctions or adverbs; note that "ok", for instance, may either 
+be an adverb (when it means 'also') or a conjunction (when it means 'and'): 
+"-ok þú ert maðr feigr, jarl." (conjunction) 
+ 
+"-and you are a doomed man, earl." 
+"Þú ert ok maðr feigr, jarl." (adverb)  
+ 
+"You're also a doomed man, earl." 
+Also note that in a string of sentences which "share" some components, i.e. 
+when the latter sentences omit one or more of their noun or adverbial phrases 
+when it is clear that they are the same as in the first sentence, V/2 applies as in 
+the first sentence, which may be confusing. Best displayed in an example: 
+"Þá ferr hann, ok [þá] vegr hann marga menn." 
+"Þá" is being omitted in the second sentence (after the "ok" conjunction), but 
+it still affects the word order as if it were there. In the same way: 
+"Ef maðrinn sér úlfa, [þá] flýr hann." 
+Often the "þá" will be omitted from "if-then" sentences, even while the V/2 
+effects of it remain. 
+Direct speech is, for syntactic purposes, an adverbial phrase within the "frame 
+sentence". A whole paragraph of direct speech can be the adverbial phrase of 
+a "he says"-type sentence: 
+"Maðr heitir Haukr. "Eigi em ek norskr 
+maðr,"<speech>", segir Haukr. 
+It cannot be 
+ * "...", Haukr segir. 
+since that would violate the V/2 rules just as much as 
+* "Nú Haukr segir." 
+1.4 Reference 
+Strong masculine nouns: 
+ 
+(without article) 
+ 
+sg 
+pl 
+nom haukr haukar 
+acc hauk hauka 
+dat hauki haukum
+(with article) 
+
+
+=== PAGE 66 ===
+
+ 
+sg 
+pl 
+nom haukrinn haukarnir
+acc haukinn haukana 
+dat haukinum haukunum
+Stems that end in "consonant + 'n', 'r', 'l', 's'" don't add -r in nom sg: 
+ 
+sg 
+pl 
+nom jarl jarlar 
+acc jarl jarla 
+dat jarli jörlum
+Note u-umlaut: 'a' becomes 'ö' before endings with 'u' (such as the -um in dat 
+pl) 
+Irregular: 
+ 
+maðr (man) 
+ 
+(without article) 
+ 
+sg 
+pl 
+nom maðr menn 
+acc mann menn 
+dat manni mönnum 
+(with article) 
+ 
+sg 
+pl 
+nom maðrinn 
+menninir 
+acc manninn mennina 
+dat manninum mönnunum
+Personal pronouns: 
+ 
+
+
+=== PAGE 67 ===
+
+1st person: 
+ 
+sg dual pl
+nom ek vit 
+vér
+acc mik okkr oss
+dat mér okkr oss
+2nd person: 
+ 
+sg dual pl
+nom þú þit 
+þér
+acc þik ykkr yðr
+dat þér ykkr yðr
+3rd person : 
+ 
+(masc) 
+ 
+sg 
+pl 
+nom hann þeir 
+acc hann þá 
+dat hánum þeim
+(neut) 
+ 
+sg
+pl 
+nom þat þau 
+acc þat þau 
+dat því þeim
+Adjectives, indefinite (strong) masculine: 
+ 
+sg 
+pl 
+
+
+=== PAGE 68 ===
+
+nom ragr 
+ragir 
+acc ragan raga 
+dat rögum rögum
+Verbs: 
+ 
+hafa, hef (have) 
+ 
+infinitive: haf-a 
+imperative: haf! (sg) hafið! (pl) 
+ 
+sg 
+pl 
+1p hef-i höfum
+2p hefir hafið 
+3p hefir hafa 
+kenna, kenni (know) 
+ 
+inf: kenn-a 
+imp: kenn! (sg) kennið! (pl) 
+ 
+sg 
+pl 
+1p kenni kennum
+2p kennir kennið 
+3p kennir kenna 
+kalla, kalla (call, shout) 
+ 
+inf: kall-a 
+imp: kall-a! (sg) kall-ið! (pl) 
+ 
+sg 
+pl 
+1p kalla köllum
+2p kallar kallið 
+3p kallar kalla 
+
+
+=== PAGE 69 ===
+
+In some verbs with long vowels (acute, diphthong, 'æ' or 'oe'), whose stems 
+end in 'n' or 's', assimilation of the -r ending occurs: 
+blása, blæs (blow) 
+ 
+inf: blás-a 
+imp: blás! 
+ 
+sg 
+pl 
+1p blæs blásum
+2p blæss blásið 
+3p blæss blása 
+skína, skín (shine) 
+ 
+inf: skín-a 
+imp: skín! 
+ 
+sg 
+pl 
+1p skín skínum
+2p skínn skínið 
+3p skínn skína 
+Irregular verbs: 
+vera (be)
+ 
+inf: ver-a
+imp: ver!
+ sg
+pl 
+1p em erum
+2p ert eruð
+3p er eru 
+
+
+=== PAGE 70 ===
+
+vilja (want) 
+ 
+inf: vil-j-a 
+imp: (vil!) (N/A) 
+ sg
+pl 
+1p vil viljum
+2p vilt vilið 
+3p vill vilja 
+sjá (see) 
+ 
+inf: sjá 
+imp: sjá! 
+ sg
+pl 
+1p sé sjá-m
+2p sér sé-ð 
+3p sér sjá 
+2. Vocabulary 
+This vocabulary section will introduce very few new words (specially noted), 
+but rather only list all the words introduced so far (in lessons 1-5). 
+2.1 Nouns 
+(No new) 
+<td<norwegian< td="" style="color: rgb(0, 0, 0); font-family: 'Times New Roman'; 
+font-size: medium; font-style: normal; font-variant: normal; font-weight: normal; letter-
+spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 
+0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -
+webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "></td<norwegian<> 
+álfr 
+elf 
+bátr 
+boat 
+baugr 
+ring 
+
+
+=== PAGE 71 ===
+
+brandr 
+sword 
+brunnr 
+well 
+dvergr 
+dwarf 
+draugr 
+ghost 
+eldr 
+fire 
+fiskr 
+fish 
+fors 
+waterfall 
+garðr 
+palisade/stone wall, city, 
+ 
+city-state, garden, yard 
+geirr 
+spear 
+grautr 
+porridge 
+hattr 
+hat 
+haugr 
+mound, dung, pile, grave 
+haukr 
+hawk 
+heimr 
+home, homeland, world 
+hestr 
+horse 
+hjálmr 
+helmet 
+hólmr 
+isle, small island 
+hrafn 
+raven 
+jarl 
+earl 
+
+
+=== PAGE 72 ===
+
+konungr 
+king 
+knífr 
+knife 
+maðr 
+person, man, human being 
+matr 
+food (always in singular) 
+oddr 
+point, spike 
+ormr 
+worm, serpent 
+ostr 
+cheese 
+sandr 
+sand 
+skógr 
+forest 
+úlfr 
+wolf 
+vágr 
+small bay, cove, creek 
+vangr 
+field (not farming), meadow, 
+ 
+clear patch of ground 
+vargr 
+wolf 
+víkingr 
+viking 
+vindr 
+wind 
+þjófr 
+thief 
+Íslendingr 
+Icelander 
+Norðmaðr 
+ 
+Einarr 
+ 
+
+
+=== PAGE 73 ===
+
+Eiríkr 
+ 
+Erlingr 
+ 
+Fjalarr (dwarf-name) 
+ 
+Gandálfr (dwarf-
+name) 
+ 
+Haukr 
+ 
+Hjálmarr 
+ 
+Kormákr 
+ 
+Oddr 
+ 
+Óláfr 
+ 
+Ragnarr 
+ 
+Sigurðr 
+ 
+Svartr 
+ 
+Tyrfingr 
+ 
+Úlfarr 
+ 
+ 
+ 
+Austrvegr 
+"Eastway" (Russia) 
+Noregr 
+Norway 
+Geirshólmr 
+"Geir's Isle" (made up name) 
+Geirshaugr 
+"Geir's Grave" (made up name) 
+Heiðvangr 
+"Clear Field" (made up name) 
+
+
+=== PAGE 74 ===
+
+Hólmgarðr 
+"Island City", a Nordic (Swedish) colony in 
+ 
+Russia, now called Novgorod ("gorod" = 
+"garðr") 
+Skógarfors 
+"Forest's Falls" 
+Úlfarsheimr 
+"Úlfar's Home" (made up name) 
+2.2 Pronouns 
+(No new) 
+See the reference in 1.3 for personal pronouns. 
+allir (pl) all 
+báðir (pl) both 
+er 
+that, which, who, whom
+fáir 
+(pl) few 
+hvat? 
+what? 
+margir 
+(pl) many 
+sumir 
+(pl) some 
+2.3 Adjectives 
+(No new) 
+bjartr 
+bright, fair (of light complexion and/or blonde hair)
+breiðr broad 
+danskr Danish 
+dauðr 
+dead 
+djúpr 
+deep 
+
+
+=== PAGE 75 ===
+
+góðr 
+good 
+glaðr 
+happy, glad 
+gylltr 
+golden, gilted 
+feigr 
+doomed to die, "dead already", fey 
+heiðr 
+clear 
+hræddr afraid 
+illr 
+evil 
+íslenzkr Icelandic 
+langr 
+long 
+norskr Norwegian 
+ragr 
+cowardly 
+reiðr 
+angry 
+ríkr 
+rich 
+stórr 
+big (note that the first r is part of the stem) 
+spakr 
+wise 
+sterkr 
+strong 
+svangr hungry 
+ungr 
+young 
+víðr 
+wide, extensive 
+2.4 Verbs 
+New: 
+
+
+=== PAGE 76 ===
+
+elda, elda cook
+á 
+owns (only form of this verb yet presented)
+bíða, bíð 
+wait 
+bjóða, býð 
+offer; command 
+blása, blæs 
+blow 
+brenna, brennr be burning 
+búa, bý 
+live in, inhabit 
+deyja, dey 
+die 
+elta, elti 
+follow, chase 
+eta, et 
+eat 
+falla, fell 
+fall 
+fara, fer 
+go, leave 
+finna, finn 
+find 
+flýja, flý 
+flee, run away 
+foera, foeri 
+bring 
+ganga, geng 
+walk 
+gefa, gef 
+give 
+hafa, hefi 
+have; hold; wear 
+hata, hata 
+hate 
+heita, heiti 
+be called 
+
+
+=== PAGE 77 ===
+
+heyra, heyri 
+hear 
+hlæja, hlæ 
+laugh 
+kenna, kenni 
+recognize, know (a person, place, or object)
+koma, køm 
+come 
+lifa, lifi 
+live 
+mæla, mæli 
+talk 
+sjá, sé 
+see 
+vega, veg 
+slay 
+segja, segi 
+says 
+sigla, sigli 
+sail 
+sjá (irregular) see 
+skína, skín 
+shine 
+spyrja, spyr 
+ask 
+standa, stend 
+stand 
+svara, svara 
+answer 
+sýna, sýni 
+show 
+taka, tek 
+take 
+vera (irregular) be 
+veiða, veiði 
+hunt, fish 
+vilja (irregular) want 
+
+
+=== PAGE 78 ===
+
+2.5 Adverbs 
+brátt soon 
+eigi 
+not 
+heim homewards 
+hví? 
+why? 
+hér 
+here 
+meðan while 
+mjök very, very much, greatly 
+nú 
+now 
+oft 
+often 
+ok 
+also 
+sem 
+as, like 
+svá 
+so, such, then (immediately following)
+vel 
+well 
+þá 
+then 
+þar 
+there 
+2.6 Prepositions 
+í + acc 
+into 
+í + dat 
+in(side) 
+á + acc 
+onto 
+
+
+=== PAGE 79 ===
+
+á + dat 
+on (top of) 
+ór + dat 
+out of 
+með + dat with, by, using; with, accompanying
+2.7 Conjunctions 
+ef 
+if 
+en 
+but 
+er 
+when 
+ok 
+and 
+þar er where (relative)
+því at because, for 
+2.8 Phrases 
+"gefa grið" grant/give mercy, spare, pardon (from death)
+3. Exercises 
+3.1 Translate the text into English 
+Í Noregi eru margir vágar, sumir djúpir, sumir langir. Norskir víkingar sigla í 
+vágana, í löngum bátum. Í vágunum eru ok oft hólmar. Í hólmunum vega 
+víkingarnir menn. Þar eru ok haugar, þar er illir draugar búa. Draugarnir eru 
+oft reiðir, ok hata alla menn. 
+Í Noregi eru ok skógar víðir, vangar heiðir ok forsar breiðir. Í skógunum búa 
+góðir álfar, en ok illir vargar. Menn er ganga í skóga eru oft hræddir, því at 
+vargarnir vilja vega þá ok eta. Ef vargar finna menn í skógunum, eru menninir 
+feigir. Í vöngunum eru hestar, er eta þar ok lifa vel. Í forsunum er falla eru 
+margir fiskar, er menn veiða. 
+Dvergar eru þar ok, er hafa gyllta bauga. Dvergarnir vilja eigi gefa mönnum 
+baugana. 
+
+
+=== PAGE 80 ===
+
+Þar í Noregi búa margir menn. Sumir eru jarlar mjök ríkir, sumir víkingar 
+sterkir. Fáir eru konungar, fáir eru illir ok fáir ragir. Sumir menn eru spakir 
+mjök, ok mæla vel. Spakir kenna marga heima ok marga menn. 
+Fiskr er norskum mönnum ("for Norwegian men") góðr matr. Þeir fara í 
+vágana ok forsana ok veiða fisk. Svá elda þeir fiskinn í eldi, er brennr. Meðan 
+þeir elda hann, mæla þeir ok hlæja. Ostr er ok góðr matr, ok eta menninir ok 
+ost með fiskinum. Góðir menn gefa svöngum ost ok fisk at eta. Svangir eta 
+allan mat, er góðir gefa þeim. 
+Ragnarr er jarl spakr. Hann kennir Austrveg, heim mjök stóran. Í Austrvegi 
+eru margir garðar, víðir skógar ok vargar mjök illir. Garðr í Austrvegi heitir 
+Hólmgarðr. Fáir garðar eru svá stórir, sem Hólmgarðr er. Í Noregi eru eigi 
+garðar svá stórir. Í Hólmgarð sigla víkingar er vilja vera ríkir. Því at í 
+Hólmgarði eru margir ríkir. 
+ 
+ 
+ 
+Old Norse for Beginners - Lesson Seven 
+by Óskar Guðlaugsson and Haukur Þorgeirsson 
+1. Supplement 
+1. Alternative forms 
+2. Grammar 
+1. Genitive Case: Possession 
+2. Genitive Case: Forms 
+3. Article Usage with the Genitive 
+4. Reflexive Pronouns 
+5. 3rd Person Possessives 
+3. Vocabulary 
+1. Nouns 
+2. Pronouns 
+3. Adjectives 
+4. Verbs 
+5. Adverbs 
+6. Prepositions 
+7. Conjunctions 
+8. Phrases 
+4. Exercises 
+1. Translate the phrases into English 
+2. Translate the phrases into Old Norse 
+3. Translate the text into English 
+4. Translate the text into Old Norse 
+
+
+=== PAGE 81 ===
+
+0. Supplement 
+0.1 Alternative forms 
+We have stated that the language taught in this course is "standardised" 13th 
+century Icelandic. People using other material to supplement this course (or 
+using this course to supplement other material) often find that their books do 
+not always use the same spelling or form of every word. It is perhaps high 
+time that some of those variants be discussed. 
+To begin with it is difficult to "pin down" a language as it was at any 
+particular time and location. We say that we're teaching the Icelandic 
+language 13th century but even that is not all too precise - Icelandic 
+underwent many changes in the 13th century. Some of our forms may reflect 
+early 13th century language while others mirror that of the late part of the 
+century. Perfect consistency is very hard to achieve (and is certainly not in 
+evidence in any manuscript - even the same scribe would often spell the same 
+word in more than one way) but we prefer to have some kind of standard. 
+Thus our choices are arbitrary here and there and may not exactly reflect that 
+of any other study material. Don't panic. 
+That said the interested student may find a discussion of variant forms to be of 
+some value. The variations can be grouped into two categories. 
+1. Variations in space 
+We have already mentioned that the West Norse language forms are different 
+from those of East Norse. But how different are they? This question is best 
+answered by providing examples. One of the better known East Norse texts is 
+"The Legendary History of Gutland". It starts with those words: 
+Gutland hitti fyrsti maþr þan sum þieluar hit. þa war gutland so eluist at þet 
+daghum sanc Oc natum war uppj. En þann maþr quam fyrsti eldi a land Oc 
+siþan sanc þet aldri. 
+Translated word for word into English this produces: "Gutland found first {a 
+man} that who Thieluar {was called}. Then was Gautland so bewitched that it 
+{during days} sank and {during nights} was up. But that man put first fire on 
+[the] land and since sank it never." 
+Note that the spelling is that of the original manuscript. No normalisation has 
+been undertaken. This is in line with the usual trend that Old Icelandic texts 
+are normalised but other Old Norse texts are not - or to a lesser extent. This 
+makes comparison with our "standardised" language more difficult but we 
+will attempt it nevertheless. So here we provide those lines as they would look 
+in our Norse Course spelling: 
+Gautland hitti fyrst maðr sá sem Þjalarr hét. Þá var Gautland svá *elvíst at 
+þat dögum sökk ok náttum var uppi. En sá maðr kvám fyrst eldi á land ok 
+síðan sökk þat aldri. 
+
+
+=== PAGE 82 ===
+
+Most of the differences are insignificant differences between manuscript 
+spelling and normalised spelling - but some of them are quite interesting. Let's 
+take a better look at those: 
+Old Gutnish Old Icelandic
+þan 
+sá 
+daghum 
+dögum 
+sanc 
+sökk 
+The word "þann" is actually not as far from "sá" as it might seem. The 
+declension paradigm of "sá" is like this: 
+nom sá 
+acc þann
+dat þeim
+gen þess
+In essence, what has happened in Old Gutnish is that the accusative form has 
+been generalised to include the nominative. As a side note it might be 
+mentioned that the exact same thing happened in English. This pronoun is the 
+origin of the English definite article, 'the'. The Old English paradigm was like 
+this: 
+nom se 
+acc þone
+dat þám
+gen þæs 
+The "irregular" s-form was thrown out in favor of the þ-forms to (eventually) 
+yield "the". 
+The next word on our list is "daghum", as opposed to "dögum". First we note 
+that the 'gh' is a common East Norse way of spelling the "soft" g (see 
+pronunciation guide). It also sometimes occurs in Icelandic manuscripts. In 
+any case the difference between 'gh' and 'g' is merely one of spelling. The 
+other difference is much more interesting. Instead of the umlauted ö-vowel the 
+Gutnish text has the un-umlauted 'a'. This reflects a general tendency. The u-
+
+
+=== PAGE 83 ===
+
+umlaut effect, while remaining in full force in Icelandic up to the present day, 
+was much less prevalent in other Old Norse dialects - and it is completely 
+lacking from the dialect of Guta saga. 
+The third difference is no less interesting. Instead of the Old Icelandic "sökk" 
+we have the much more English form "sanc". Again we have not an exception 
+but a general tendency. The assimilation of 'nk' to 'kk' happened to a lesser 
+extent in East Norse than in West Norse. In this case English and Old Gutnish 
+maintain the more archaic forms. Again the u-umlaut has not taken place in 
+the East Norse form. 
+There are many small, differences between East Norse and West Norse. One 
+that might interest the English reader is that West Norse dropped the 'v' in 'vr' 
+clusters early on but East Norse has preserved it to the present day. Where 
+West Norse has "reiðr" East Norse had "vréðr" and Modern Danish has "vred". 
+English has preserved this consonant in its spelling but dropped it in the 
+pronunciation. The English cognate is "wrath". 
+Now let's turn our attention to Old Norwegian. We already know that Old 
+Norwegian and Old Icelandic are collectively known as West Norse. We 
+might wonder what the key differences between the two dialects are. For the 
+student of Old Norse the most visible difference is that Old Norwegian texts 
+are usually published in their manuscript spelling - unlike Old Icelandic texts 
+which are usually normalised. For the linguist the difference is mainly that 
+Old Icelandic is in some instances slightly more conservative than Old 
+Norwegian. 
+One example where Old Icelandic is more conservative is in keeping the 'h' in 
+the consonant clusters 'hr' and 'hl'. Those were dropped in Old Norwegian 
+before the writing age. One stanza from the Norwegian Rune Poem illustrates 
+this. 
+Reið kveða rossum vesta,
+Reginn sló sverðit besta.
+(A wagon is said to be worst for horses,
+Reginn forged the best sword.) 
+You notice the alliterative triad reið-rossum-Reginn. This would be destroyed 
+in "translating" into Icelandic since rossum would become hrossum. 
+2. Variations in time 
+No living language is static and Old Icelandic underwent many changes from 
+1200 to 1400. Major changes include the merging of the phonemes ö and ø 
+and æ and oe respectively. Both happened in the 13th century. 
+ö + ø -> ö 
+
+
+=== PAGE 84 ===
+
+æ + oe -> æ
+Other noteworthy changes include the "softening" of final 't' and 'k' in several 
+common words. Thus: 
+ok -> og 
+ek -> eg 
+þik -> þig 
+þat -> það 
+hvat -> hvað 
+vit -> við 
+-it -> -ið (neuter article)
+The absence of ø and oe and the "soft" consonants in the common words are 
+two features that can easily be used to differentiate between Old Icelandic and 
+Modern Icelandic spelling at a glance 
+The forms of many individual words changed with time according to arbitrary 
+rules; we have had to decide in each case which form to use as our standard 
+one. Our choices are not entirely consistant. In cases where this course gives 
+another form than other grammar references you can rest reasonably assured 
+that both forms are correct - though one may be older than the other. A few 
+common variants are listed below. 
+it - þit 
+ér - þér 
+hon - hón - hún
+hánum - honum
+ek hef - ek hefi
+1. Grammar 
+1.1 Genitive Case: Possession 
+
+
+=== PAGE 85 ===
+
+The fourth and last remaining case in Old Norse declension is called 'genitive'. 
+English has the following relations: 
+John owns an expensive computer. 
+John's computer is expensive. 
+Bill steals John's expensive computer.
+The orthographic -'s ending here is one part of the English genitive. It is the 
+characteristic role of the genitive to mark the owner of a following item. 
+Words marked with the -'s genitive stand in the same position as normal 
+adjectives, as can be seen above. 
+In ON, the strong masculine nouns we have encountered so far are also 
+marked with -s in the genitive singular; thus, the full singular declension of a 
+word like 'hestr' is: 
+nom hestr
+acc hest 
+dat hesti
+gen hests 
+In the plural, the ending is -a for all masculine nouns, and most other nouns as 
+well: 
+nom hestar 
+acc hesta 
+dat hestum
+gen hesta 
+Again, the article must be declined with the noun. Now that we have all the 
+cases, let's see the full masculine declension of the suffixed article: 
+ 
+sg 
+pl 
+nom inn inir 
+acc inn ina 
+
+
+=== PAGE 86 ===
+
+dat inum inum
+gen ins 
+anna 
+And combined with a noun: 
+ 
+sg 
+pl 
+nom hestrinn hestarnir
+acc hestinn hestana 
+dat hestinum hestunum
+gen hestsins hestanna 
+There! Now you have the full declension of the normal strong masculine noun. 
+We'll look at the full declension of our only irregular noun to date as well. 
+ 
+sg 
+pl 
+nom maðr menn 
+acc mann menn 
+dat manni mönnum
+gen manns manna 
+1.2 Genitive Case: Forms 
+Section 1.1 already has the forms of most strong masculine nouns. Here is the 
+full declension of most of the personal pronouns encountered so far: 
+ 
+'I' 'you'
+'he' 
+'it' 'we two' 'we' 'you two' 'you'
+nom ek þú 
+hann þat vit 
+vér þit 
+þér 
+acc mik þik hann þat okkr 
+oss ykkr 
+yðr 
+dat mér þér hánum því okkr 
+oss ykkr 
+yðr 
+gen mín þín hans 
+þess okkar 
+vár ykkar 
+yðvar
+
+
+=== PAGE 87 ===
+
+ 
+'they' (masc) 'they' (neut) 'they' (fem)
+nom þeir 
+þau 
+þær 
+acc þá 
+þau 
+þær 
+dat þeim 
+þeim 
+þeim 
+gen þeira 
+þeira 
+þeira 
+The personal pronouns all have a special form for the genitive, often a very 
+distinctive one, so extra attention must be paid here. Note that the 3rd person 
+plural pronouns all have the same dative and genitive forms. The only 
+pronoun not presented in this table is 'hon' (she), since we won't be using it 
+just yet. The full declension of adjectives in masculine form: 
+sg 
+pl 
+nom reiðr 
+reiðir 
+acc reiðan reiða 
+dat reiðum reiðum
+gen reiðs 
+reiðra 
+Note especially the plural genitive ending: -ra. To students' relief, the plural 
+dative and genitive forms are the same for all genders, so make sure you learn 
+them well. 
+1.3 Article Usage with the Genitive 
+In English "titles", such as: 
+The king of Norway.
+The lord of men. 
+The sound of battle.
+The keel of the ship.
+There, the titled entity always has an article attached to it. However, if we change the 
+titles to a different type of genitive, the -s marked one, the article disappears: 
+
+
+=== PAGE 88 ===
+
+Norway's king.
+Men's lord. 
+Battle's sound.
+The ship's keel. 
+But with titles, it is more customary to use the prepositional genitive (with "of" and 
+article). In Old Norse however, the genitive is only marked with an inflection, where the 
+same rule applies; i.e. no article should be attached to the "titled entity": 
+Konungr Noregs. 
+Drottinn mannanna.
+But if this were to be paraphrased into a title with a preposition, we would have an 
+article just as in English: 
+Konungrinn í Noregi.
+It is merely that such usage is not the norm in ON, unlike in English. 
+1.4 Reflexive Pronouns 
+When the object of a sentence is the same as its subject the reflexive pronouns come 
+into play. In English it works like this: 
+I see myself. 
+You see yourself. 
+He sees himself. 
+We see ourselves. 
+You see yourselves. 
+They see themselves.
+Old Norse, however, is content with letting its first and second person personal 
+pronouns perform this duty. 
+Ek sé mik. 
+Þú sér þik. 
+
+
+=== PAGE 89 ===
+
+Vit sjám okkr.
+Þit séð ykkr. 
+Vér sjám oss.
+Þér séð yðr. 
+But when it comes to the third person it has a special pronoun. 
+Hann sér sik.
+Hon sér sik. 
+Þeir sjá sik. 
+Þær sjá sik. 
+This 'third person reflexive pronoun' has the following declension: 
+'himself/herself/itself/themselves' 
+acc sik
+dat sér
+gen sín
+It observably declines just as 'ek' and 'þú' do. This pronoun has exact equivalents in 
+many other Indo-European languages that you may be familiar with. German has "sich". 
+French, Spanish and Latin have "se". 
+Let's have more examples of usage: 
+Hann kallar sik konung. He calls himself a king. 
+Þeir gefa sér góðan mat. They give themselves [some] good food. 
+And other reflexive usage: 
+Ek kalla mik Eirík. 
+I call myself Eric. 
+Vit teljum okkr Norðmenn. We consider ourselves Norwegians. 
+Ek foeri mik brott. 
+I move myself away. ('foera' = bring, move)
+Hví foerir þú þik til mín? Why do you move yourself over to me? 
+
+
+=== PAGE 90 ===
+
+('til' + gen = [over] to) 
+2. Vocabulary 
+This lesson is light on vocabulary and exercises - for historical reasons relating to the 
+composition of the course. 
+2.1 Nouns 
+þegn thane, freeman, subject of a king, "citizen"
+sporðr tail of a fish or serpent 
+2.2 Pronouns 
+sik himself, herself, itself
+2.3 Adjectives 
+saðr / saddr sated, having had one's full
+vándr 
+evil, wicked 
+fastr 
+fast, firm, stuck 
+3. Exercises 
+3.1 Translate the phrases into English 
+a. Hvárt etr ormrinn sjálfan sik? 
+b. Menn konungs eru þegnar hans. 
+c. Eigi er sporðr fisks matr góðr. 
+d. Ragnarr vill vega orm; hann hefir geirinn með sér. 
+e. Ragnar vegr orminn en oddr geirs hans stendr fastr í honum. 
+3.2 Translate the phrases into Old Norse 
+a. The helm of the dwarf is gilded. 
+b. The earl's hawk sees itself. 
+c. People do not eat the tail of the serpent. 
+
+
+=== PAGE 91 ===
+
+d. Ragnarr's spear is broad. 
+e. The point of Ragnarr's spear is big. 
+Sentences like the last one with "nested" genitives are actually not idiomatic in Old 
+Norse. 
+ 
+ 
+Old Norse for Beginners - Lesson Eight 
+by Óskar Guðlaugsson and Haukur Þorgeirsson 
+1. Grammar 
+1. Present-Preterite Verbs 
+2. Assimilative Nouns and Adjectives 
+3. Bisyllabic Stems 
+2. Vocabulary 
+1. Nouns 
+2. Pronouns 
+3. Adjectives 
+4. Verbs 
+5. Adverbs 
+6. Prepositions 
+7. Conjunctions 
+8. Phrases 
+3. Exercises 
+1. Translate the phrases into English 
+2. Translate the phrases into Old Norse 
+3. Translate the text into English 
+4. Translate the text into Old Norse 
+1. Grammar 
+1.1 Present-Preterite Verbs 
+ON has a small group of verbs that conjugate in a special way. English has the 
+same phenomenon, but less noticeable. The verbs are called "present-
+preterite", because their conjugation for the present is imitative of the preterite 
+(= past) conjugation. This has to do with a development or shift that is 
+believed to have happened early on in the ancestral Proto-Germanic language. 
+To put this all into context we will state that the Germanic languages have 
+three kinds of verbs. They are all still represented in English. 
+
+
+=== PAGE 92 ===
+
+Strong verbs 
+1. Preterite formed with ablaut (certain type of vowel change) 
+2. Certain endings in the present (in English an 's' in third person) 
+Weak verbs 
+1. Preterite formed with a dental suffix (in English 'd' or 't') 
+2. Certain endings in the present (in English an 's' in third person) 
+Present-preterite verbs 
+1. Preterite formed like the preterite of a weak verb 
+2. Present formed like the preterite of a strong verb 
+We'll demonstrate by comparing a present-preterite verb ('can') with your 
+garden-variety strong ('come') and weak ('love') verbs. 
+I 
+come came
+you come came
+he comes came
+I 
+love loved
+you love loved
+he loves loved
+I 
+can could
+you can could
+he can could
+Comparing the actual conjucations with the blurbs above we see that 'can' 
+does not add an 's' in the third person of its singular present tense; just like the 
+other verbs don't have an 's' in their preterite. We also see that it forms its 
+preterite with a 'd'; just like the weak verb. The Old Norse cognate of 'can', 
+'kunna', is also present-preterite. 
+While the English difference in conjugation is minor, ON present-preterites 
+are more divergent. We have learnt two irregular verbs whose conjugation is 
+somewhat similar to this class of verbs, 'vera' and 'vilja'; they are not 
+
+
+=== PAGE 93 ===
+
+historically present-preterites but it may be practical to speak of them in the 
+same context: 
+ver
+a 
+ 
+Sg.
+Pl. 
+1p 
+em erum
+2p 
+ert eruð
+3p 
+er eru 
+vilj
+a 
+ 
+Sg. 
+Pl. 
+1p 
+vil viljum
+2p 
+vilt vilið 
+3p 
+vill vilja 
+The present-preterite verbs are some of the most useful and common in the 
+language so you should be careful to learn their conjugation by heart. 
+The first verb we'll look at is the auxiliary 'skulu' which is the cognate of 
+English 'shall' and similar in meaning. 
+skul
+u 
+ 
+Sg.
+Pl. 
+1p 
+skal skulum
+2p 
+skalt skuluð 
+3p 
+skal skulu 
+The change of vowels from 'u' to 'a' is not our everyday umlaut but something 
+even more arcane called 'ablaut'. We'll look at that again later. 
+
+
+=== PAGE 94 ===
+
+Our next auxiliary verb does not have an English cognate but it is most similar 
+in meaning to English 'will'. One of its primary uses is to indicate the future. 
+mun
+u 
+ 
+Sg. 
+Pl. 
+1p 
+mun munum
+2p 
+munt munuð
+3p 
+mun munu 
+Note the anomalous infinitives, with ending -u instead of -a. The verbs 'skulu' 
+and 'munu' are the only verbs in the language with this infinitive ending. 
+In the Völuspá we have a lot of 'munu' where the seeress is speaking of the 
+future. One example is "Baldr mun koma" which is easily translated as "Baldr 
+will come". 
+By now you may have noticed something characteristic about present-
+preterites; in the singular, the only endings are -t in the 2nd person. In the 
+plural, they have -uð and -u in the 2nd and 3rd persons. 
+Our next verb has the same ablaut as 'skulu' but now our normal infinitive is 
+back. 
+kunn
+a 
+ 
+Sg. 
+Pl. 
+1p 
+kann kunnum
+2p 
+kannt kunnuð
+3p 
+kann kunnu 
+The meaning of 'kunna' is related to that of its cognate 'can' but there are some 
+differences. While English 'can' means to be able to do something either 
+through ability or circumstances, ON describes only ability. Also, English 
+'can' is always an auxiliary, while 'kunna' can be a main verb with a simple 
+direct object: 
+Ek kann þat. I know [how to do] it, I can do it
+One more verb for now, 'eiga' (own): 
+
+
+=== PAGE 95 ===
+
+eig
+a 
+ 
+Sg.
+Pl. 
+1p á eigum
+2p átt eiguð 
+3p á eigu 
+You should already be familiar with its 3p sg form, 'á', which has been used 
+already. The vowel change between 'á' and 'ei' is actually neither ablaut nor 
+umlaut but don't worry about it (it has to do with a phenomenon called 
+Verner's law). 
+The verbs 'skulu', 'munu', and 'kunna' from above are some of the most 
+common auxiliaries in the language, just as they are in English (substitute 
+English 'will' for 'munu'). Just as in English, no infinitive marker is used with 
+them when they are used as auxiliaries: 
+You will go. but not **You will to go 
+Þú munt koma. but not **Þú munt at koma
+1.2 Assimilative Nouns and Adjectives 
+It often happens in languages that a consonant assimilates to a neighbouring 
+consonant. We have already seen some examples of this in the etymological 
+ponderings: 
+*benkr -> bekkr (bench) (the 'n' has been assimilated to the 'k')
+*áhta -> átta (eight) (the 'h' has been assimilated to the 't') 
+One type of assimilation is important in declensions; their nominative -r has 
+been assimilated by the final consonant of the stem. This happens with three 
+consonants, 's', 'l' and 'n', and only when the vowel of the stem is long. Let's 
+look at some examples: 
+*ísr -> íss (ice) 
+*hólr -> hóll (hill) 
+
+
+=== PAGE 96 ===
+
+*steinr -> steinn (stone)
+The complete declension of those nouns is as follows: 
+Singular  
+ 
+ 
+nom 
+íss hóll steinn
+acc 
+ís hól stein 
+dat 
+ísi hóli steini
+gen 
+íss hóls steins 
+Plural
+ 
+ 
+ 
+nom ísar hólar steinar 
+acc 
+ísa 
+hóla 
+steina 
+dat 
+ísum hólum steinum
+gen 
+ísa 
+hóla 
+steina 
+Quite simply, the nominative -r is replaced by one of the other consonants. 
+Nothing else happens. 
+Then there are adjectives with the same feature, declining thus in masculine 
+indefinite: 
+háss 
+hoarse 
+háll 
+slippery
+groenn green 
+Sg. 
+nom háss 
+háll 
+groenn 
+acc hásan hálan groenan
+dat hásum hálum groenum
+
+
+=== PAGE 97 ===
+
+gen háss 
+háls 
+groens 
+Pl. 
+nom hásir hálir groenir 
+acc hása 
+hála 
+groena 
+dat hásum hálum groenum
+gen hássa hálla groenna
+Take special notice of the genitive plural, where the assimilation occurs. 
+Remember that the assimilation only occurs in words with long-vowel stems, 
+but not stems of short vowels: 
+gulr yellow 
+vanr accustomed
+Sg. 
+nom gulr 
+vanr 
+acc gulan vanan
+dat gulum vönum 
+gen guls 
+vans 
+Pl. 
+nom gulir vanir 
+acc gula 
+vana 
+dat gulum vönum 
+gen gulsa vanla 
+1.5 Bisyllabic Stems 
+
+
+=== PAGE 98 ===
+
+Some strong masculine nouns have a bisyllabic stem; observe their pattern of 
+conjugation: 
+hamarr hammer (stem: hamar)
+himinn sky (stem: himin) 
+ 
+sg 
+pl 
+nom ham-ar-r ham-r-ar 
+acc ham-ar ham-r-a 
+dat ham-r-i höm-r-um
+gen ham-ar-s ham-r-a 
+ 
+sg 
+pl 
+nom him-in-n him-n-ar 
+acc him-in him-n-a 
+dat him-n-i him-n-um
+gen him-in-s him-n-um
+First off, 'himinn' is assimilative. What is happening in these nouns is that 
+whenever there is an ending with a vowel in it, the vowel of the second stem 
+syllable is deleted: 
+(sg dat) hamar + i > *hamari > hamri
+Note that bisyllabic names, such as Ragnarr or Einarr, completely ignore this 
+rule and decline normally. 
+Some adjectives are bisyllabic; they commonly have assimilation: 
+gamall old (stem: gamal) 
+ 
+sg 
+pl 
+nom gam-al-l gam-l-ir 
+
+
+=== PAGE 99 ===
+
+acc gam-l-an gam-l-a 
+dat göm-l-um göm-l-um 
+gen gam-al-s gam-al-la
+2. Vocabulary 
+2.1 Nouns 
+áss 
+ace, god, one of the Æsir 
+íss 
+ice 
+þræll 
+slave 
+vagn 
+wagon, chariot 
+hamarr 
+hammer 
+himinn 
+sky 
+jötunn 
+ettin, giant (mythological) 
+drottinn 
+lord (or usually, "the Lord") 
+hringr 
+ring, circle 
+hundr 
+dog 
+níðingr 
+villain, oppressor 
+viðr 
+wood 
+ 
+ 
+Þórr 
+Thor, the thundergod 
+Þórshamarr 
+Thor's hammer 
+
+
+=== PAGE 100 ===
+
+Ásgarðr 
+Asgard, the world of gods (Æsir) 
+Miðgarðr 
+Midgard, the world of men 
+Miðgarðsormr Midgard's Serpent (the serpent that encircles Midgard) 
+Jötunheimr 
+Gianthome (the mythological home of the giants) 
+Vestrvegr 
+"Westway" (west across the North Sea; the British Isles)
+2.2 Pronouns 
+annarr other, another 
+hverr? who, what (masc)?
+hverr each 
+hinn the other 
+'Annarr' is a bisyllabic pronoun, with an irregular declension: 
+ 
+sg 
+pl 
+nom ann-ar-r að-r-ir 
+acc ann-an að-r-a 
+dat öð-r-um öð-r-um 
+gen ann-ar-s ann-ar-ra
+As happens in 'maðr', the sequence 'nnr' becomes 'ðr'. The main irregularity in 
+the word is its sg acc form, 'annan', where we'd expect '*aðran'. 
+'Hverr' declines like an adjective with j-insertion: 
+ 
+sg 
+pl 
+nom hverr 
+hverir 
+acc hvern 
+hverja 
+
+
+=== PAGE 101 ===
+
+dat hverjum hverjum
+gen hvers 
+hverra 
+An alternative (old) form of sg. acc. is the more regular 'hverjan'. 
+'Hverr' is the interrogative that refers to masculine nouns or persons. It can 
+also mean 'each': 
+"Hverr þeira segir þá öðrum..." Each of them then says to another... 
+ 
+sg 
+pl 
+nom hinn hinir 
+acc hinn hina 
+dat hinum hinum
+gen hins 
+hinna 
+Declines just like the article ending; in fact, it is just a modification of the 
+pronoun from which the article is derived. 
+2.3 Adjectives 
+sjálfr (him)self 
+írskr 
+Irish 
+slíkr 
+such 
+groenn green 
+háll 
+slippery 
+heill 
+whole, healthy, "hail" (greeting)
+víss 
+wise 
+gamall old 
+gulr 
+yellow 
+
+
+=== PAGE 102 ===
+
+vanr 
+accustomed 
+2.4 Verbs 
+gjøra, gjøri 
+do 
+aka, ek + dat 
+drive 
+hringa, hringa 
+wind around (as serpents do) 
+hjálpa, help 
+help 
+róa, roe 
+row (a boat) 
+leiða, leiði 
+lead 
+vernda, vernda 
+protect 
+reka, rek 
+drive out, drive sth forward from behind (such as 
+cattle) 
+verða, verðr + 
+nom 
+become 
+'verða' is followed by a compliment, i.e. a noun in nominative. 
+The object of 'aka' is in dative rather than accusative. 
+2.5 Adverbs 
+aftr 
+again 
+saman together 
+bæði 
+both 
+því næst then, thereafter, subsequently
+né 
+nor 
+2.6 Prepositions 
+
+
+=== PAGE 103 ===
+
+við + acc by, next to 
+um + acc about, around, through 
+af + dat 
+off 
+yfir + dat over 
+gegn + dat against, in front of 
+hjá + dat by, with, in the company of
+til + gen 
+to 
+2.7 Conjunctions 
+at 
+that 
+svá at so [that]
+"svá at" is sometimes contracted to "svát" 
+2.8 Phrases 
+[It seems to me that some modern phrases have crept into Óskar's text; I'll 
+check on this later. - Haukur] 
+standa saman 
+stick together, stand united 
+standa með + dat stick with someone, help someone
+gefa sik 
+give in, surrender 
+3. Exercises 
+3.1 Translate the phrases into English 
+a. Þeir ganga saman um víðan vang. 
+b. Þeir sjá menn standa við forsinn. 
+c. Annarr spyrr, "Hverir standa þar, við forsinn?" 
+d. Þá svarar hinn, "Þeir kalla sik Eirík ok Hauk, ok eru norskir." 
+
+
+=== PAGE 104 ===
+
+e. "Hvat gjøra slíkir menn hér?", spyrr annarr hinn. 
+f. Jarlar Noregs eigu marga hunda ok þræla írska. 
+g. Í Noregi er oft íss í vágum, svá at vísir menn sigla þar eigi. 
+h. Hann gengr til groenna skóga, þar er álfarnir búa. 
+i. Þeir ganga saman á hálum ísi, en falla eigi. 
+j. "Hér er háll íss. Ek vil eigi ganga hér um." 
+3.2 Translate the phrases into Old Norse 
+a. "Lord, protect us," an Irish man says. 
+b. "I am lord here, and protect you," says the earl. 
+c. "[The] Lord in Heaven ("Drottinn á himni") will not help." 
+d. "[The] Lord himself is with us," another Irish man says. 
+e. "But is he not in Heaven? ("á himni?")", the earl asks. 
+f. [The] Lord in Heaven protects the men while they sail. 
+g. The earl calls (says) himself the lord of the slaves. 
+h. Icelandic men protect themselves ("vernda sik sjálfa") against 
+Norwegian kings. 
+i. They take (go with) an old man to the boat. 
+3.3 Translate the texts into English 
+Þórr heitir áss, ok er sterkr mjök ok oft reiðr. Hann á hamar góðan. Þórr ferr 
+oft til Jötunheima ok vegr þar marga jötna með hamrinum. Þórr á ok vagn er 
+flýgr. Hann ekr vagninum um himininn. Þar er Þórr ekr, er stormr. 
+Þórr kennir orm, er menn kalla Miðgarðsorm. Ormrinn er langr ok hringar sik 
+allan um heim manna, Miðgarð. Þórr vill veiða orminn ok vega hann, því at 
+hann er illr. 
+Þórr kennir ok jötun er á bát. Þórr tekr vagninn ok ekr. Hann ekr vagninum ór 
+Ásgarði ok um himininn. Hann ferr til jötunsins. Er hann finnr jötuninn kallar 
+hann til hans, "Jötunn, þú skalt taka bátinn er þú átt ok hjálpa mér. Vit munum 
+fara ok veiða sjálfan Miðgarðsorm." Jötunninn er mjök hræddr, ok svarar, "Ek 
+skal gjøra sem þú býðr, Þórr, því at ef ek gjøri eigi svá, vegr þú mik. En 
+ormrinn mun eta okkr báða, því at hann er stórr ok illr." En Þórr er áss bæði 
+djarfr ok reiðr ok vill fara gegn Miðgarðsormi. 
+Því næst róa þeir saman á báti jötunsins. Þá kømr slíkr stormr, at jötunninn 
+verðr hræddr mjök. Er Þórr sér hann svá hræddan, mælir hann, "Sjá, jötunn, 
+hér er hamarrinn er vegr þik ef þú roer eigi," ok sýnir hánum reiðr hamarinn. 
+ 
+Óláfr kallar sik konung alls Noregs. Jarlar Noregs skulu ok kalla hann konung. 
+Ef jarl gjørir eigi svá, ferr Óláfr konungr gegn hánum ok rekr hann ór Noregi. 
+En margir jarlar vilja eigi kalla Óláf konung, svá at þeir standa saman gegn 
+hánum. 
+Jarl heitir Ragnarr, er kallar Óláf eigi konung. Óláfr konungr foerir marga 
+menn gegn hánum ok segir: "Heill, Ragnarr jarl. Kalla þú mik Drottin, eða ek 
+
+
+=== PAGE 105 ===
+
+mun reka þik ór Noregi." Svá býðr konungr jarli (translate: "the earl"). 
+Ragnarr svarar, "Heill, Óláfr. Vit skulum eigi leiða svá marga menn hverja 
+gegn öðrum. Ek skal nú fara ok leiða alla er standa með mér. Vér skulum sigla 
+brott í bátunum ok vér skulum eigi koma aftr til Noregs, meðan þú lifir. En ek 
+mun eigi kalla þik konung, Óláfr, því at þú ert eigi góðr maðr ok þú munt eigi 
+góðr konungr verða." 
+Hinir jarlarnir standa eigi með Ragnari gegn Óláfi. Konungrinn hefir svá 
+marga menn, at Ragnarr gefr sik hánum ok ferr. Hann segir mönnunum er eru 
+með hánum: "Vér skulum nú fara, því at níðingrinn Óláfr leiðir marga menn 
+gegn oss, ok hinir jarlarnir standa eigi með oss. Óláfr gefr oss grið, svá at vér 
+skulum sigla brott ok finna oss nýjan heim." Margir menn fara með hánum í 
+bátana, en sumir gjøra eigi svá. Þeir fara til Óláfs konungs, því at þeir eru 
+norskir menn ok vilja búa í Noregi. 
+ 
+Kormákr heitir þræll ok Svartr annarr. Kormákr er írskr maðr. Svartr er danskr, 
+ok ungr mjök ok sterkr. Kormákr er gamall maðr ok spakr. 
+Jarl býðr nú bæði Kormáki ok Svarti at fara í skóginn ok finna við. Viðinn 
+skal brenna hjá jarli. 
+Þeir fara nú báðir í skóginn. Við skóginn er stórr hóll, ok háll íss í vangi. 
+Svartr segir við Kormák ("to Cormack"), "Vit skulum ganga yfir ísinn." 
+Kormákr mælir þá Svarti, "Eigi skal þat svá, því at yfir ís svá hálan, sem þú 
+sér þar, skal eigi ganga. Þar falla menn í ísinn, ok deyja. Kom þú með mér, ok 
+göngum vér nú á hólinn." 
+Ganga þeir svá á hólinn ok af hánum í skóginn. Kormákr mælir, "Í skógum 
+eru oft illir vargar. En ver eigi hræddr, því at Drottinn himna verndar okkr." 
+Svartr segir þá, "himna-drottin kenni ek, er hefir hamar góðan ok flýgr í vagni 
+um himininn. Sjá, Kormákr, hér hefi ek Þórshamar, en meðan ek hefi hann 
+mun Þórr vernda okkr báða." Kormákr segir, "Eigi verndar okkr Þórr né 
+hamarrinn; Drottinn á himni er með okkr, ok mun vernda okkr gegn illum 
+vörgum." Finna þeir nú viðinn ok foera hann jarli. 
+3.4 Translate the text into Old Norse 
+Ragnar now leads many vikings into the boats and sails away. "We have no 
+slaves, for Olaf the Oppressor takes them all. We shall go and find Irish slaves, 
+in Westway. Then we shall find another homeland and live there." The 
+vikings say "You shall lead us, Earl Ragnar, to Westway ("í Vestrveg"), and 
+we will do as ("svá er") you bid." 
+As they sail away, out of the cove, they see many green meadows, broad 
+cascades, and forests wide. Ragnar speaks, "Evil is the oppressor Olaf, to 
+("at") drive us out of Norway, with such green meadows and forests. We will 
+not find such cascades in another home." 
+4. Looking at real texts 
+
+
+=== PAGE 106 ===
+
+4.1 Half a strophe from Þrymskviða 
+Loki suggests the following to Þórr: 
+Mun ek ok með þér
+ambátt vera. 
+Vit skulum aka tvau
+í Jötunheima. 
+Notice the plural of 'Jötunheimr'. 
+ambátt female slave
+tvau 
+two 
+Notice the difference between 'munu' and 'skulu'. The first is a statement of 
+fact (as far as a statement about the future can be) while the second is more 
+like a suggestion. But in reality the verbs could be interchanged here with no 
+real change in meaning. Thorpe, for example, translates both with 'will': 
+I will with thee 
+as a servant go: 
+we two will drive
+to Jötunheim. 
+4.2 An answer from Gylfaginning 
+Hár segir: "Þat eru tveir úlfar, ok heitir sá er eftir henni ferr Skoll. Hann 
+hræðisk hon ok hann mun taka hana. En sá heitir Hati Hróðvitnisson er fyrir 
+henni hleypr ok vill hann taka tunglit, ok svá mun verða." 
+Remember the feminine pronoun, 'she': 
+nom. hon 
+acc. hana 
+dat. henni 
+
+
+=== PAGE 107 ===
+
+gen. hennar
+tveir 
+two 
+eftir + dat behind, after
+fyrir + dat in front of 
+hræðisk 
+fears 
+tunglit 
+the moon 
+sá 
+the one 
+ferr 
+goes, fares 
+ 
+ 
+ 
+Old Norse for Beginners - Lesson Nine 
+by Óskar Guðlaugsson and Haukur Þorgeirsson 
+1. Grammar 
+1. Genitive Case: Partition 
+2. Dative Case: Instrumental 
+3. Verbs with Dative and Genitive 
+4. Strong Masculine Declensions 
+5. Infinitive Clauses 
+6. Clauses of Purpose, Sequences 
+2. Vocabulary 
+1. Nouns 
+2. Pronouns 
+3. Adjectives 
+4. Verbs 
+5. Adverbs 
+6. Prepositions 
+7. Conjunctions 
+8. Phrases 
+3. Exercises 
+1. Translate the phrases into English 
+
+
+=== PAGE 108 ===
+
+2. Translate the phrases into Old Norse 
+3. Translate the text into English 
+4. Translate the text into Old Norse 
+1. Grammar 
+1.1 Genitive Case: Partition 
+There are some more uses to the genitive case than possession, presented last 
+lesson. This can be seen through observation of the English genitive; in 
+English, this case is marked by 's, for possession exclusively, but more 
+commonly by the preposition 'of'. Examples: 
+'Norway's king is called Olaf.''The King of Norway is called Olaf.'
+'Peter's car is blue.''The car of Peter is blue.' 
+Using the 's is normal for possession, except in the case of titles, like 'The 
+King of Norway.' But there are other types of genitive, or at least other cases 
+where the 'of' preposition is used abstractively: 
+'Three of us came over.' 'He saw all of them.' 
+This is called 'partitive genitive'. There we're using the genitive to mark the 
+whole whence an amount derives; 'hundreds of men.' - from an undefined 
+mass called 'men', 'hundreds' are selected. The genitive would seem logical, as 
+the extracted amount belongs to the original whole. 
+Luckily, Old Norse uses the genitive in the exact same way. Except, of course, 
+its genitive is marked exclusively through inflection and not by the help of 
+prepositions. So, first an example of the possessive usage we already know: 
+Bátr Óláfs er langr. 
+Then, an example of the partitive genitive: 
+Sumir vár vilja eigi vera í Úlfarsheimi. 'Some of us don't want to be in 
+Úlfarsheimr.' 
+Note, by the way, that the verb conjugates in the third person in this example. 
+Though it may seem to be a semantic first person, the verb refers to 'sumir', 
+which is a third group. Remember that verbs always agree to the subject in the 
+sentence, and the subject is always in nominative (like 'sumir', but unlike 'vár'). 
+1.2 Dative Case: Instrumental 
+As detailed in lesson 5, section 1.1, the dative case in ON originates from a 
+fusion of many different case forms. But the various functions of those 
+originally different cases still remain in the dative case. One of those functions 
+is called "instrumental", and marks the object with which the verb is executed. 
+Examples: 
+
+
+=== PAGE 109 ===
+
+"He slays the dragon with the mighty sword." "He comes to England by ship." 
+"It's a Trial by Fire." 
+In those sentences, "sword", "ship" and "fire" serve instrumental functions, 
+and are marked in English by the instrumental case prepositions "with" and 
+"by". 
+In ON, we have until now relied on the preposition "með" + dat, which marks 
+instruments, among other things. But ON can also omit any preposition, 
+relying on the naked dative form to identify the instrumental function. 
+Example: 
+"Þórr vegr jötuninn hamri." Thor slays the giant with a hammer. 
+This function of the dative is not very common, especially not in prose. 
+1.3 Verbs with Dative and Genitive 
+So far, we have used only verbs followed by a direct object marked with 
+accusative. However, to complicate matters, the 'patients' of many ON verbs 
+are not marked with accusative, but rather with dative or even genitive (rare), 
+as illogical as it may seem: 
+"Ek kasta steini." 'I throw a stone.' (dative) 
+"Þeir moeta hánum." 'They meet him.' (dative)
+"Hon saknar hans." 'She misses him.' (genitive)
+The explanation to this phenomenon probably lies in the etymology of the 
+individual verbs; a verb's original meaning may have logically called for such 
+case marking, but then changed meaning while retaining the case use. The 
+compulsory dative marking would in a great many cases stem from 
+instrumental dative usage (see 1.2 above) which has "frozen" (become 
+mandatory). At the same time, other verbs of similar meaning may then have 
+changed to model themselves to the anomalous verb, so that all verbs of a 
+similar "theme" meaning will govern the same case; e.g. all verbs that 
+describe "projectile" meanings (like "kasta" above) tend to govern dative. 
+In any case, by the time of Old Norse it is no longer practical to consider such 
+(perhaps obscure) historical details; it is most practical to say that the 
+grammatic case governed by an ON verb is one of its inherent variables, to be 
+learnt as soon as one learns the verb itself. 
+Thus, from now on, verbs will be specifically identified with the case they 
+govern: 
+vega, veg + acc slay kasta, kasta + dat throw
+sakna, sakna + gen miss, feel the loss of 
+Most verbs learnt so far govern accusative; the only exception is: 
+
+
+=== PAGE 110 ===
+
+sigla, sigli + dat sail 
+It may be of help to some students, however, to try to assign some minimal 
+logic to some of the abnormal case use, perhaps especially with verbs that 
+govern the genitive case. For example, with the example above of the verb 
+'sakna', one may assume something like this as an explanation: 
+"Hon saknar hans." "She misses his [presence]." 
+But this is only recommended as a mnemonic, for those whom it helps. 
+1.4 Strong Masculine Declensions 
+The strong masculine is certainly the most varied declension. Some strong 
+masculines end in -ir in the nominative. They decline quite easily: 
+hilmir 'king'
+ 
+sg 
+pl 
+nom hilmir hilmar 
+acc hilmi hilma 
+dat hilmi hilmum
+gen hilmis hilma 
+The dative cannot be 'hilmii', as 'ii' is not possible in ON. 
+A very large group of nouns within the declension are declined like this: 
+staðr 'place'
+ 
+sg 
+pl 
+nom staðr staðir 
+acc stað staði 
+dat stað stöðum
+gen staðar staða 
+Strong masculines of this type are called 'i-stems'; the ones we know so far are 
+called 'a-stems'. To summarize, i-stem declension is different in the following 
+ways: 
+
+
+=== PAGE 111 ===
+
+a. a) gen sg -ar, not -s 
+b. b) nom pl -ir, not -ar 
+c. c) acc pl -i, not -a 
+d. d) dat sg -Ø, not -i ('Ø' is commonly used to symbolize "no ending") 
+A few strong masculines' declension is a mix between i-stem and a-stem 
+declension: 
+ 
+sg 
+pl 
+nom skógr skógar 
+acc skóg skóga 
+dat skógi skógum
+gen skógar skóga 
+That is, i-stem gen sg -ar, but otherwise just like other a-stems. The only such 
+words we have encountered so far are 'skógr' and 'matr'. 
+Some i-stem nouns have -s in the sg gen. 
+So, as you'll be thinking by now, how do we keep track of all this? We intend 
+to do so by using a new way to introduce future vocabulary from the strong 
+masculine declension: 
+hestr, hests, hestar 
+horse
+vinr, vinar, vinir 
+friend
+skógr, skógar, skógar forest
+hilmir, hilmis, hilmar king 
+áss, áss, æsir 
+god 
+These three case forms are what characterize and identify the different 
+declensions, nom sg (as before), gen sg, and nom pl. From now on, make sure 
+you learn to which declension each strong masculine noun belongs, before 
+you continue. Names will also be presented this way, though not with the 
+plural form, e.g.: 
+Njáll, Njáls 
+Haraldr, Haralds 
+
+
+=== PAGE 112 ===
+
+Þorvarðr, Þorvarðar
+1.5 Infinitive Clauses 
+With verbs like 'claim' or 'believe', English can have full clauses following 
+with all its main verbs in infinitive. In those clauses, the infinitive is always 
+marked with 'to': 
+I believe him to be passed away. 
+I claim her to be may legal heir. 
+I believe it to have happened already.
+In ON, such infinitive clauses are even more prolific. The difference to 
+English is that the infinitive marker (at) is never used, and the verb infinitive 
+tends to be idiomatically placed last in the sentence. As in the English 
+example sentences above, the subject of the infinitive clause is not in 
+nominative, but rather in accusative: 
+"Ek tel hann góðan mann vera." I believe him to be a good man.
+"Ek segi þik illan konung vera." I claim you to be an evil king. 
+In lesson 3, section 1.2, infinitive clauses with sense words like 'see' and 'hear' 
+were taught. They are analogous to the clauses presented above: 
+"Vér sjám þá ganga um skóginn." We see them walking around the 
+forest. 
+"Þeir heyra konunginn mæla." They hear the king speak. 
+And as mentioned there, clauses with the word 'vita' (to know): 
+"Ask veit ek standa." An ash I know standing.
+1.6 Clauses of Purpose, Sequences 
+Some subordinate clauses express purpose: 
+"They go to find the wood." ("they go - [in order] to find the wood")
+In ON, such clauses are connected to the main clause by "til at": 
+"Þeir fara til at finna viðinn." 
+Alternatively, one might say: 
+
+
+=== PAGE 113 ===
+
+"Þeir fara at finna viðinn." 
+This merely indicates a sequence of events, though purpose is strongly 
+suggested. This omission of "til" is quite common. 
+2. Vocabulary 
+2.1 Nouns 
+vinr, vinar, vinir 
+friend 
+áss, áss, æsir 
+ace, god, one of the Æsir 
+askr, asks, askar 
+ash tree; small wooden pot 
+sveinn, sveins, sveinar 
+young man 
+peningr, penings, 
+peningar 
+money 
+máttr, máttar, mættir 
+power 
+kaupmaðr, -manns, -menn merchant 
+dómr, dóms, dómar 
+judgement, -hood ("state of being" suffix) 
+þrældómr, -dóms, -dómar slavery 
+Kristr, Krists 
+Christ 
+Mjölnir, Mjölnis 
+Mjolner, Thor's hammer 
+Askr Yggdrasils 
+The Ash of Yggdrasil, the World Tree 
+Útgarðr 
+Outgard, alternate name for Gianthome 
+Surtr 
+Surt, the Fire Giant 
+Múspellsheimr 
+Muspellsheim, the World of Fire Giants 
+Ása-Þór 
+"Thor of [the] Æsir", alternate name for 
+Thor 
+
+
+=== PAGE 114 ===
+
+2.2 Pronouns 
+Demonstrative pronoun, masculine: 
+sá 
+that, the one 
+that 
+ 
+ 
+ 
+sg 
+pl 
+nom sá 
+þeir 
+acc þann 
+þá 
+dat þeim 
+þeim 
+gen þess 
+þeira 
+Example of the demonstrative "that" function: 
+"Hvat heitir sá maðr, er stendr hjá jarli?" "What is that man called, who 
+stands by the earl?" 
+This also serves as a relative pronoun, "the one that"; for example 
+"Sá er fiska veiðir..." The one who catches fish...
+Note how the plural simply uses the masc 3p pl personal pronoun. 
+2.3 Adjectives 
+heitr 
+hot 
+norroenn Nordic 
+vitr 
+wise 
+alvitr 
+omniscient, all-knowing 
+frjáls 
+free 
+sjúkr 
+sick 
+
+
+=== PAGE 115 ===
+
+blindr 
+blind 
+2.4 Verbs 
+smíða, smíð 
+craft, make 
+trúa, trúi + dat 
+believe; believe in, have faith in 
+leita, leita + gen search; search for 
+kaupa, kaupi 
+buy 
+halda, held + dat hold, keep 
+velja, vel 
+choose 
+gjalda, geld + dat pay 
+sigla, sigli + dat sail 
+rísa, rís 
+rise 
+lækna, lækna 
+heal 
+And one present-preterite verb: 
+vita know (a fact)
+ 
+sg 
+pl 
+1p veit vitum
+2p veizt vituð
+3p veit vitu 
+It should be mentioned now that the character 'z' represents a combination of 
+'t','d' or 'ð' + 's', just as 'x' is a combination of 'k' and 's'. This makes the form 
+'veizt' more understandable, as it essentially the stem 'veit' + the ending '-st'; 
+'veitst' > 'veizt'. The 'z' was originally pronounced 'ts', but tended to simplify 
+to 's' in later ON and its descendant languages. 
+
+
+=== PAGE 116 ===
+
+2.5 Adverbs 
+aldregi never 
+hvar 
+where 
+hvaðan whence/where from
+þaðan thence/there from 
+héðan hence/here from 
+heldr but rather 
+enn 
+still 
+til 
+more, yet more 
+2.6 Prepositions 
+undir + dat under 
+meðal + gen among(st)
+frá + dat 
+from 
+2.7 Conjunctions 
+svá sem such as
+3. Exercises 
+3.1 Translate the phrases into English 
+a. "Sumir yðvar fara aldregi heim til Noregs." 
+b. "Veizt þú eigi, hvárt menninir skulu sigla brott?" 
+c. "Eigi veit ek, hverir mannanna skulu sigla." 
+d. "Kristr heitir drottinn sá, er verndar oss." 
+e. "Ek veit annan, er verndar oss hamri gegn illum jötnum." 
+
+
+=== PAGE 117 ===
+
+f. "Hvárt mun sá Þórr heita, ok hamarrinn Mjölnir?" 
+g. "Eigi hefir sá Kristr slíkan hamar er Mjölnir er." 
+h. "Kristr hefir eigi hamra eða branda, því at hann er góðr ok vegr eigi 
+menn né jötna." 
+3.2 Translate the phrases into Old Norse 
+a. There are many villains among Olaf's friends. 
+b. "That viking is such a villain, that he never spares good men." 
+c. "Thor's might is in the hammer." 
+d. "Do you know, slave, whence they come, who they are, and what they 
+call themselves?" 
+e. "They come from Westway, and are Irish men. They call themselves 
+free." 
+f. "No good men come from there. Take the sword and bring them to 
+me." 
+g. "Some of you are thieves, who take horses. Who are they?" 
+h. "Those who know, shall bring me the thieves." 
+i. "The thieves must give in. If they do not do so, I will kill you all." 
+3.3 Translate the text into English 
+Oddr segir við Ragnar jarl, "Seg mér, jarl, af heiminum, af jötnum ok ásum." 
+Ragnarr svarar, "Þat skal ek, Oddr." 
+"Í heimi stendr askr stórr er vér köllum Ask Yggdrasils. Við askinn eru heimar 
+þeir er heita Miðgarðr, þar er vér búm; Útgarðr, þar er jötnar búa, en hann 
+heitir ok Jötunheimr; ok Ásgarðr, þar er æsir búa. Undir askinum búa dvergar, 
+er smíða bauga ok branda." 
+"Drottin ása köllum vér Óðin, ok er hann áss mjök spakr. Hann hefir hrafna, er 
+heita Huginn ok Muninn, ok fljúga þeir hrafnar um heimana. Þat, er hrafnarnir 
+sjá, sér ok Óðinn. Því er Óðinn áss alvitr. Í Ásgarði býr ok áss sá er Þórr heitir. 
+Þórr hefir hamarinn Mjölni ok flýgr hann oft til Jötunheims ok vegr með 
+hánum jötna. Margir æsir búa í Ásgarði, ok vernda þeir allir mennina ok 
+heiminn, gegn illum jötnum." 
+"Surt veit ek búa í Múspellsheimi. Sá er stórr ok illr jötunn elds. Í heimi þeim 
+brenna heitir eldar ok mun Surtr leiða þaðan jötna gegn ásum. Hann mun vega 
+æsi eldi ok brandi þeim, er hann hefir. Illr er mjök jötunn sá." 
+"Í Miðgarði búm vér menninir. Um Miðgarð allan veit ek orm hringa sik, er 
+vér köllum Miðgarðsorm. Ormr sá er illr. Ása-Þór vill veiða þann orm ok vega 
+hann hamrinum." 
+Oddr mælir nú, "Kenni ek nú marga æsi. En sumir segja mér af öðrum, er þeir 
+nefna Krist. Hvárt er sá meðal ása?" Ragnarr svarar, "Sá er eigi áss, heldr 
+maðr. Menn segja hann lækna sjúka ok blinda, rísa aftr dauðr, ok koma af 
+himnum. Margir norroenna manna trúa nú hánum, en sjálfr veit ek eigi mátt 
+Krists." 
+
+
+=== PAGE 118 ===
+
+ 
+Fara nú Ragnarr ok víkingarnir at leita sér þræla meðal írskra manna. Þeir 
+kaupa þar í Vestrvegi marga unga sveina af norroenum kaupmönnum, er halda 
+sveinunum þrældómi. Kaupmaðr segir, "Sveinarnir eru sterkir mjök, ok sá 
+kaupir vel er þá velr. Tak þú, jarl, þá sveina er þar standa, þá gef ek þér annan 
+til." 
+Ragnarr telr kaupmanninn bjóða sér vel, ok geldr hánum peningum. Býðr 
+hann svá þrælunum at ganga í bátana, ok siglir brott. 
+ 
+Er Svartr ok Kormákr foera viðinn heim til jarls, spyrr Svartr Kormák, "Hvárt 
+eru allir írskir menn þrælar, sem þú ert, Kormákr?" Kormákr svarar, "Eigi 
+erum vér allir þrælar en mörgum vár halda norroenir menn í þrældómi." 
+3.4 Translate the text into Old Norse 
+Many (of) Nordic men believe in (the) Æsir, but not all of them. Some believe 
+in Christ, Lord of Heaven. Irish men do not believe in the Æsir, but rather in 
+Lord Christ. 
+The King of Norway commands all Norwegian men to call himself King. He 
+also commands them not to have faith in the Æsir, but rather in Christ. Others, 
+such as (the) earls of Norway, say that Thor will slay Christ himself ("segja 
+Þór munu vega sjálfan Krist..."), with his hammer, Mjolner. Many of (the) 
+Norwegians believe the earls. 
+ 
+ 
+ 
+ 
+ 
+ 

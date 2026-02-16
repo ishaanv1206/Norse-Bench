@@ -1,0 +1,501 @@
+﻿id,phenomenon,grammatical,ungrammatical,target,error_type
+ON_QUIRKY_CASE_001,QUIRKY_CASE,"Hér hefr upp ok segir frá þeim manni , er Sigi er nefndr ok kallaðr , at héti sonr Óðins .","Hér hefr upp ok segir frá þeir manni , er Sigi er nefndr ok kallaðr , at héti sonr Óðins .",þeim,dative_to_nominative
+ON_QUIRKY_CASE_002,QUIRKY_CASE,"Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .","Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr hann at vega þrjú jafnvægi gulls .",honum,dative_to_nominative
+ON_QUIRKY_CASE_003,QUIRKY_CASE,"Ok er hann kemr aptr , segir hann henni , at dauðr sé einn þeira .","Ok er hann kemr aptr , segir hann hon , at dauðr sé einn þeira .",henni,dative_to_nominative
+ON_QUIRKY_CASE_004,QUIRKY_CASE,"En er þeir koma , þá segir hann þeim allan atburð hvé farit hafði með þeim ok ylginni .","En er þeir koma , þá segir hann þeir allan atburð hvé farit hafði með þeim ok ylginni .",þeim,dative_to_nominative
+ON_QUIRKY_CASE_005,QUIRKY_CASE,"Nú hleypr hann í höllina innar fyrir föður sinn ok segir honum , hvat hann hefir sét .","Nú hleypr hann í höllina innar fyrir föður sinn ok segir hann , hvat hann hefir sét .",honum,dative_to_nominative
+ON_QUIRKY_CASE_006,QUIRKY_CASE,"Ok er nátta tekr , þá mælti Sinfjötli til Sigmundar : `` Ekki ætla ek okkr mat skorta um hríð .","Ok er nátta tekr , þá mælti Sinfjötli til Sigmundar : `` Ekki ætla ek vit mat skorta um hríð .",okkr,dative_to_nominative
+ON_QUIRKY_CASE_007,QUIRKY_CASE,"Sinfjötli svarar : `` Hvárt mantu þat , er þú vart merrin með hestinum Grana , ok reið ek þér á skeið á Brávelli ?","Sinfjötli svarar : `` Hvárt mantu þat , er þú vart merrin með hestinum Grana , ok reið ek þú á skeið á Brávelli ?",þér,dative_to_nominative
+ON_QUIRKY_CASE_008,QUIRKY_CASE,Þeir mættust í borgarhliði ok segja honum hersögu .,Þeir mættust í borgarhliði ok segja hann hersögu .,honum,dative_to_nominative
+ON_QUIRKY_CASE_009,QUIRKY_CASE,"Þá var konungr drukkinn mjök , ok því sagði hann svá .","Þá var konungr drukkinn mjök , ok þat sagði hann svá .",því,dative_to_nominative
+ON_QUIRKY_CASE_010,QUIRKY_CASE,"Ambáttin hefir svör fyrir þeim ok segir fall Sigmundar konungs ok Eylima konungs ok margs annars stórmennis ok svá , hverir gert hafa .","Ambáttin hefir svör fyrir þeir ok segir fall Sigmundar konungs ok Eylima konungs ok margs annars stórmennis ok svá , hverir gert hafa .",þeim,dative_to_nominative
+ON_QUIRKY_CASE_011,QUIRKY_CASE,Hún svarar honum : `` Faðir minn gaf mér eitt gull lítit við náttúru .,Hún svarar honum : `` Faðir minn gaf ek eitt gull lítit við náttúru .,mér,dative_to_nominative
+ON_QUIRKY_CASE_012,QUIRKY_CASE,"Frá honum segja allir eitt , at um atferð ok vöxt var engi hans maki .","Frá hann segja allir eitt , at um atferð ok vöxt var engi hans maki .",honum,dative_to_nominative
+ON_QUIRKY_CASE_013,QUIRKY_CASE,Reginn mælti : `` Trúir þú þeim allvel ? '',Reginn mælti : `` Trúir þú þeir allvel ? '',þeim,dative_to_nominative
+ON_QUIRKY_CASE_014,QUIRKY_CASE,Reginn mælti : `` Bið hann gefa þér einn hest . '',Reginn mælti : `` Bið hann gefa þú einn hest . '',þér,dative_to_nominative
+ON_QUIRKY_CASE_015,QUIRKY_CASE,"Reginn svarar : `` Saga er til þess , ok mun ek segja þér . ''","Reginn svarar : `` Saga er til þess , ok mun ek segja þú . ''",þér,dative_to_nominative
+ON_QUIRKY_CASE_016,QUIRKY_CASE,"Ok þótt þú segir mér eigi þitt nafn á banadægri mínu , þá veiztu , at þú lýgr nú . ''","Ok þótt þú segir ek eigi þitt nafn á banadægri mínu , þá veiztu , at þú lýgr nú . ''",mér,dative_to_nominative
+ON_QUIRKY_CASE_017,QUIRKY_CASE,"Önnur segir : `` Þar liggr Reginn ok vill véla þann , sem honum trúir . ''","Önnur segir : `` Þar liggr Reginn ok vill véla þann , sem hann trúir . ''",honum,dative_to_nominative
+ON_QUIRKY_CASE_018,QUIRKY_CASE,"Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .","Ok trú ekki þeir , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .",þeim,dative_to_nominative
+ON_QUIRKY_CASE_019,QUIRKY_CASE,"Álsviðr býðr honum með sér at vera ok af sér at þiggja slíkt , er hann vill .","Álsviðr býðr hann með sér at vera ok af sér at þiggja slíkt , er hann vill .",honum,dative_to_nominative
+ON_QUIRKY_CASE_020,QUIRKY_CASE,"`` Hana skal ek hitta , '' sagði Sigurðr , `` ok gefa henni gull ok ná hennar gamni ok jafnaðarþokka . ''","`` Hana skal ek hitta , '' sagði Sigurðr , `` ok gefa hon gull ok ná hennar gamni ok jafnaðarþokka . ''",henni,dative_to_nominative
+ON_QUIRKY_CASE_021,QUIRKY_CASE,"Hún svarar : `` Seg mér ok lát þik eigi hryggja , því at jafnan dreymir fyrir veðrum . ''","Hún svarar : `` Seg ek ok lát þik eigi hryggja , því at jafnan dreymir fyrir veðrum . ''",mér,dative_to_nominative
+ON_QUIRKY_CASE_022,QUIRKY_CASE,"En af því kom ek hér at segja þér drauma mína , er mér fengu mikillar áhyggju . ''","En af þat kom ek hér at segja þér drauma mína , er mér fengu mikillar áhyggju . ''",því,dative_to_nominative
+ON_QUIRKY_CASE_023,QUIRKY_CASE,"Grímhildr gefr honum meinblandinn mjöð , er öllum oss kemr í mikit stríð .","Grímhildr gefr hann meinblandinn mjöð , er öllum oss kemr í mikit stríð .",honum,dative_to_nominative
+ON_QUIRKY_CASE_024,QUIRKY_CASE,"Konungr svarar : `` Fátítt er þat at bjóða fram dætr sínar , en meiri vegr er at bjóða honum en aðrir biði . ''","Konungr svarar : `` Fátítt er þat at bjóða fram dætr sínar , en meiri vegr er at bjóða hann en aðrir biði . ''",honum,dative_to_nominative
+ON_QUIRKY_CASE_025,QUIRKY_CASE,"Hann tók þá af henni hringinn Andvaranaut , er hann gaf henni , en fekk henni nú annan hring af Fáfnis arfi .","Hann tók þá af henni hringinn Andvaranaut , er hann gaf hon , en fekk henni nú annan hring af Fáfnis arfi .",henni,dative_to_nominative
+ON_QUIRKY_CASE_026,QUIRKY_CASE,"Þá hugsaða ek með mér , hvárt ek skylda hlýða hans vilja eða drepa margan mann .","Þá hugsaða ek með ek , hvárt ek skylda hlýða hans vilja eða drepa margan mann .",mér,dative_to_nominative
+ON_QUIRKY_CASE_027,QUIRKY_CASE,"Far heldr ok finn hana ok vit , ef sjatni hennar ofsi , gef henni gull ok mýk svá hennar reiði . ''","Far heldr ok finn hana ok vit , ef sjatni hennar ofsi , gef hon gull ok mýk svá hennar reiði . ''",henni,dative_to_nominative
+ON_QUIRKY_CASE_028,QUIRKY_CASE,Brynhildr svarar : `` Þér skal ek segja mína reiði . '',Brynhildr svarar : `` Þú skal ek segja mína reiði . '',Þér,dative_to_nominative
+ON_QUIRKY_CASE_029,QUIRKY_CASE,"`` Nei , '' segir hún , `` eigi reið Gunnarr eldinn til vár , ok eigi galt hann mér at mundi felldan val .","`` Nei , '' segir hún , `` eigi reið Gunnarr eldinn til vár , ok eigi galt hann ek at mundi felldan val .",mér,dative_to_nominative
+ON_QUIRKY_CASE_030,QUIRKY_CASE,"Sigurðr svarar : `` Ekki varð ek þinn maðr , ok vartu mín kona , ok galt við þér mund ágætr konungr . ''","Sigurðr svarar : `` Ekki varð ek þinn maðr , ok vartu mín kona , ok galt við þú mund ágætr konungr . ''",þér,dative_to_nominative
+ON_QUIRKY_CASE_031,QUIRKY_CASE,Þeir tóku orm einn ok af vargsholdi ok létu sjóða ok gáfu honum at eta sem skáldit kvað :,Þeir tóku orm einn ok af vargsholdi ok létu sjóða ok gáfu hann at eta sem skáldit kvað :,honum,dative_to_nominative
+ON_QUIRKY_CASE_032,QUIRKY_CASE,"Grímhildr ræðst í ferð með þeim ok segir þeira erendi svá fremi fullgert munu verða , at hún siti eigi heima .","Grímhildr ræðst í ferð með þeir ok segir þeira erendi svá fremi fullgert munu verða , at hún siti eigi heima .",þeim,dative_to_nominative
+ON_QUIRKY_CASE_033,QUIRKY_CASE,Guðrún segir : `` Ekki má ek af honum hyggja ; hann var öllum fremri . '',Guðrún segir : `` Ekki má ek af hann hyggja ; hann var öllum fremri . '',honum,dative_to_nominative
+ON_QUIRKY_CASE_034,QUIRKY_CASE,"Vingi sýnir honum nú rúnarnar þær , er hann kvað Guðrúnu sent hafa .","Vingi sýnir hann nú rúnarnar þær , er hann kvað Guðrúnu sent hafa .",honum,dative_to_nominative
+ON_QUIRKY_CASE_035,QUIRKY_CASE,"Nú vill hann gefa yðr vald yfir ríkinu , meðan þeir eru svá ungir , ok ann yðr bezt at njóta . ''","Nú vill hann gefa þér vald yfir ríkinu , meðan þeir eru svá ungir , ok ann yðr bezt at njóta . ''",yðr,dative_to_nominative
+ON_QUIRKY_CASE_036,QUIRKY_CASE,"Hann svarar : `` Yðart atkvæði mun standa hljóta , ok fylgja mun ek þér , en ófúss em ek þessarar ferðar . ''","Hann svarar : `` Yðart atkvæði mun standa hljóta , ok fylgja mun ek þú , en ófúss em ek þessarar ferðar . ''",þér,dative_to_nominative
+ON_QUIRKY_CASE_037,QUIRKY_CASE,"Þá mælti Vingi : `` Þetta mættir þú vel ógert hafa , ok bíðið nú hér , meðan ek sæki yðr gálgatré .","Þá mælti Vingi : `` Þetta mættir þú vel ógert hafa , ok bíðið nú hér , meðan ek sæki þér gálgatré .",yðr,dative_to_nominative
+ON_QUIRKY_CASE_038,QUIRKY_CASE,"Ek bað yðr með blíðu hér koma , en flátt bjó undir .","Ek bað þér með blíðu hér koma , en flátt bjó undir .",yðr,dative_to_nominative
+ON_QUIRKY_CASE_039,QUIRKY_CASE,"Ek hlaut mikla mægð , ok hugða ek mér þat til frama .","Ek hlaut mikla mægð , ok hugða ek ek þat til frama .",mér,dative_to_nominative
+ON_QUIRKY_CASE_040,QUIRKY_CASE,"Ok nú veit ek einn , hvar gullit er , ok mun eigi Högni segja þér .","Ok nú veit ek einn , hvar gullit er , ok mun eigi Högni segja þú .",þér,dative_to_nominative
+ON_QUIRKY_CASE_041,QUIRKY_CASE,Randvér heimti konung á tal ok mælti : `` Jörmunrekr konungr vill bjóða yðr mægi sitt .,Randvér heimti konung á tal ok mælti : `` Jörmunrekr konungr vill bjóða þér mægi sitt .,yðr,dative_to_nominative
+ON_QUIRKY_CASE_042,QUIRKY_CASE,Guðrún gekk hlæjandi ok gaf þeim at drekka af stórum kerum .,Guðrún gekk hlæjandi ok gaf þeir at drekka af stórum kerum .,þeim,dative_to_nominative
+ON_QUIRKY_CASE_043,QUIRKY_CASE,"Konungrinn svarar : `` Gef oss ráð til , ef þú kannt . ''","Konungrinn svarar : `` Gef vér ráð til , ef þú kannt . ''",oss,dative_to_nominative
+ON_QUIRKY_CASE_044,QUIRKY_CASE,Óláfr sýnir yðr mann.,Óláfr sýnir þér mann.,yðr,dative_to_nominative
+ON_QUIRKY_CASE_045,QUIRKY_CASE,Kormákr gefr hánum konung.,Kormákr gefr hann konung.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_046,QUIRKY_CASE,Þeir gefr mér marga konunga.,Þeir gefr ek marga konunga.,mér,dative_to_nominative
+ON_QUIRKY_CASE_047,QUIRKY_CASE,Kormákr konungr segir henni orm.,Kormákr konungr segir hon orm.,henni,dative_to_nominative
+ON_QUIRKY_CASE_048,QUIRKY_CASE,Þórr konungr gefr oss brand.,Þórr konungr gefr vér brand.,oss,dative_to_nominative
+ON_QUIRKY_CASE_049,QUIRKY_CASE,Svartr segir mér mann.,Svartr segir ek mann.,mér,dative_to_nominative
+ON_QUIRKY_CASE_050,QUIRKY_CASE,segir þér brand Þórr.,segir þú brand Þórr.,þér,dative_to_nominative
+ON_QUIRKY_CASE_051,QUIRKY_CASE,Nú gefr Þórr því hjálm.,Nú gefr Þórr þat hjálm.,því,dative_to_nominative
+ON_QUIRKY_CASE_052,QUIRKY_CASE,Þá fœrir henni víking.,Þá fœrir hon víking.,henni,dative_to_nominative
+ON_QUIRKY_CASE_053,QUIRKY_CASE,Eiríkr hjálpar því góðan draug.,Eiríkr hjálpar þat góðan draug.,því,dative_to_nominative
+ON_QUIRKY_CASE_054,QUIRKY_CASE,Þá trúir þeim orm.,Þá trúir þeir orm.,þeim,dative_to_nominative
+ON_QUIRKY_CASE_055,QUIRKY_CASE,Þá gefr hánum brand.,Þá gefr hann brand.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_056,QUIRKY_CASE,Þá segir þér hjálm.,Þá segir þú hjálm.,þér,dative_to_nominative
+ON_QUIRKY_CASE_057,QUIRKY_CASE,trúir þeim hjálm Haukr.,trúir þeir hjálm Haukr.,þeim,dative_to_nominative
+ON_QUIRKY_CASE_058,QUIRKY_CASE,Þeir sýnir henni marga hesta.,Þeir sýnir hon marga hesta.,henni,dative_to_nominative
+ON_QUIRKY_CASE_059,QUIRKY_CASE,Óláfr býðr því orm.,Óláfr býðr þat orm.,því,dative_to_nominative
+ON_QUIRKY_CASE_060,QUIRKY_CASE,Þá hjálpar mér hest.,Þá hjálpar ek hest.,mér,dative_to_nominative
+ON_QUIRKY_CASE_061,QUIRKY_CASE,Ragnarr sýnir oss góðan víking.,Ragnarr sýnir vér góðan víking.,oss,dative_to_nominative
+ON_QUIRKY_CASE_062,QUIRKY_CASE,Þá býðr því orm.,Þá býðr þat orm.,því,dative_to_nominative
+ON_QUIRKY_CASE_063,QUIRKY_CASE,Hér býðr oss stóran jarl.,Hér býðr vér stóran jarl.,oss,dative_to_nominative
+ON_QUIRKY_CASE_064,QUIRKY_CASE,"gefr honum mann , segir Haukr.","gefr hann mann , segir Haukr.",honum,dative_to_nominative
+ON_QUIRKY_CASE_065,QUIRKY_CASE,Hér gefr okkr stóran brand.,Hér gefr vit stóran brand.,okkr,dative_to_nominative
+ON_QUIRKY_CASE_066,QUIRKY_CASE,Baldr gefr yðr góðan jarl.,Baldr gefr þér góðan jarl.,yðr,dative_to_nominative
+ON_QUIRKY_CASE_067,QUIRKY_CASE,Nú sýnir Haukr oss jarl.,Nú sýnir Haukr vér jarl.,oss,dative_to_nominative
+ON_QUIRKY_CASE_068,QUIRKY_CASE,Haukr sýnir henni víking.,Haukr sýnir hon víking.,henni,dative_to_nominative
+ON_QUIRKY_CASE_069,QUIRKY_CASE,Þá gefr þeim draug.,Þá gefr þeir draug.,þeim,dative_to_nominative
+ON_QUIRKY_CASE_070,QUIRKY_CASE,Þá sýnir mér jarl.,Þá sýnir ek jarl.,mér,dative_to_nominative
+ON_QUIRKY_CASE_071,QUIRKY_CASE,Þeir sýnir þér marga dverga.,Þeir sýnir þú marga dverga.,þér,dative_to_nominative
+ON_QUIRKY_CASE_072,QUIRKY_CASE,Njáll býðr þér brand.,Njáll býðr þú brand.,þér,dative_to_nominative
+ON_QUIRKY_CASE_073,QUIRKY_CASE,trúir hánum dverg Óðinn.,trúir hann dverg Óðinn.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_074,QUIRKY_CASE,Þeir býðr mér marga orma.,Þeir býðr ek marga orma.,mér,dative_to_nominative
+ON_QUIRKY_CASE_075,QUIRKY_CASE,"býðr þeim hest , segir Ragnarr.","býðr þeir hest , segir Ragnarr.",þeim,dative_to_nominative
+ON_QUIRKY_CASE_076,QUIRKY_CASE,Þórr konungr hjálpar okkr mann.,Þórr konungr hjálpar vit mann.,okkr,dative_to_nominative
+ON_QUIRKY_CASE_077,QUIRKY_CASE,Jarl sýnir yðr hest ok mælir.,Jarl sýnir þér hest ok mælir.,yðr,dative_to_nominative
+ON_QUIRKY_CASE_078,QUIRKY_CASE,Haukr konungr trúir því víking.,Haukr konungr trúir þat víking.,því,dative_to_nominative
+ON_QUIRKY_CASE_079,QUIRKY_CASE,Svartr konungr fœrir þér dverg.,Svartr konungr fœrir þú dverg.,þér,dative_to_nominative
+ON_QUIRKY_CASE_080,QUIRKY_CASE,Jarl gefr okkr konung ok mælir.,Jarl gefr vit konung ok mælir.,okkr,dative_to_nominative
+ON_QUIRKY_CASE_081,QUIRKY_CASE,Nú hjálpar Njáll þeim orm.,Nú hjálpar Njáll þeir orm.,þeim,dative_to_nominative
+ON_QUIRKY_CASE_082,QUIRKY_CASE,Hér býðr því stóran orm.,Hér býðr þat stóran orm.,því,dative_to_nominative
+ON_QUIRKY_CASE_083,QUIRKY_CASE,"sýnir honum konung , segir Sigurðr.","sýnir hann konung , segir Sigurðr.",honum,dative_to_nominative
+ON_QUIRKY_CASE_084,QUIRKY_CASE,Þá hjálpar mér víking.,Þá hjálpar ek víking.,mér,dative_to_nominative
+ON_QUIRKY_CASE_085,QUIRKY_CASE,"fœrir yðr víking , segir Skarpheðinn.","fœrir þér víking , segir Skarpheðinn.",yðr,dative_to_nominative
+ON_QUIRKY_CASE_086,QUIRKY_CASE,"segir hánum hauk , segir Ragnarr.","segir hann hauk , segir Ragnarr.",hánum,dative_to_nominative
+ON_QUIRKY_CASE_087,QUIRKY_CASE,Gunnarr trúir mér góðan hjálm.,Gunnarr trúir ek góðan hjálm.,mér,dative_to_nominative
+ON_QUIRKY_CASE_088,QUIRKY_CASE,Nú býðr Flosi hánum hauk.,Nú býðr Flosi hann hauk.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_089,QUIRKY_CASE,Nú sýnir Eiríkr okkr konung.,Nú sýnir Eiríkr vit konung.,okkr,dative_to_nominative
+ON_QUIRKY_CASE_090,QUIRKY_CASE,"sýnir hánum hauk , segir Kormákr.","sýnir hann hauk , segir Kormákr.",hánum,dative_to_nominative
+ON_QUIRKY_CASE_091,QUIRKY_CASE,Hér hjálpar henni stóran dverg.,Hér hjálpar hon stóran dverg.,henni,dative_to_nominative
+ON_QUIRKY_CASE_092,QUIRKY_CASE,Þá fœrir hánum hauk.,Þá fœrir hann hauk.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_093,QUIRKY_CASE,Jarl hjálpar þér hauk ok mælir.,Jarl hjálpar þú hauk ok mælir.,þér,dative_to_nominative
+ON_QUIRKY_CASE_094,QUIRKY_CASE,Sigurðr sýnir hánum dverg.,Sigurðr sýnir hann dverg.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_095,QUIRKY_CASE,sýnir okkr orm Svartr.,sýnir vit orm Svartr.,okkr,dative_to_nominative
+ON_QUIRKY_CASE_096,QUIRKY_CASE,Hér býðr yðr stóran dverg.,Hér býðr þér stóran dverg.,yðr,dative_to_nominative
+ON_QUIRKY_CASE_097,QUIRKY_CASE,Hér fœrir þér stóran jarl.,Hér fœrir þú stóran jarl.,þér,dative_to_nominative
+ON_QUIRKY_CASE_098,QUIRKY_CASE,Njáll konungr býðr oss baug.,Njáll konungr býðr vér baug.,oss,dative_to_nominative
+ON_QUIRKY_CASE_099,QUIRKY_CASE,Jarl segir hánum hauk ok mælir.,Jarl segir hann hauk ok mælir.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_100,QUIRKY_CASE,Þá sýnir oss hauk.,Þá sýnir vér hauk.,oss,dative_to_nominative
+ON_QUIRKY_CASE_101,QUIRKY_CASE,Hér býðr þeim stóran hauk.,Hér býðr þeir stóran hauk.,þeim,dative_to_nominative
+ON_QUIRKY_CASE_102,QUIRKY_CASE,Þá trúir honum hjálm.,Þá trúir hann hjálm.,honum,dative_to_nominative
+ON_QUIRKY_CASE_103,QUIRKY_CASE,Þeir hjálpar hánum marga hauka.,Þeir hjálpar hann marga hauka.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_104,QUIRKY_CASE,Hér sýnir oss stóran orm.,Hér sýnir vér stóran orm.,oss,dative_to_nominative
+ON_QUIRKY_CASE_105,QUIRKY_CASE,Jarl trúir þér draug ok mælir.,Jarl trúir þú draug ok mælir.,þér,dative_to_nominative
+ON_QUIRKY_CASE_106,QUIRKY_CASE,Þeir trúir því marga úlfa.,Þeir trúir þat marga úlfa.,því,dative_to_nominative
+ON_QUIRKY_CASE_107,QUIRKY_CASE,"býðr þér hauk , segir Óláfr.","býðr þú hauk , segir Óláfr.",þér,dative_to_nominative
+ON_QUIRKY_CASE_108,QUIRKY_CASE,Hér sýnir henni stóran víking.,Hér sýnir hon stóran víking.,henni,dative_to_nominative
+ON_QUIRKY_CASE_109,QUIRKY_CASE,Jarl býðr okkr brand ok mælir.,Jarl býðr vit brand ok mælir.,okkr,dative_to_nominative
+ON_QUIRKY_CASE_110,QUIRKY_CASE,Þá hjálpar oss dverg.,Þá hjálpar vér dverg.,oss,dative_to_nominative
+ON_QUIRKY_CASE_111,QUIRKY_CASE,"trúir hánum hest , segir Gunnarr.","trúir hann hest , segir Gunnarr.",hánum,dative_to_nominative
+ON_QUIRKY_CASE_112,QUIRKY_CASE,fœrir henni hest Haukr.,fœrir hon hest Haukr.,henni,dative_to_nominative
+ON_QUIRKY_CASE_113,QUIRKY_CASE,Flosi trúir henni konung.,Flosi trúir hon konung.,henni,dative_to_nominative
+ON_QUIRKY_CASE_114,QUIRKY_CASE,býðr þér mann Haukr.,býðr þú mann Haukr.,þér,dative_to_nominative
+ON_QUIRKY_CASE_115,QUIRKY_CASE,Nú trúir Kormákr honum draug.,Nú trúir Kormákr hann draug.,honum,dative_to_nominative
+ON_QUIRKY_CASE_116,QUIRKY_CASE,Nú segir Skarpheðinn því hjálm.,Nú segir Skarpheðinn þat hjálm.,því,dative_to_nominative
+ON_QUIRKY_CASE_117,QUIRKY_CASE,Njáll konungr gefr yðr hauk.,Njáll konungr gefr þér hauk.,yðr,dative_to_nominative
+ON_QUIRKY_CASE_118,QUIRKY_CASE,Sigurðr fœrir oss jarl.,Sigurðr fœrir vér jarl.,oss,dative_to_nominative
+ON_QUIRKY_CASE_119,QUIRKY_CASE,Nú trúir Flosi hánum baug.,Nú trúir Flosi hann baug.,hánum,dative_to_nominative
+ON_QUIRKY_CASE_120,QUIRKY_CASE,Hér sýnir þeim stóran orm.,Hér sýnir þeir stóran orm.,þeim,dative_to_nominative
+ON_QUIRKY_CASE_121,QUIRKY_CASE,Þá fœrir þeim draug.,Þá fœrir þeir draug.,þeim,dative_to_nominative
+ON_QUIRKY_CASE_122,QUIRKY_CASE,gefr henni mann Njáll.,gefr hon mann Njáll.,henni,dative_to_nominative
+ON_QUIRKY_CASE_123,QUIRKY_CASE,Hér trúir honum stóran jarl.,Hér trúir hann stóran jarl.,honum,dative_to_nominative
+ON_QUIRKY_CASE_124,QUIRKY_CASE,"segir þér hest , segir Svartr.","segir þú hest , segir Svartr.",þér,dative_to_nominative
+ON_QUIRKY_CASE_125,QUIRKY_CASE,Jarl gefr þeim baug ok mælir.,Jarl gefr þeir baug ok mælir.,þeim,dative_to_nominative
+ON_UMLAUT_001,UMLAUT,Sá maðr er mönnum ókunnr at sýn .,Sá maðr er mannum ókunnr at sýn .,mönnum,umlaut_removed
+ON_UMLAUT_002,UMLAUT,Öllum mönnum fellust kveðjur við þenna mann .,Allum mönnum fellust kveðjur við þenna mann .,Öllum,umlaut_removed
+ON_UMLAUT_003,UMLAUT,"Síðan gengu til inir göfgustu menn fyrst , en þá hverr at öðrum .","Síðan gengu til inir göfgustu menn fyrst , en þá hverr at aðrum .",öðrum,umlaut_removed
+ON_UMLAUT_004,UMLAUT,"Þetta vápn sýndist öllum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .","Þetta vápn sýndist allum svá gott , at engi þóttist sét hafa jafngott sverð , ok býðr Siggeirr honum at vega þrjú jafnvægi gulls .",öllum,umlaut_removed
+ON_UMLAUT_005,UMLAUT,Hann gerist stórlyndr ok vinsæll ok fyrir flestum mönnum öðrum at allri atgervi .,Hann gerist stórlyndr ok vinsæll ok fyrir flestum mannum öðrum at allri atgervi .,mönnum,umlaut_removed
+ON_UMLAUT_006,UMLAUT,Hann var ríkr konungr ok fjölmennr ok réð fyrir löndum .,Hann var ríkr konungr ok fjölmennr ok réð fyrir landum .,löndum,umlaut_removed
+ON_UMLAUT_007,UMLAUT,Eptir þetta sendir Helgi menn með fégjöfum at stefna at sér mönnum ok stefnir öllu liðinu til Rauðabjarga .,Eptir þetta sendir Helgi menn með fégjöfum at stefna at sér mannum ok stefnir öllu liðinu til Rauðabjarga .,mönnum,umlaut_removed
+ON_UMLAUT_008,UMLAUT,Skipt mun nú löndum .,Skipt mun nú landum .,löndum,umlaut_removed
+ON_UMLAUT_009,UMLAUT,Borghildr bar mönnum drykk .,Borghildr bar mannum drykk .,mönnum,umlaut_removed
+ON_UMLAUT_010,UMLAUT,Var þar annan dag öðrum betr veitt eða með meira kappi .,Var þar annan dag aðrum betr veitt eða með meira kappi .,öðrum,umlaut_removed
+ON_UMLAUT_011,UMLAUT,Konungr segir : `` Öðrum er þat ætlat .,Konungr segir : `` Aðrum er þat ætlat .,Öðrum,umlaut_removed
+ON_UMLAUT_012,UMLAUT,Annan dag eptir fór Sigurðr til skógar ok mætir einum gömlum manni með síðu skeggi .,Annan dag eptir fór Sigurðr til skógar ok mætir einum gamlum manni með síðu skeggi .,gömlum,umlaut_removed
+ON_UMLAUT_013,UMLAUT,"Hann mælti : `` Förum ok rekum til árinnar , er Busiltjörn heitir . ''","Hann mælti : `` Farum ok rekum til árinnar , er Busiltjörn heitir . ''",Förum,umlaut_removed
+ON_UMLAUT_014,UMLAUT,"Þá mælti Sigurðr : `` Hvárt höfum vér rétt til spurt , at Sigmundr konungr seldi yðr sverðit Gram í tveim hlutum ? ''","Þá mælti Sigurðr : `` Hvárt hafum vér rétt til spurt , at Sigmundr konungr seldi yðr sverðit Gram í tveim hlutum ? ''",höfum,umlaut_removed
+ON_UMLAUT_015,UMLAUT,"Sigurðr svarar : `` Efna munu vér þat , sem vér höfum þar um heitit , ok ekki fellr oss þat ór minni . ''","Sigurðr svarar : `` Efna munu vér þat , sem vér hafum þar um heitit , ok ekki fellr oss þat ór minni . ''",höfum,umlaut_removed
+ON_UMLAUT_016,UMLAUT,Sigurðr svarar : `` Ætt mín er mönnum ókunnig .,Sigurðr svarar : `` Ætt mín er mannum ókunnig .,mönnum,umlaut_removed
+ON_UMLAUT_017,UMLAUT,"Sigurðr gekk í skjaldborgina ok sá , at þar svaf maðr ok lá með öllum hervápnum .","Sigurðr gekk í skjaldborgina ok sá , at þar svaf maðr ok lá með allum hervápnum .",öllum,umlaut_removed
+ON_UMLAUT_018,UMLAUT,"Þeir undu sér nú vel , ok var hvárr öðrum hollr .","Þeir undu sér nú vel , ok var hvárr aðrum hollr .",öðrum,umlaut_removed
+ON_UMLAUT_019,UMLAUT,"Báru þau börn mjök af öðrum konunga börnum um alla atgervi , bæði um vænleik ok vöxt .","Báru þau börn mjök af aðrum konunga börnum um alla atgervi , bæði um vænleik ok vöxt .",öðrum,umlaut_removed
+ON_UMLAUT_020,UMLAUT,"Ok er sén er ferð þeira , þá er Brynhildi sagt , at margar konur óku at borginni með gylltum vögnum .","Ok er sén er ferð þeira , þá er Brynhildi sagt , at margar konur óku at borginni með gylltum vagnum .",vögnum,umlaut_removed
+ON_UMLAUT_021,UMLAUT,"`` Mik dreymdi um hana í nótt , ok göngum út í mót henni .","`` Mik dreymdi um hana í nótt , ok gangum út í mót henni .",göngum,umlaut_removed
+ON_UMLAUT_022,UMLAUT,Hann bar langt af öðrum dýrum .,Hann bar langt af aðrum dýrum .,öðrum,umlaut_removed
+ON_UMLAUT_023,UMLAUT,Dýrit þótti mér öllum hlutum betra .,Dýrit þótti mér allum hlutum betra .,öllum,umlaut_removed
+ON_UMLAUT_024,UMLAUT,"Grímhildr gefr honum meinblandinn mjöð , er öllum oss kemr í mikit stríð .","Grímhildr gefr honum meinblandinn mjöð , er allum oss kemr í mikit stríð .",öllum,umlaut_removed
+ON_UMLAUT_025,UMLAUT,Hann ríðr Grana með öllum sínum herbúnaði ok farmi .,Hann ríðr Grana með allum sínum herbúnaði ok farmi .,öllum,umlaut_removed
+ON_UMLAUT_026,UMLAUT,"Hann er langt um aðra menn fram , en sjálfr berr hann þó mest af öðrum mönnum . ''","Hann er langt um aðra menn fram , en sjálfr berr hann þó mest af aðrum mönnum . ''",öðrum,umlaut_removed
+ON_UMLAUT_027,UMLAUT,"Mátti þar sjá margs konar gleði ok skemmtan , ok var hvern dag veitt öðrum betr .","Mátti þar sjá margs konar gleði ok skemmtan , ok var hvern dag veitt aðrum betr .",öðrum,umlaut_removed
+ON_UMLAUT_028,UMLAUT,"Brynhildr svarar : `` Hún veldr öllum upphöfum þess böls , er oss bítr .","Brynhildr svarar : `` Hún veldr allum upphöfum þess böls , er oss bítr .",öllum,umlaut_removed
+ON_UMLAUT_029,UMLAUT,"Þá mælti Guðrún til sinnar vinkonu : `` Stattu upp , vér höfum lengi sofit .","Þá mælti Guðrún til sinnar vinkonu : `` Stattu upp , vér hafum lengi sofit .",höfum,umlaut_removed
+ON_UMLAUT_030,UMLAUT,"Vek Brynhildi , göngum til borða ok verum kátar . ''","Vek Brynhildi , gangum til borða ok verum kátar . ''",göngum,umlaut_removed
+ON_UMLAUT_031,UMLAUT,"Þú berr af öllum mönnum , en þér hefir engi kona orðit leiðari en ek . ''","Þú berr af allum mönnum , en þér hefir engi kona orðit leiðari en ek . ''",öllum,umlaut_removed
+ON_UMLAUT_032,UMLAUT,"Ok nú er þat fram komit , er fyrir löngu var spát ok vér höfum dulizt við , en engi má við sköpum vinna .","Ok nú er þat fram komit , er fyrir löngu var spát ok vér hafum dulizt við , en engi má við sköpum vinna .",höfum,umlaut_removed
+ON_UMLAUT_033,UMLAUT,"Þeir fóru með öllum herbúnaði ok höfðu yfir sér loða rauða , sem kveðit er :","Þeir fóru með allum herbúnaði ok höfðu yfir sér loða rauða , sem kveðit er :",öllum,umlaut_removed
+ON_UMLAUT_034,UMLAUT,Guðrún segir : `` Ekki má ek af honum hyggja ; hann var öllum fremri . '',Guðrún segir : `` Ekki má ek af honum hyggja ; hann var allum fremri . '',öllum,umlaut_removed
+ON_UMLAUT_035,UMLAUT,"Þá mælti ráðgjafi Atla konungs : `` Sé ek betra ráð : Tökum heldr þrælinn Hjalla , en forðum Högna .","Þá mælti ráðgjafi Atla konungs : `` Sé ek betra ráð : Takum heldr þrælinn Hjalla , en forðum Högna .",Tökum,umlaut_removed
+ON_UMLAUT_036,UMLAUT,Þeir svöruðu : `` Ráða muntu börnum þínum sem þú vilt .,Þeir svöruðu : `` Ráða muntu barnum þínum sem þú vilt .,börnum,umlaut_removed
+ON_UMLAUT_037,UMLAUT,"Atli konungr svarar : `` Eigi er þat satt , ok við slíkar fortölur batnar hvárigra hluti , því at vér höfum skarðan .","Atli konungr svarar : `` Eigi er þat satt , ok við slíkar fortölur batnar hvárigra hluti , því at vér hafum skarðan .",höfum,umlaut_removed
+ON_UMLAUT_038,UMLAUT,"Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í öllum fornkvæðum .","Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í allum fornkvæðum .",öllum,umlaut_removed
+ON_UMLAUT_039,UMLAUT,Hún bar svá mjök af öðrum konum um vænleik sem sól af öðrum himintunglum .,Hún bar svá mjök af aðrum konum um vænleik sem sól af öðrum himintunglum .,öðrum,umlaut_removed
+ON_UMLAUT_040,UMLAUT,"Svá var ok gert , ok þá flugu ór öllum áttum steinar at þeim , ok varð þeim þat at aldrlagi .","Svá var ok gert , ok þá flugu ór allum áttum steinar at þeim , ok varð þeim þat at aldrlagi .",öllum,umlaut_removed
+ON_UMLAUT_041,UMLAUT,Konungr gefr höfum gull.,Konungr gefr hafum gull.,höfum,umlaut_removed
+ON_UMLAUT_042,UMLAUT,Þeir gefa köllum mat.,Þeir gefa kallum mat.,köllum,umlaut_removed
+ON_UMLAUT_043,UMLAUT,Þeir gefa öllum mat.,Þeir gefa allum mat.,öllum,umlaut_removed
+ON_UMLAUT_044,UMLAUT,Þeir fara til mönnum.,Þeir fara til mannum.,mönnum,umlaut_removed
+ON_UMLAUT_045,UMLAUT,Vér löngum heim ok hvílumsk.,Vér langum heim ok hvílumsk.,löngum,umlaut_removed
+ON_UMLAUT_046,UMLAUT,Ragnarr gefr rögum baug.,Ragnarr gefr ragum baug.,rögum,umlaut_removed
+ON_UMLAUT_047,UMLAUT,Þeir fara til förum.,Þeir fara til farum.,förum,umlaut_removed
+ON_UMLAUT_048,UMLAUT,Baldr segir mörgum frá því.,Baldr segir margum frá því.,mörgum,umlaut_removed
+ON_UMLAUT_049,UMLAUT,Þeir fara til jörlum.,Þeir fara til jarlum.,jörlum,umlaut_removed
+ON_UMLAUT_050,UMLAUT,Konungr gefr öllum gull.,Konungr gefr allum gull.,öllum,umlaut_removed
+ON_UMLAUT_051,UMLAUT,Vér köllum heim ok hvílumsk.,Vér kallum heim ok hvílumsk.,köllum,umlaut_removed
+ON_UMLAUT_052,UMLAUT,Skarpheðinn segir mörgum frá því.,Skarpheðinn segir margum frá því.,mörgum,umlaut_removed
+ON_UMLAUT_053,UMLAUT,Vér mörgum hér ok bíðum.,Vér margum hér ok bíðum.,mörgum,umlaut_removed
+ON_UMLAUT_054,UMLAUT,Vér tökum hér ok bíðum.,Vér takum hér ok bíðum.,tökum,umlaut_removed
+ON_UMLAUT_055,UMLAUT,Vér mönnum hér ok bíðum.,Vér mannum hér ok bíðum.,mönnum,umlaut_removed
+ON_UMLAUT_056,UMLAUT,Þeir fara til glöðum.,Þeir fara til glaðum.,glöðum,umlaut_removed
+ON_UMLAUT_057,UMLAUT,Konungr gefr löngum gull.,Konungr gefr langum gull.,löngum,umlaut_removed
+ON_UMLAUT_058,UMLAUT,Þeir mæla við jörlum.,Þeir mæla við jarlum.,jörlum,umlaut_removed
+ON_UMLAUT_059,UMLAUT,Þeir gefa stöndum mat.,Þeir gefa standum mat.,stöndum,umlaut_removed
+ON_UMLAUT_060,UMLAUT,Þeir mæla við glöðum.,Þeir mæla við glaðum.,glöðum,umlaut_removed
+ON_UMLAUT_061,UMLAUT,Konungr gefr mönnum gull.,Konungr gefr mannum gull.,mönnum,umlaut_removed
+ON_UMLAUT_062,UMLAUT,Vér mönnum nú til skógar.,Vér mannum nú til skógar.,mönnum,umlaut_removed
+ON_UMLAUT_063,UMLAUT,Konungr gefr rögum gull.,Konungr gefr ragum gull.,rögum,umlaut_removed
+ON_UMLAUT_064,UMLAUT,Þeir mæla við vöngum.,Þeir mæla við vangum.,vöngum,umlaut_removed
+ON_UMLAUT_065,UMLAUT,Þeir mæla við öðrum.,Þeir mæla við aðrum.,öðrum,umlaut_removed
+ON_UMLAUT_066,UMLAUT,Þórr segir rögum frá því.,Þórr segir ragum frá því.,rögum,umlaut_removed
+ON_UMLAUT_067,UMLAUT,Sigurðr gefr vöngum baug.,Sigurðr gefr vangum baug.,vöngum,umlaut_removed
+ON_UMLAUT_068,UMLAUT,Þeir mæla við höfum.,Þeir mæla við hafum.,höfum,umlaut_removed
+ON_UMLAUT_069,UMLAUT,Baldr segir öllum frá því.,Baldr segir allum frá því.,öllum,umlaut_removed
+ON_UMLAUT_070,UMLAUT,Vér höfum heim ok hvílumsk.,Vér hafum heim ok hvílumsk.,höfum,umlaut_removed
+ON_UMLAUT_071,UMLAUT,Þeir gefa rögum mat.,Þeir gefa ragum mat.,rögum,umlaut_removed
+ON_UMLAUT_072,UMLAUT,Vér göngum nú til skógar.,Vér gangum nú til skógar.,göngum,umlaut_removed
+ON_UMLAUT_073,UMLAUT,Haukr gefr öllum baug.,Haukr gefr allum baug.,öllum,umlaut_removed
+ON_UMLAUT_074,UMLAUT,Konungr gefr stöndum gull.,Konungr gefr standum gull.,stöndum,umlaut_removed
+ON_UMLAUT_075,UMLAUT,Vér öðrum nú til skógar.,Vér aðrum nú til skógar.,öðrum,umlaut_removed
+ON_UMLAUT_076,UMLAUT,Óðinn segir stöndum frá því.,Óðinn segir standum frá því.,stöndum,umlaut_removed
+ON_UMLAUT_077,UMLAUT,Baldr segir tökum frá því.,Baldr segir takum frá því.,tökum,umlaut_removed
+ON_UMLAUT_078,UMLAUT,Vér öllum ok sjám Flosi.,Vér allum ok sjám Flosi.,öllum,umlaut_removed
+ON_UMLAUT_079,UMLAUT,Þeir mæla við göngum.,Þeir mæla við gangum.,göngum,umlaut_removed
+ON_UMLAUT_080,UMLAUT,Óláfr segir göngum frá því.,Óláfr segir gangum frá því.,göngum,umlaut_removed
+ON_UMLAUT_081,UMLAUT,Haukr segir göngum frá því.,Haukr segir gangum frá því.,göngum,umlaut_removed
+ON_UMLAUT_082,UMLAUT,Vér förum hér ok bíðum.,Vér farum hér ok bíðum.,förum,umlaut_removed
+ON_UMLAUT_083,UMLAUT,Vér glöðum heim ok hvílumsk.,Vér glaðum heim ok hvílumsk.,glöðum,umlaut_removed
+ON_UMLAUT_084,UMLAUT,Vér öllum hér ok bíðum.,Vér allum hér ok bíðum.,öllum,umlaut_removed
+ON_UMLAUT_085,UMLAUT,Vér mörgum nú til skógar.,Vér margum nú til skógar.,mörgum,umlaut_removed
+ON_UMLAUT_086,UMLAUT,Vér öllum heim ok hvílumsk.,Vér allum heim ok hvílumsk.,öllum,umlaut_removed
+ON_UMLAUT_087,UMLAUT,Þeir mæla við öllum.,Þeir mæla við allum.,öllum,umlaut_removed
+ON_UMLAUT_088,UMLAUT,Þeir gefa göngum mat.,Þeir gefa gangum mat.,göngum,umlaut_removed
+ON_UMLAUT_089,UMLAUT,Þeir gefa öðrum mat.,Þeir gefa aðrum mat.,öðrum,umlaut_removed
+ON_UMLAUT_090,UMLAUT,Vér öðrum ok sjám Flosi.,Vér aðrum ok sjám Flosi.,öðrum,umlaut_removed
+ON_UMLAUT_091,UMLAUT,Þeir mæla við mönnum.,Þeir mæla við mannum.,mönnum,umlaut_removed
+ON_UMLAUT_092,UMLAUT,Þeir fara til vöngum.,Þeir fara til vangum.,vöngum,umlaut_removed
+ON_UMLAUT_093,UMLAUT,Þeir fara til öllum.,Þeir fara til allum.,öllum,umlaut_removed
+ON_UMLAUT_094,UMLAUT,Þórr segir stöndum frá því.,Þórr segir standum frá því.,stöndum,umlaut_removed
+ON_UMLAUT_095,UMLAUT,Vér öðrum heim ok hvílumsk.,Vér aðrum heim ok hvílumsk.,öðrum,umlaut_removed
+ON_UMLAUT_096,UMLAUT,Óðinn gefr vöngum baug.,Óðinn gefr vangum baug.,vöngum,umlaut_removed
+ON_UMLAUT_097,UMLAUT,Þeir mæla við köllum.,Þeir mæla við kallum.,köllum,umlaut_removed
+ON_UMLAUT_098,UMLAUT,Vér glöðum hér ok bíðum.,Vér glaðum hér ok bíðum.,glöðum,umlaut_removed
+ON_UMLAUT_099,UMLAUT,Sigurðr segir rögum frá því.,Sigurðr segir ragum frá því.,rögum,umlaut_removed
+ON_UMLAUT_100,UMLAUT,Vér jörlum ok sjám Baldr.,Vér jarlum ok sjám Baldr.,jörlum,umlaut_removed
+ON_UMLAUT_101,UMLAUT,Þeir gefa mönnum mat.,Þeir gefa mannum mat.,mönnum,umlaut_removed
+ON_UMLAUT_102,UMLAUT,Vér jörlum hér ok bíðum.,Vér jarlum hér ok bíðum.,jörlum,umlaut_removed
+ON_UMLAUT_103,UMLAUT,Vér göngum hér ok bíðum.,Vér gangum hér ok bíðum.,göngum,umlaut_removed
+ON_UMLAUT_104,UMLAUT,Flosi segir löngum frá því.,Flosi segir langum frá því.,löngum,umlaut_removed
+ON_UMLAUT_105,UMLAUT,Þórr segir göngum frá því.,Þórr segir gangum frá því.,göngum,umlaut_removed
+ON_UMLAUT_106,UMLAUT,Vér jörlum heim ok hvílumsk.,Vér jarlum heim ok hvílumsk.,jörlum,umlaut_removed
+ON_UMLAUT_107,UMLAUT,Haukr segir förum frá því.,Haukr segir farum frá því.,förum,umlaut_removed
+ON_UMLAUT_108,UMLAUT,Þeir mæla við förum.,Þeir mæla við farum.,förum,umlaut_removed
+ON_UMLAUT_109,UMLAUT,Kormákr gefr jörlum baug.,Kormákr gefr jarlum baug.,jörlum,umlaut_removed
+ON_UMLAUT_110,UMLAUT,Þeir gefa tökum mat.,Þeir gefa takum mat.,tökum,umlaut_removed
+ON_UMLAUT_111,UMLAUT,Þeir gefa glöðum mat.,Þeir gefa glaðum mat.,glöðum,umlaut_removed
+ON_UMLAUT_112,UMLAUT,Þeir gefa löngum mat.,Þeir gefa langum mat.,löngum,umlaut_removed
+ON_UMLAUT_113,UMLAUT,Óláfr segir tökum frá því.,Óláfr segir takum frá því.,tökum,umlaut_removed
+ON_UMLAUT_114,UMLAUT,Vér mörgum heim ok hvílumsk.,Vér margum heim ok hvílumsk.,mörgum,umlaut_removed
+ON_UMLAUT_115,UMLAUT,Þeir mæla við rögum.,Þeir mæla við ragum.,rögum,umlaut_removed
+ON_UMLAUT_116,UMLAUT,Vér mörgum ok sjám Kormákr.,Vér margum ok sjám Kormákr.,mörgum,umlaut_removed
+ON_UMLAUT_117,UMLAUT,Þeir mæla við löngum.,Þeir mæla við langum.,löngum,umlaut_removed
+ON_UMLAUT_118,UMLAUT,Vér göngum heim ok hvílumsk.,Vér gangum heim ok hvílumsk.,göngum,umlaut_removed
+ON_UMLAUT_119,UMLAUT,Sigurðr segir öðrum frá því.,Sigurðr segir aðrum frá því.,öðrum,umlaut_removed
+ON_UMLAUT_120,UMLAUT,Njáll gefr köllum baug.,Njáll gefr kallum baug.,köllum,umlaut_removed
+ON_UMLAUT_121,UMLAUT,Vér öðrum ok sjám Haukr.,Vér aðrum ok sjám Haukr.,öðrum,umlaut_removed
+ON_UMLAUT_122,UMLAUT,Ragnarr gefr köllum baug.,Ragnarr gefr kallum baug.,köllum,umlaut_removed
+ON_UMLAUT_123,UMLAUT,Konungr gefr förum gull.,Konungr gefr farum gull.,förum,umlaut_removed
+ON_UMLAUT_124,UMLAUT,Vér stöndum ok sjám Óðinn.,Vér standum ok sjám Óðinn.,stöndum,umlaut_removed
+ON_UMLAUT_125,UMLAUT,Konungr gefr tökum gull.,Konungr gefr takum gull.,tökum,umlaut_removed
+ON_MIDDLE_VOICE_001,MIDDLE_VOICE,"Sigurðr mælti : `` Aldri finnst þér vitrari kona í veröldu , ok kenn ek fleiri spekiráð . ''","Sigurðr mælti : `` Aldri finnr þér vitrari kona í veröldu , ok kenn ek fleiri spekiráð . ''",finnst,middle_voice_removed
+ON_MIDDLE_VOICE_002,MIDDLE_VOICE,Henni finnst engi kona huglausari né verri . '',Henni finnr engi kona huglausari né verri . '',finnst,middle_voice_removed
+ON_MIDDLE_VOICE_003,MIDDLE_VOICE,Mér sýnist sem hans ást sé þér gulli betri . '',Mér sýnir sem hans ást sé þér gulli betri . '',sýnist,middle_voice_removed
+ON_MIDDLE_VOICE_004,MIDDLE_VOICE,"Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnst í öllum fornkvæðum .","Völsungar ok Gjúkungar , at því er menn segja , hafa verit mestir ofrhugar ok ríkismenn , ok svá finnr í öllum fornkvæðum .",finnst,middle_voice_removed
+ON_MIDDLE_VOICE_005,MIDDLE_VOICE,Þeir fundusk um daginn.,Þeir fundu um daginn.,fundusk,middle_voice_removed
+ON_MIDDLE_VOICE_006,MIDDLE_VOICE,Eiríkr ok jarl takask þar.,Eiríkr ok jarl taka þar.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_007,MIDDLE_VOICE,Þeir takask um daginn.,Þeir taka um daginn.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_008,MIDDLE_VOICE,Menn finnask við ána.,Menn finna við ána.,finnask,middle_voice_removed
+ON_MIDDLE_VOICE_009,MIDDLE_VOICE,Menn hittust ok berjask.,Menn hittu ok berjask.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_010,MIDDLE_VOICE,Njáll hittask ríkr maðr.,Njáll hitta ríkr maðr.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_011,MIDDLE_VOICE,Þeir hittust ok mæla saman.,Þeir hittu ok mæla saman.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_012,MIDDLE_VOICE,Þeir setjask í bardaga.,Þeir setja í bardaga.,setjask,middle_voice_removed
+ON_MIDDLE_VOICE_013,MIDDLE_VOICE,Óðinn tókusk konungr.,Óðinn tóku konungr.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_014,MIDDLE_VOICE,Víkingar takask á hólminum.,Víkingar taka á hólminum.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_015,MIDDLE_VOICE,Þeir kallask í bardaga.,Þeir kalla í bardaga.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_016,MIDDLE_VOICE,Eiríkr gerðusk við Þórr.,Eiríkr gerðu við Þórr.,gerðusk,middle_voice_removed
+ON_MIDDLE_VOICE_017,MIDDLE_VOICE,Menn kallast í skóginum.,Menn kallar í skóginum.,kallast,middle_voice_removed
+ON_MIDDLE_VOICE_018,MIDDLE_VOICE,Menn takask við ána.,Menn taka við ána.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_019,MIDDLE_VOICE,Menn takask í skóginum.,Menn taka í skóginum.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_020,MIDDLE_VOICE,Þeir finnask um daginn.,Þeir finna um daginn.,finnask,middle_voice_removed
+ON_MIDDLE_VOICE_021,MIDDLE_VOICE,Menn hittask við ána.,Menn hitta við ána.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_022,MIDDLE_VOICE,Þeir settust ok mæla saman.,Þeir settu ok mæla saman.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_023,MIDDLE_VOICE,Menn gerask í skóginum.,Menn gera í skóginum.,gerask,middle_voice_removed
+ON_MIDDLE_VOICE_024,MIDDLE_VOICE,Menn settust ok berjask.,Menn settu ok berjask.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_025,MIDDLE_VOICE,Menn finnst í skóginum.,Menn finnr í skóginum.,finnst,middle_voice_removed
+ON_MIDDLE_VOICE_026,MIDDLE_VOICE,Konungar leggjask í Noregi.,Konungar leggja í Noregi.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_027,MIDDLE_VOICE,Þeir tókusk í morgin.,Þeir tóku í morgin.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_028,MIDDLE_VOICE,Flosi kallast konungr.,Flosi kallar konungr.,kallast,middle_voice_removed
+ON_MIDDLE_VOICE_029,MIDDLE_VOICE,Kormákr ok Skarpheðinn börðusk þar.,Kormákr ok Skarpheðinn börðu þar.,börðusk,middle_voice_removed
+ON_MIDDLE_VOICE_030,MIDDLE_VOICE,Menn leggjask við ána.,Menn leggja við ána.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_031,MIDDLE_VOICE,Menn tókusk við ána.,Menn tóku við ána.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_032,MIDDLE_VOICE,Sigurðr ok Njáll fundusk þar.,Sigurðr ok Njáll fundu þar.,fundusk,middle_voice_removed
+ON_MIDDLE_VOICE_033,MIDDLE_VOICE,Menn leggjask ok berjask.,Menn leggja ok berjask.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_034,MIDDLE_VOICE,Konungar börðusk í Noregi.,Konungar börðu í Noregi.,börðusk,middle_voice_removed
+ON_MIDDLE_VOICE_035,MIDDLE_VOICE,Þórr kallast ríkr maðr.,Þórr kallar ríkr maðr.,kallast,middle_voice_removed
+ON_MIDDLE_VOICE_036,MIDDLE_VOICE,Njáll tókusk við Sigurðr.,Njáll tóku við Sigurðr.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_037,MIDDLE_VOICE,Þeir setjask um daginn.,Þeir setja um daginn.,setjask,middle_voice_removed
+ON_MIDDLE_VOICE_038,MIDDLE_VOICE,Víkingar gerask á hólminum.,Víkingar gera á hólminum.,gerask,middle_voice_removed
+ON_MIDDLE_VOICE_039,MIDDLE_VOICE,Ragnarr kallask ríkr maðr.,Ragnarr kalla ríkr maðr.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_040,MIDDLE_VOICE,Menn börðusk í skóginum.,Menn börðu í skóginum.,börðusk,middle_voice_removed
+ON_MIDDLE_VOICE_041,MIDDLE_VOICE,Þeir finnask ok mæla saman.,Þeir finna ok mæla saman.,finnask,middle_voice_removed
+ON_MIDDLE_VOICE_042,MIDDLE_VOICE,Eiríkr berjask ríkr maðr.,Eiríkr berja ríkr maðr.,berjask,middle_voice_removed
+ON_MIDDLE_VOICE_043,MIDDLE_VOICE,Þeir gerðusk ok fara heim.,Þeir gerðu ok fara heim.,gerðusk,middle_voice_removed
+ON_MIDDLE_VOICE_044,MIDDLE_VOICE,Sigurðr snúask ríkr maðr.,Sigurðr snúa ríkr maðr.,snúask,middle_voice_removed
+ON_MIDDLE_VOICE_045,MIDDLE_VOICE,Sigurðr gerðusk ríkr maðr.,Sigurðr gerðu ríkr maðr.,gerðusk,middle_voice_removed
+ON_MIDDLE_VOICE_046,MIDDLE_VOICE,Þeir hittask ok fara heim.,Þeir hitta ok fara heim.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_047,MIDDLE_VOICE,Eiríkr ok jarl leggjask þar.,Eiríkr ok jarl leggja þar.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_048,MIDDLE_VOICE,Menn hittust við ána.,Menn hittu við ána.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_049,MIDDLE_VOICE,Njáll ok Þórr finnask þar.,Njáll ok Þórr finna þar.,finnask,middle_voice_removed
+ON_MIDDLE_VOICE_050,MIDDLE_VOICE,Þeir berjask í bardaga.,Þeir berja í bardaga.,berjask,middle_voice_removed
+ON_MIDDLE_VOICE_051,MIDDLE_VOICE,Menn kallast við ána.,Menn kallar við ána.,kallast,middle_voice_removed
+ON_MIDDLE_VOICE_052,MIDDLE_VOICE,Menn takask ok berjask.,Menn taka ok berjask.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_053,MIDDLE_VOICE,Menn snúask í skóginum.,Menn snúa í skóginum.,snúask,middle_voice_removed
+ON_MIDDLE_VOICE_054,MIDDLE_VOICE,Óláfr finnask við Sigurðr.,Óláfr finna við Sigurðr.,finnask,middle_voice_removed
+ON_MIDDLE_VOICE_055,MIDDLE_VOICE,Þeir hittask í bardaga.,Þeir hitta í bardaga.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_056,MIDDLE_VOICE,Menn hittust í skóginum.,Menn hittu í skóginum.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_057,MIDDLE_VOICE,Menn tókusk í skóginum.,Menn tóku í skóginum.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_058,MIDDLE_VOICE,Þeir kallast um daginn.,Þeir kallar um daginn.,kallast,middle_voice_removed
+ON_MIDDLE_VOICE_059,MIDDLE_VOICE,Þeir gerask í morgin.,Þeir gera í morgin.,gerask,middle_voice_removed
+ON_MIDDLE_VOICE_060,MIDDLE_VOICE,Þeir setjask í morgin.,Þeir setja í morgin.,setjask,middle_voice_removed
+ON_MIDDLE_VOICE_061,MIDDLE_VOICE,Þeir settust í bardaga.,Þeir settu í bardaga.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_062,MIDDLE_VOICE,Víkingar kallast á hólminum.,Víkingar kallar á hólminum.,kallast,middle_voice_removed
+ON_MIDDLE_VOICE_063,MIDDLE_VOICE,Ragnarr berjask við Gunnarr.,Ragnarr berja við Gunnarr.,berjask,middle_voice_removed
+ON_MIDDLE_VOICE_064,MIDDLE_VOICE,Þeir finnst í bardaga.,Þeir finnr í bardaga.,finnst,middle_voice_removed
+ON_MIDDLE_VOICE_065,MIDDLE_VOICE,Konungar kallask í Noregi.,Konungar kalla í Noregi.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_066,MIDDLE_VOICE,Þeir finnask ok fara heim.,Þeir finna ok fara heim.,finnask,middle_voice_removed
+ON_MIDDLE_VOICE_067,MIDDLE_VOICE,Víkingar gerðusk á hólminum.,Víkingar gerðu á hólminum.,gerðusk,middle_voice_removed
+ON_MIDDLE_VOICE_068,MIDDLE_VOICE,Þórr hittask ríkr maðr.,Þórr hitta ríkr maðr.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_069,MIDDLE_VOICE,Konungar settust í Noregi.,Konungar settu í Noregi.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_070,MIDDLE_VOICE,Kormákr setjask konungr.,Kormákr setja konungr.,setjask,middle_voice_removed
+ON_MIDDLE_VOICE_071,MIDDLE_VOICE,Svartr börðusk við Óðinn.,Svartr börðu við Óðinn.,börðusk,middle_voice_removed
+ON_MIDDLE_VOICE_072,MIDDLE_VOICE,Flosi takask ríkr maðr.,Flosi taka ríkr maðr.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_073,MIDDLE_VOICE,Þeir tókusk um daginn.,Þeir tóku um daginn.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_074,MIDDLE_VOICE,Ragnarr snúask ríkr maðr.,Ragnarr snúa ríkr maðr.,snúask,middle_voice_removed
+ON_MIDDLE_VOICE_075,MIDDLE_VOICE,Ragnarr hittask konungr.,Ragnarr hitta konungr.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_076,MIDDLE_VOICE,Svartr ok jarl leggjask þar.,Svartr ok jarl leggja þar.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_077,MIDDLE_VOICE,Eiríkr kallask ríkr maðr.,Eiríkr kalla ríkr maðr.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_078,MIDDLE_VOICE,Flosi hittust við Óðinn.,Flosi hittu við Óðinn.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_079,MIDDLE_VOICE,Menn berjask við ána.,Menn berja við ána.,berjask,middle_voice_removed
+ON_MIDDLE_VOICE_080,MIDDLE_VOICE,Þeir kallast í morgin.,Þeir kallar í morgin.,kallast,middle_voice_removed
+ON_MIDDLE_VOICE_081,MIDDLE_VOICE,Þeir hittask í morgin.,Þeir hitta í morgin.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_082,MIDDLE_VOICE,Óðinn ok Svartr gerask þar.,Óðinn ok Svartr gera þar.,gerask,middle_voice_removed
+ON_MIDDLE_VOICE_083,MIDDLE_VOICE,Þeir leggjask um daginn.,Þeir leggja um daginn.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_084,MIDDLE_VOICE,Óláfr hittask ríkr maðr.,Óláfr hitta ríkr maðr.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_085,MIDDLE_VOICE,Skarpheðinn kallask ríkr maðr.,Skarpheðinn kalla ríkr maðr.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_086,MIDDLE_VOICE,Þeir settust ok fara heim.,Þeir settu ok fara heim.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_087,MIDDLE_VOICE,Þeir tókusk ok fara heim.,Þeir tóku ok fara heim.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_088,MIDDLE_VOICE,Menn settust við ána.,Menn settu við ána.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_089,MIDDLE_VOICE,Óðinn gerðusk ríkr maðr.,Óðinn gerðu ríkr maðr.,gerðusk,middle_voice_removed
+ON_MIDDLE_VOICE_090,MIDDLE_VOICE,Óðinn ok Flosi gerask þar.,Óðinn ok Flosi gera þar.,gerask,middle_voice_removed
+ON_MIDDLE_VOICE_091,MIDDLE_VOICE,Þeir hittust í morgin.,Þeir hittu í morgin.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_092,MIDDLE_VOICE,Ragnarr ok Gunnarr finnst þar.,Ragnarr ok Gunnarr finnr þar.,finnst,middle_voice_removed
+ON_MIDDLE_VOICE_093,MIDDLE_VOICE,Menn börðusk við ána.,Menn börðu við ána.,börðusk,middle_voice_removed
+ON_MIDDLE_VOICE_094,MIDDLE_VOICE,Þórr hittust ríkr maðr.,Þórr hittu ríkr maðr.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_095,MIDDLE_VOICE,Þórr ok Eiríkr gerask þar.,Þórr ok Eiríkr gera þar.,gerask,middle_voice_removed
+ON_MIDDLE_VOICE_096,MIDDLE_VOICE,Menn kallask við ána.,Menn kalla við ána.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_097,MIDDLE_VOICE,Skarpheðinn tókusk ríkr maðr.,Skarpheðinn tóku ríkr maðr.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_098,MIDDLE_VOICE,Skarpheðinn berjask konungr.,Skarpheðinn berja konungr.,berjask,middle_voice_removed
+ON_MIDDLE_VOICE_099,MIDDLE_VOICE,Baldr hittask við Haukr.,Baldr hitta við Haukr.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_100,MIDDLE_VOICE,Haukr berjask við Óðinn.,Haukr berja við Óðinn.,berjask,middle_voice_removed
+ON_MIDDLE_VOICE_101,MIDDLE_VOICE,Þeir kallask ok fara heim.,Þeir kalla ok fara heim.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_102,MIDDLE_VOICE,Svartr ok jarl kallask þar.,Svartr ok jarl kalla þar.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_103,MIDDLE_VOICE,Menn snúask ok berjask.,Menn snúa ok berjask.,snúask,middle_voice_removed
+ON_MIDDLE_VOICE_104,MIDDLE_VOICE,Menn kallask ok berjask.,Menn kalla ok berjask.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_105,MIDDLE_VOICE,Menn setjask ok berjask.,Menn setja ok berjask.,setjask,middle_voice_removed
+ON_MIDDLE_VOICE_106,MIDDLE_VOICE,Menn gerðusk ok berjask.,Menn gerðu ok berjask.,gerðusk,middle_voice_removed
+ON_MIDDLE_VOICE_107,MIDDLE_VOICE,Konungar takask í Noregi.,Konungar taka í Noregi.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_108,MIDDLE_VOICE,Skarpheðinn kallask við Sigurðr.,Skarpheðinn kalla við Sigurðr.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_109,MIDDLE_VOICE,Svartr hittask ríkr maðr.,Svartr hitta ríkr maðr.,hittask,middle_voice_removed
+ON_MIDDLE_VOICE_110,MIDDLE_VOICE,Eiríkr finnask ríkr maðr.,Eiríkr finna ríkr maðr.,finnask,middle_voice_removed
+ON_MIDDLE_VOICE_111,MIDDLE_VOICE,Ragnarr ok jarl tókusk þar.,Ragnarr ok jarl tóku þar.,tókusk,middle_voice_removed
+ON_MIDDLE_VOICE_112,MIDDLE_VOICE,Þeir takask ok fara heim.,Þeir taka ok fara heim.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_113,MIDDLE_VOICE,Kormákr ok Svartr settust þar.,Kormákr ok Svartr settu þar.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_114,MIDDLE_VOICE,Gunnarr leggjask við Sigurðr.,Gunnarr leggja við Sigurðr.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_115,MIDDLE_VOICE,Kormákr setjask ríkr maðr.,Kormákr setja ríkr maðr.,setjask,middle_voice_removed
+ON_MIDDLE_VOICE_116,MIDDLE_VOICE,Haukr ok Skarpheðinn settust þar.,Haukr ok Skarpheðinn settu þar.,settust,middle_voice_removed
+ON_MIDDLE_VOICE_117,MIDDLE_VOICE,Menn leggjask í skóginum.,Menn leggja í skóginum.,leggjask,middle_voice_removed
+ON_MIDDLE_VOICE_118,MIDDLE_VOICE,Óláfr finnst ríkr maðr.,Óláfr finnr ríkr maðr.,finnst,middle_voice_removed
+ON_MIDDLE_VOICE_119,MIDDLE_VOICE,Menn setjask í skóginum.,Menn setja í skóginum.,setjask,middle_voice_removed
+ON_MIDDLE_VOICE_120,MIDDLE_VOICE,Menn snúask við ána.,Menn snúa við ána.,snúask,middle_voice_removed
+ON_MIDDLE_VOICE_121,MIDDLE_VOICE,Óðinn ok Flosi hittust þar.,Óðinn ok Flosi hittu þar.,hittust,middle_voice_removed
+ON_MIDDLE_VOICE_122,MIDDLE_VOICE,Víkingar kallask á hólminum.,Víkingar kalla á hólminum.,kallask,middle_voice_removed
+ON_MIDDLE_VOICE_123,MIDDLE_VOICE,Þeir takask í bardaga.,Þeir taka í bardaga.,takask,middle_voice_removed
+ON_MIDDLE_VOICE_124,MIDDLE_VOICE,Sigurðr ok Óðinn berjask þar.,Sigurðr ok Óðinn berja þar.,berjask,middle_voice_removed
+ON_MIDDLE_VOICE_125,MIDDLE_VOICE,Víkingar tókusk á hólminum.,Víkingar tóku á hólminum.,tókusk,middle_voice_removed
+ON_ADJECTIVE_001,ADJECTIVE,Nú gerist Sigi gamall maðr at aldri .,Nú gerist Sigi gamli maðr at aldri .,gamall,strong_to_weak
+ON_ADJECTIVE_002,ADJECTIVE,"Hann var snemma mikill ok sterkr ok áræðisfullr um þat , er mannraun þótti í ok karlmennska .","Hann var snemma mikill ok sterki ok áræðisfullr um þat , er mannraun þótti í ok karlmennska .",sterkr,strong_to_weak
+ON_ADJECTIVE_003,ADJECTIVE,Hann var ríkr konungr ok fjölmennr .,Hann var ríki konungr ok fjölmennr .,ríkr,strong_to_weak
+ON_ADJECTIVE_004,ADJECTIVE,"`` Bregðum nú eigi af þessu , '' segir Sigmundr , `` því at þú ert ungr ok áræðisfullr .","`` Bregðum nú eigi af þessu , '' segir Sigmundr , `` því at þú ert ungi ok áræðisfullr .",ungr,strong_to_weak
+ON_ADJECTIVE_005,ADJECTIVE,"Sigmundr gerist nú ríkr konungr ok ágætr , vitr ok stórráðr .","Sigmundr gerist nú ríki konungr ok ágætr , vitr ok stórráðr .",ríkr,strong_to_weak
+ON_ADJECTIVE_006,ADJECTIVE,"Þat er sagt , at hann réðst í hernað , þá er hann var fimmtán vetra gamall .","Þat er sagt , at hann réðst í hernað , þá er hann var fimmtán vetra gamli .",gamall,strong_to_weak
+ON_ADJECTIVE_007,ADJECTIVE,Hann var ríkr konungr ok fjölmennr ok réð fyrir löndum .,Hann var ríki konungr ok fjölmennr ok réð fyrir löndum .,ríkr,strong_to_weak
+ON_ADJECTIVE_008,ADJECTIVE,"Nú þykkir Helgi hafa vaxit mikit , er hann hefir fellt svá ríkan konung .","Nú þykkir Helgi hafa vaxit mikit , er hann hefir fellt svá ríka konung .",ríkan,strong_to_weak
+ON_ADJECTIVE_009,ADJECTIVE,"Er mér þetta mikill tímadagr , ok muntu fá af þessu veg ok ágæti , er þú hefir svá ríkan konung felldan . ''","Er mér þetta mikill tímadagr , ok muntu fá af þessu veg ok ágæti , er þú hefir svá ríka konung felldan . ''",ríkan,strong_to_weak
+ON_ADJECTIVE_010,ADJECTIVE,"Eylimi hefir konungr heitit , ríkr ok ágætr .","Eylimi hefir konungr heitit , ríki ok ágætr .",ríkr,strong_to_weak
+ON_ADJECTIVE_011,ADJECTIVE,"Tekst þar nú hörð orrosta , ok þótt Sigmundr væri gamall , þá barðist hann nú hart ok var jafnan fremstr sinna manna .","Tekst þar nú hörð orrosta , ok þótt Sigmundr væri gamli , þá barðist hann nú hart ok var jafnan fremstr sinna manna .",gamall,strong_to_weak
+ON_ADJECTIVE_012,ADJECTIVE,"Hann var grár at lit ok ungr at aldri , mikill vexti ok vænn .","Hann var grár at lit ok ungi at aldri , mikill vexti ok vænn .",ungr,strong_to_weak
+ON_ADJECTIVE_013,ADJECTIVE,Gekk Sigurðr þá glaðr heim .,Gekk Sigurðr þá glaði heim .,glaðr,strong_to_weak
+ON_ADJECTIVE_014,ADJECTIVE,Sigla þeir nú góðan byr .,Sigla þeir nú góða byr .,góðan,strong_to_weak
+ON_ADJECTIVE_015,ADJECTIVE,"Ok er hann er at þessu verki , kemr at honum einn gamall maðr með síðu skeggi ok spyrr , hvat hann gerir þar .","Ok er hann er at þessu verki , kemr at honum einn gamli maðr með síðu skeggi ok spyrr , hvat hann gerir þar .",gamall,strong_to_weak
+ON_ADJECTIVE_016,ADJECTIVE,"Hann var gamall ok inn mesti hermaðr , ok hafði Óðinn honum sigri heitit , en annarr Agnarr eða Auðabróðir .","Hann var gamli ok inn mesti hermaðr , ok hafði Óðinn honum sigri heitit , en annarr Agnarr eða Auðabróðir .",gamall,strong_to_weak
+ON_ADJECTIVE_017,ADJECTIVE,"Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungr sé .","Ok trú ekki þeim , er þú hefir felldan fyrir föður eða bróður eða annan náfrænda , þótt ungi sé .",ungr,strong_to_weak
+ON_ADJECTIVE_018,ADJECTIVE,"Sigurðr svarar : `` Góðr vinr , heyr , hvat ek hugsa .","Sigurðr svarar : `` Góði vinr , heyr , hvat ek hugsa .",Góðr,strong_to_weak
+ON_ADJECTIVE_019,ADJECTIVE,"Þat dreymdi mik , at ek sá einn fagran hauk mér á hendi .","Þat dreymdi mik , at ek sá einn fagra hauk mér á hendi .",fagran,strong_to_weak
+ON_ADJECTIVE_020,ADJECTIVE,Hann er ungr ok fás vitandi ok fyrir utan alla eiða . '',Hann er ungi ok fás vitandi ok fyrir utan alla eiða . '',ungr,strong_to_weak
+ON_ADJECTIVE_021,ADJECTIVE,"Atli var mikill konungr ok ríkr , vitr ok fjölmennr ; gerir nú ráð við sína menn , hversu með skal fara .","Atli var mikill konungr ok ríki , vitr ok fjölmennr ; gerir nú ráð við sína menn , hversu með skal fara .",ríkr,strong_to_weak
+ON_ADJECTIVE_022,ADJECTIVE,Sonr Högna mælti : `` Farið vel ok hafið góðan tíma . '',Sonr Högna mælti : `` Farið vel ok hafið góða tíma . '',góðan,strong_to_weak
+ON_ADJECTIVE_023,ADJECTIVE,Hann var ríkr konungr í þann tíma .,Hann var ríki konungr í þann tíma .,ríkr,strong_to_weak
+ON_ADJECTIVE_024,ADJECTIVE,"Þá mælti Bikki til Randvés : `` Sannligt væri þat , at þér ættið svá fríða konu , en eigi svá gamall maðr . ''","Þá mælti Bikki til Randvés : `` Sannligt væri þat , at þér ættið svá fríða konu , en eigi svá gamli maðr . ''",gamall,strong_to_weak
+ON_ADJECTIVE_025,ADJECTIVE,Hann tekr góðan brand.,Hann tekr góða brand.,góðan,strong_to_weak
+ON_ADJECTIVE_026,ADJECTIVE,Konungr á reiðan baug.,Konungr á reiða baug.,reiðan,strong_to_weak
+ON_ADJECTIVE_027,ADJECTIVE,Þar er fagr skógr.,Þar er fagri skógr.,fagr,strong_to_weak
+ON_ADJECTIVE_028,ADJECTIVE,Hann var illr mjök.,Hann var illi mjök.,illr,strong_to_weak
+ON_ADJECTIVE_029,ADJECTIVE,Konungr á ríkan baug.,Konungr á ríka baug.,ríkan,strong_to_weak
+ON_ADJECTIVE_030,ADJECTIVE,Hann var ríkr mjök.,Hann var ríki mjök.,ríkr,strong_to_weak
+ON_ADJECTIVE_031,ADJECTIVE,Þeir fœra ríkan mat.,Þeir fœra ríka mat.,ríkan,strong_to_weak
+ON_ADJECTIVE_032,ADJECTIVE,Sigurðr hefir harðan hjálm.,Sigurðr hefir harða hjálm.,harðan,strong_to_weak
+ON_ADJECTIVE_033,ADJECTIVE,Hann á gamlan hest.,Hann á gamla hest.,gamlan,strong_to_weak
+ON_ADJECTIVE_034,ADJECTIVE,Þórr vegr ungan úlf.,Þórr vegr unga úlf.,ungan,strong_to_weak
+ON_ADJECTIVE_035,ADJECTIVE,Hann kaupir ríkan hest.,Hann kaupir ríka hest.,ríkan,strong_to_weak
+ON_ADJECTIVE_036,ADJECTIVE,Hann tekr sterkan brand.,Hann tekr sterka brand.,sterkan,strong_to_weak
+ON_ADJECTIVE_037,ADJECTIVE,Konungr á illan baug.,Konungr á illa baug.,illan,strong_to_weak
+ON_ADJECTIVE_038,ADJECTIVE,Konungr á fagran baug.,Konungr á fagra baug.,fagran,strong_to_weak
+ON_ADJECTIVE_039,ADJECTIVE,Hann á spakan hest.,Hann á spaka hest.,spakan,strong_to_weak
+ON_ADJECTIVE_040,ADJECTIVE,Þeir finna stóran konung.,Þeir finna stóra konung.,stóran,strong_to_weak
+ON_ADJECTIVE_041,ADJECTIVE,Svartr var spakr ok ríkr.,Svartr var spaki ok ríkr.,spakr,strong_to_weak
+ON_ADJECTIVE_042,ADJECTIVE,Konungr á spakan baug.,Konungr á spaka baug.,spakan,strong_to_weak
+ON_ADJECTIVE_043,ADJECTIVE,Þar er spakr skógr.,Þar er spaki skógr.,spakr,strong_to_weak
+ON_ADJECTIVE_044,ADJECTIVE,Þeir finna reiðan konung.,Þeir finna reiða konung.,reiðan,strong_to_weak
+ON_ADJECTIVE_045,ADJECTIVE,Konungr á ungan baug.,Konungr á unga baug.,ungan,strong_to_weak
+ON_ADJECTIVE_046,ADJECTIVE,Ragnarr sér sterkan mann.,Ragnarr sér sterka mann.,sterkan,strong_to_weak
+ON_ADJECTIVE_047,ADJECTIVE,Þeir sjá reiðan orm.,Þeir sjá reiða orm.,reiðan,strong_to_weak
+ON_ADJECTIVE_048,ADJECTIVE,Gunnarr hefir gamlan hjálm.,Gunnarr hefir gamla hjálm.,gamlan,strong_to_weak
+ON_ADJECTIVE_049,ADJECTIVE,Hann á stóran hest.,Hann á stóra hest.,stóran,strong_to_weak
+ON_ADJECTIVE_050,ADJECTIVE,ungr maðr heitir Baldr.,ungi maðr heitir Baldr.,ungr,strong_to_weak
+ON_ADJECTIVE_051,ADJECTIVE,fagr víkingr kemr þar.,fagri víkingr kemr þar.,fagr,strong_to_weak
+ON_ADJECTIVE_052,ADJECTIVE,Óláfr hefir reiðan hjálm.,Óláfr hefir reiða hjálm.,reiðan,strong_to_weak
+ON_ADJECTIVE_053,ADJECTIVE,Haukr sér sterkan mann.,Haukr sér sterka mann.,sterkan,strong_to_weak
+ON_ADJECTIVE_054,ADJECTIVE,Þar býr illr jarl.,Þar býr illi jarl.,illr,strong_to_weak
+ON_ADJECTIVE_055,ADJECTIVE,Hann er víss konungr.,Hann er vísi konungr.,víss,strong_to_weak
+ON_ADJECTIVE_056,ADJECTIVE,ungr maðr heitir Kormákr.,ungi maðr heitir Kormákr.,ungr,strong_to_weak
+ON_ADJECTIVE_057,ADJECTIVE,Haukr er glaðr maðr.,Haukr er glaði maðr.,glaðr,strong_to_weak
+ON_ADJECTIVE_058,ADJECTIVE,Hann var fagr mjök.,Hann var fagri mjök.,fagr,strong_to_weak
+ON_ADJECTIVE_059,ADJECTIVE,Hann á illan hest.,Hann á illa hest.,illan,strong_to_weak
+ON_ADJECTIVE_060,ADJECTIVE,Þeir fœra góðan mat.,Þeir fœra góða mat.,góðan,strong_to_weak
+ON_ADJECTIVE_061,ADJECTIVE,Þar býr víss jarl.,Þar býr vísi jarl.,víss,strong_to_weak
+ON_ADJECTIVE_062,ADJECTIVE,Þeir fœra vísan mat.,Þeir fœra vísa mat.,vísan,strong_to_weak
+ON_ADJECTIVE_063,ADJECTIVE,Þar býr fagr jarl.,Þar býr fagri jarl.,fagr,strong_to_weak
+ON_ADJECTIVE_064,ADJECTIVE,Þar býr spakr jarl.,Þar býr spaki jarl.,spakr,strong_to_weak
+ON_ADJECTIVE_065,ADJECTIVE,ríkr víkingr kemr þar.,ríki víkingr kemr þar.,ríkr,strong_to_weak
+ON_ADJECTIVE_066,ADJECTIVE,langr maðr heitir Baldr.,langi maðr heitir Baldr.,langr,strong_to_weak
+ON_ADJECTIVE_067,ADJECTIVE,Eiríkr hefir spakan hjálm.,Eiríkr hefir spaka hjálm.,spakan,strong_to_weak
+ON_ADJECTIVE_068,ADJECTIVE,Hann var ungr mjök.,Hann var ungi mjök.,ungr,strong_to_weak
+ON_ADJECTIVE_069,ADJECTIVE,Kormákr sér vísan mann.,Kormákr sér vísa mann.,vísan,strong_to_weak
+ON_ADJECTIVE_070,ADJECTIVE,Óláfr er glaðr ok sterkr.,Óláfr er glaði ok sterkr.,glaðr,strong_to_weak
+ON_ADJECTIVE_071,ADJECTIVE,Þórr er reiðr ok sterkr.,Þórr er reiði ok sterkr.,reiðr,strong_to_weak
+ON_ADJECTIVE_072,ADJECTIVE,Baldr er gamall maðr.,Baldr er gamli maðr.,gamall,strong_to_weak
+ON_ADJECTIVE_073,ADJECTIVE,Hann tekr spakan brand.,Hann tekr spaka brand.,spakan,strong_to_weak
+ON_ADJECTIVE_074,ADJECTIVE,Hann á ríkan hest.,Hann á ríka hest.,ríkan,strong_to_weak
+ON_ADJECTIVE_075,ADJECTIVE,Ragnarr sér spakan mann.,Ragnarr sér spaka mann.,spakan,strong_to_weak
+ON_ADJECTIVE_076,ADJECTIVE,Óðinn var ríkr ok ríkr.,Óðinn var ríki ok ríkr.,ríkr,strong_to_weak
+ON_ADJECTIVE_077,ADJECTIVE,Þeir fœra reiðan mat.,Þeir fœra reiða mat.,reiðan,strong_to_weak
+ON_ADJECTIVE_078,ADJECTIVE,Hann á reiðan hest.,Hann á reiða hest.,reiðan,strong_to_weak
+ON_ADJECTIVE_079,ADJECTIVE,Hann var frœkn mjök.,Hann var frœkni mjök.,frœkn,strong_to_weak
+ON_ADJECTIVE_080,ADJECTIVE,Þar býr glaðr jarl.,Þar býr glaði jarl.,glaðr,strong_to_weak
+ON_ADJECTIVE_081,ADJECTIVE,Hann var glaðr mjök.,Hann var glaði mjök.,glaðr,strong_to_weak
+ON_ADJECTIVE_082,ADJECTIVE,Hann tekr glaðan brand.,Hann tekr glaða brand.,glaðan,strong_to_weak
+ON_ADJECTIVE_083,ADJECTIVE,Hann kaupir ungan hest.,Hann kaupir unga hest.,ungan,strong_to_weak
+ON_ADJECTIVE_084,ADJECTIVE,Hann er stórr konungr.,Hann er stóri konungr.,stórr,strong_to_weak
+ON_ADJECTIVE_085,ADJECTIVE,Svartr er sterkr ok sterkr.,Svartr er sterki ok sterkr.,sterkr,strong_to_weak
+ON_ADJECTIVE_086,ADJECTIVE,Hann er sterkr konungr.,Hann er sterki konungr.,sterkr,strong_to_weak
+ON_ADJECTIVE_087,ADJECTIVE,Haukr vegr langan úlf.,Haukr vegr langa úlf.,langan,strong_to_weak
+ON_ADJECTIVE_088,ADJECTIVE,Svartr hefir reiðan hjálm.,Svartr hefir reiða hjálm.,reiðan,strong_to_weak
+ON_ADJECTIVE_089,ADJECTIVE,Svartr vegr langan úlf.,Svartr vegr langa úlf.,langan,strong_to_weak
+ON_ADJECTIVE_090,ADJECTIVE,Óðinn sér stóran mann.,Óðinn sér stóra mann.,stóran,strong_to_weak
+ON_ADJECTIVE_091,ADJECTIVE,Hann á góðan hest.,Hann á góða hest.,góðan,strong_to_weak
+ON_ADJECTIVE_092,ADJECTIVE,Svartr sér glaðan mann.,Svartr sér glaða mann.,glaðan,strong_to_weak
+ON_ADJECTIVE_093,ADJECTIVE,Þar er gamall skógr.,Þar er gamli skógr.,gamall,strong_to_weak
+ON_ADJECTIVE_094,ADJECTIVE,Gunnarr er góðr maðr.,Gunnarr er góði maðr.,góðr,strong_to_weak
+ON_ADJECTIVE_095,ADJECTIVE,Skarpheðinn sér reiðan mann.,Skarpheðinn sér reiða mann.,reiðan,strong_to_weak
+ON_ADJECTIVE_096,ADJECTIVE,Hann var stórr mjök.,Hann var stóri mjök.,stórr,strong_to_weak
+ON_ADJECTIVE_097,ADJECTIVE,gamall víkingr kemr þar.,gamli víkingr kemr þar.,gamall,strong_to_weak
+ON_ADJECTIVE_098,ADJECTIVE,Hann kaupir illan hest.,Hann kaupir illa hest.,illan,strong_to_weak
+ON_ADJECTIVE_099,ADJECTIVE,Hann er ríkr konungr.,Hann er ríki konungr.,ríkr,strong_to_weak
+ON_ADJECTIVE_100,ADJECTIVE,Þar er góðr skógr.,Þar er góði skógr.,góðr,strong_to_weak
+ON_ADJECTIVE_101,ADJECTIVE,Flosi hefir ríkan hjálm.,Flosi hefir ríka hjálm.,ríkan,strong_to_weak
+ON_ADJECTIVE_102,ADJECTIVE,ungr maðr heitir Þórr.,ungi maðr heitir Þórr.,ungr,strong_to_weak
+ON_ADJECTIVE_103,ADJECTIVE,Sá er víss maðr.,Sá er vísi maðr.,víss,strong_to_weak
+ON_ADJECTIVE_104,ADJECTIVE,Svartr sér stóran mann.,Svartr sér stóra mann.,stóran,strong_to_weak
+ON_ADJECTIVE_105,ADJECTIVE,Hann er ungr konungr.,Hann er ungi konungr.,ungr,strong_to_weak
+ON_ADJECTIVE_106,ADJECTIVE,Sigurðr var víss ok ríkr.,Sigurðr var vísi ok ríkr.,víss,strong_to_weak
+ON_ADJECTIVE_107,ADJECTIVE,Sigurðr var spakr ok ríkr.,Sigurðr var spaki ok ríkr.,spakr,strong_to_weak
+ON_ADJECTIVE_108,ADJECTIVE,Kormákr vegr góðan úlf.,Kormákr vegr góða úlf.,góðan,strong_to_weak
+ON_ADJECTIVE_109,ADJECTIVE,Gunnarr hefir vísan hjálm.,Gunnarr hefir vísa hjálm.,vísan,strong_to_weak
+ON_ADJECTIVE_110,ADJECTIVE,Þar er stórr skógr.,Þar er stóri skógr.,stórr,strong_to_weak
+ON_ADJECTIVE_111,ADJECTIVE,Skarpheðinn vegr spakan úlf.,Skarpheðinn vegr spaka úlf.,spakan,strong_to_weak
+ON_ADJECTIVE_112,ADJECTIVE,Þar býr frœkn jarl.,Þar býr frœkni jarl.,frœkn,strong_to_weak
+ON_ADJECTIVE_113,ADJECTIVE,Þeir finna vísan konung.,Þeir finna vísa konung.,vísan,strong_to_weak
+ON_ADJECTIVE_114,ADJECTIVE,Þeir sjá ríkan orm.,Þeir sjá ríka orm.,ríkan,strong_to_weak
+ON_ADJECTIVE_115,ADJECTIVE,Hann er glaðr konungr.,Hann er glaði konungr.,glaðr,strong_to_weak
+ON_ADJECTIVE_116,ADJECTIVE,Þar er langr skógr.,Þar er langi skógr.,langr,strong_to_weak
+ON_ADJECTIVE_117,ADJECTIVE,Eiríkr vegr stóran úlf.,Eiríkr vegr stóra úlf.,stóran,strong_to_weak
+ON_ADJECTIVE_118,ADJECTIVE,Sá er reiðr maðr.,Sá er reiði maðr.,reiðr,strong_to_weak
+ON_ADJECTIVE_119,ADJECTIVE,Hann kaupir harðan hest.,Hann kaupir harða hest.,harðan,strong_to_weak
+ON_ADJECTIVE_120,ADJECTIVE,Óláfr er góðr ok sterkr.,Óláfr er góði ok sterkr.,góðr,strong_to_weak
+ON_ADJECTIVE_121,ADJECTIVE,Sigurðr hefir fagran hjálm.,Sigurðr hefir fagra hjálm.,fagran,strong_to_weak
+ON_ADJECTIVE_122,ADJECTIVE,ríkr maðr heitir Haukr.,ríki maðr heitir Haukr.,ríkr,strong_to_weak
+ON_ADJECTIVE_123,ADJECTIVE,víss maðr heitir Baldr.,vísi maðr heitir Baldr.,víss,strong_to_weak
+ON_ADJECTIVE_124,ADJECTIVE,spakr víkingr kemr þar.,spaki víkingr kemr þar.,spakr,strong_to_weak
+ON_ADJECTIVE_125,ADJECTIVE,Baldr var reiðr ok ríkr.,Baldr var reiði ok ríkr.,reiðr,strong_to_weak

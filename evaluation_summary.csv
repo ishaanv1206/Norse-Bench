@@ -1,0 +1,5 @@
+﻿model,ADJECTIVE,MIDDLE_VOICE,QUIRKY_CASE,UMLAUT
+llama-3.1-8b-instant,0.688,0.472,0.664,0.624
+llama-3.3-70b-versatile,0.776,0.856,0.832,0.68
+openai/gpt-oss-120b,0.848,0.48,0.824,0.832
+openai/gpt-oss-20b,0.8,0.368,0.68,0.464
